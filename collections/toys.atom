@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/toys.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-08-18T16:05:20-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/8855260549</id>
+    <published>2017-08-18T16:05:20-04:00</published>
+    <updated>2017-08-18T16:05:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-ass-wipe"/>
+    <title>S.U.C.K.L.E. - ASS WIPE</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_asswipe_store.jpg?v=1503083285" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>S.U.C.K.L.E. [Simply Unimportant Collectable Kitchy Little Eyesores]</p>
+<p>ASS WIPE </p>
+<p>"The most degenerate and despised characters from the SUCKADELIC UNIVERSE are rendered again in this lame form. Once considered great Pop Art by an up-and-comming master, THE SUPER SUCKLORD, these characters have gone from limited-edition, hand-produced Art-Objects to these tacky, mass-produced crap items. Guided by greed and a sense of diminishing returns, the "Artist" eagerly sells out and turns from high-ideals to shilling low -ticket consumer items to cheapskate idiots. COLLECT THEM ALL, JERKOFF!"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855260549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8855180101</id>
+    <published>2017-08-18T16:05:20-04:00</published>
+    <updated>2017-08-18T16:05:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-fly-and-ruthless"/>
+    <title>S.U.C.K.L.E. - FLY AND RUTHLESS</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_flyandruthless_store.jpg?v=1503082083" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S.U.C.K.L.E. [Sorry Unfulfilled Collectors Keep Losing Everything]</p>
+<p>FLY AND RUTHLESS ~ MARY PAPER$ H.B.I.C. ~</p>
+<p>HomeWorld: Hoodrich PJs</p>
+<p>Age: Lookin Fly</p>
+<p>Height: Lil Shorty </p>
+<p>Weapon of Choice: Cuttin Bitches</p>
+<p>Sun Sign: Aries </p>
+<p>"Notorious for her flashy ways and Scandalous lifestyle, this fast talking hustler is ruthless in her pursuit of money, status, and fame. Beautiful but evil, MARY PAPER$ rolls deep with her snobbly lush crew on some 24-7 Party and Bullshit. Wanna bes and haters watch from the sides and plan revenge. MP$ is all about the paperchase as she schemes to take over the whole SUPERVILLAIN racket as first HEAD BITCH IN CHARGE. Her Capital weakness is MEN and she is easily gassed by gaudy displays of power and wealth. She is dazzled by material objects and will go to extreme lengths to satisfy her outrageously expensive and exotic tastes. She has many enemies and imitators. You don't wanna fuck with her! She may be small, but if you cross her you might find yourself cut the fuck up. What!?"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855180101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8855129477</id>
+    <published>2017-08-18T16:05:20-04:00</published>
+    <updated>2017-08-18T16:05:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-galactic-jerkbags"/>
+    <title>S.U.C.K.L.E. - GALACTIC JERKBAGS</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_GalacticJerkBags_Store.jpg?v=1503081404" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>S.U.C.K.L.E. [Simply Unimportant Collectable Kitchy Little Eyesores]</p>
+<p>GALACTIC JERKBAGS</p>
+<p>"The most degenerate and despised characters from the SUCKADELIC UNIVERSE are rendered again in this lame form. Once considered great Pop Art by an up-and-comming master, THE SUPER SUCKLORD, these characters have gone from limited-edition, hand-produced Art-Objects to these tacky, mass-produced crap items. Guided by greed and a sense of diminishing returns, the "Artist" eagerly sells out and turns from high-ideals to shilling low -ticket consumer items to cheapskate idiots. COLLECT THEM ALL, JERKOFF!"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855129477</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8854922821</id>
+    <published>2017-08-18T16:05:19-04:00</published>
+    <updated>2017-08-18T16:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-bionic-carrot"/>
+    <title>S.U.C.K.L.E. - Bionic Carrot</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_Bioniccarrot_Store.jpg?v=1503079014" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S.U.C.K.L.E. [Sorry Unfulfilled Collectors Keep Losing Everything]</p>
+<p>Bionic Carrot - The Six Dollar Produce Man</p>
+<p>"Some guy accidentally dropped a carrot on the floor at the A+P. No one saw it down there and it turned a little brown. It was fucked, but the clever Produce man busted open an old calculator and made it into the BIONIC CARROT. That it made it more caroty somehow, and with more Vitamins...."</p>
+<p>AGES 42 AND UP</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8854922821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8855069445</id>
+    <published>2017-08-18T16:05:19-04:00</published>
+    <updated>2017-08-18T16:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-steve"/>
+    <title>S.U.C.K.L.E. - STEVE</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_steve_store.jpg?v=1503081040" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S.U.C.K.L.E. [Sorry Unfulfilled Collectors Keep Losing Everything]</p>
+<p>SUPERVILLAINS : Star Chumps ~ S T E V E ~</p>
+<p>HomeWorld: Mom's House </p>
+<p>Height: Average</p>
+<p>Age: 39</p>
+<p>Weapon of Choice: Talking too much shit</p>
+<p>Sun Sign: Aquarius </p>
+<p>"This guy is even worse than the Goddam GALACTIC JERK-BAG. At least with that guy you knew what you were getting. This Stellar Douche Bag appears capable and reliable, but look out! He is a full-on bullshit artist who is lazy, flaky, and passive- aggressive. Like you will have this big scheme going and he will have an important part of it. Just when it is coming together he will suddenly start questioning things and undermining the whole project. He will contradict what he said before, take forever to get anything done, and then get all insecure. You are really better off just doing it yourself..."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855069445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8855021573</id>
+    <published>2017-08-18T16:05:19-04:00</published>
+    <updated>2017-08-18T16:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-sucklord-61"/>
+    <title>S.U.C.K.L.E. - SUCKLORD 61</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_sucklord61_store.jpg?v=1503080490" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S.U.C.K.L.E. [Sorry Unfulfilled Collectors Keep Losing Everything]</p>
+<p>SUPERVILLAINS : SUCKLORD61</p>
+<p>HomeWorld: herotown</p>
+<p>Age: eternal youth </p>
+<p>Height: 6'2"</p>
+<p>Weapon of Choice: understanding </p>
+<p>Sun Sign: aries </p>
+<p>"Who is this brave warrior flying thru the heavens, putting self-interest aside and serving the common good? it's the SUCKLORD 61! Who? This can't be the SUCKLORD we know and fear, can it? What's wrong with him? Why is he helping people? Did he take too many drugs? Did he get hit on the head? What happened to all that fly VILLAINY we've come to expect? And why did the number go down? Is this some past version of the SUCKLORD before he turned to evil? I thought he was born that way. Who is this corny do-godder? This isn't what I signed up for. What? What's that you say? It's a mistake ? You were just kidding? *PHEW* You really had me worried there for a second...."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855021573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8855112517</id>
+    <published>2017-08-18T16:05:19-04:00</published>
+    <updated>2017-08-18T16:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-the-necromancer"/>
+    <title>S.U.C.K.L.E. - THE NECROMANCER</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_necromancer_store.jpg?v=1503081254" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>S.U.C.K.L.E. [Simply Unimportant Collectable Kitchy Little Eyesores]</p>
+<p>THE NECROMANCER</p>
+<p>"The most degenerate and despised characters from the SUCKADELIC UNIVERSE are rendered again in this lame form. Once considered great Pop Art by an up-and-comming master, THE SUPER SUCKLORD, these characters have gone from limited-edition, hand-produced Art-Objects to these tacky, mass-produced crap items. Guided by greed and a sense of diminishing returns, the "Artist" eagerly sells out and turns from high-ideals to shilling low -ticket consumer items to cheapskate idiots. COLLECT THEM ALL, JERKOFF!"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855112517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8854969349</id>
+    <published>2017-08-18T16:05:19-04:00</published>
+    <updated>2017-08-18T16:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-vectar"/>
+    <title>S.U.C.K.L.E. - VECTAR</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_toylords_store.jpg?v=1503079887" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S.U.C.K.L.E. [Simply Unimportant Collectable Kitchy Little Eyesores]</p>
+<p>Toy Lords of Chinatown - VECTAR the Intolerable </p>
+<p>"The most degenerate and despised characters from the SUCKADELIC UNIVERSE are rendered again in this lame form. Once considered great Pop Art by an up-and-comming master, THE SUPER SUCKLORD, these characters have gone from limited-edition, hand-produced Art-Objects to these tacky, mass-produced crap items. Guided by greed and a sense of diminishing returns, the "Artist" eagerly sells out and turns from high-ideals to shilling low -ticket consumer items to cheapskate idiots. COLLECT THEM ALL, JERKOFF!"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8854969349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8855247365</id>
+    <published>2017-08-18T15:14:45-04:00</published>
+    <updated>2017-08-18T15:14:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-chronos"/>
+    <title>S.U.C.K.L.E. - CHRONOS</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sucklord_Chronos_store.jpg?v=1503083115" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S.U.C.K.L.E. [Sorry Unfulfilled Collectors Keep Losing Everything]</p>
+<p>SUPERVILLAINS : CHRONOS ~Time Wasters of Infinity~</p>
+<p>HomeWorld: Up in your Business</p>
+<p>Age: Y E S </p>
+<p>Height: N/A</p>
+<p>Weapon of choice: Delayed Flights </p>
+<p>Sun Sign: None </p>
+<p>"The inevitability of death. The slow ticking of years. Like sand thru the hourglass, these are the days of our lives. Yes my friends, no Villain need be, Time is the enemy. This guy, however, doesn't work on that big-picture, epic, life-spanning level. He wishes he were that heavy. Nah this guy fucks you up on some petty, day-to-day  shit. Missed your Subway by 15 seconds? He did that. Did your computer crash before you saved and you had to re-do an hour of work? That's him. Did you double-book clients and they were both late? Say Hello to this fucking guy. A master of dumb mistakes, bad timing, and chronic lateness, CHRONOS is hated by all Villains under the sun. Untouchable, unbeatable, and totally irrational, this immortal fuck face will suck away your life force second by second, turning your hard-won optimism to despair and frustration. Striking at random and without warning, he will tax you every day that you live. There is no balm or protection against his constant, unrelenting attack. Just accept it and keep learning new curse words. You are gonna need them..."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collectable items</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>SUCKLORD</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8855247365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6841223877</id>
+    <published>2016-12-06T15:58:00-05:00</published>
+    <updated>2016-12-06T15:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/s-u-c-k-l-e-figurine"/>
+    <title>S.U.C.K.L.E. Figurine</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/fuck1.jpg?v=1481059565" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The most degenerate and despised characters from the SUCKADELIC UNIVERSE are rendered again in this lame form. Once considered great Pop Art by an up-and-coming master, THE SUPER SUCKLORD, these characters have gone from limited-edition, hand-produced Art-Objects to these tacky, mass-produced crap items. Guided by greed and sense of diminishing returns, the "Artist" eagerly sells out and turns from high-ideals to shilling low-ticket consumer items to cheapskate idiots.<br><br>Character designs and colors will vary. Buy a whole box worth!<br><br>"Hey, Stupid! Buy these!" <br>"You're an asshole for buying this"</p>
+<p>- Sucklord</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6841223877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

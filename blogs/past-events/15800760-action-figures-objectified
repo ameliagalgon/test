@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Action Figures: Objectified</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/past-events.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"a3e71c89-d275-491a-adf3-107ecf8108fd","pageurl":"conartistnyc.com\/blogs\/past-events\/15800760-action-figures-objectified","s":"articles-15800760","u":"6622d7514544","p":"article","rtyp":"article","rid":15800760};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"article","resourceType":"article","resourceId":15800760}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"article","resourceType":"article","resourceId":15800760}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "all5dXlaaE94ZDUvQStScWFNdHk4aHNyL3RJNGo2dzF2S1duV2h1WDB3bVBkVklHbkpLOXozbVgyOW8vMlhoNi0tUkIwdHhGODk1eXdZcSs1QXRjNEl5UT09--d9879c0f5439545dae1e39d80468fae48e03e81d";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/past-events/15800760-action-figures-objectified">
+</head>
+<body id="page-article">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+    <h2>Action Figures: Objectified</h2>
+    <div class="post-content ">
+        <div><iframe src="//player.vimeo.com/video/113131497?color=cdcdcd" width="700" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+<br> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3944/15563921987_e8801df7fa_o.jpg"><img src="https://farm4.staticflickr.com/3944/15563921987_4de9b099aa_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7539/15879225710_a072e4be69_o.jpg"><img src="https://farm8.staticflickr.com/7539/15879225710_5b7d65d4d1_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7534/16066512125_e803622c14_o.jpg"><img src="https://farm8.staticflickr.com/7534/16066512125_595eb6667f_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7503/15446844913_b73c894af9_o.jpg"><img src="https://farm8.staticflickr.com/7503/15446844913_fc1fc44202_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7532/15879225630_7ee5d31dbc_o.jpg"><img src="https://farm8.staticflickr.com/7532/15879225630_de9e9720ca_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7478/16040723426_0387661565_o.jpg"><img src="https://farm8.staticflickr.com/7478/16040723426_d6bd47c8ac_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7581/15879224540_04e587467b_o.jpg"><img src="https://farm8.staticflickr.com/7581/15879224540_f9ff3a180a_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8655/15879073628_2f8a33dce3_o.jpg"><img src="https://farm9.staticflickr.com/8655/15879073628_732f6cf976_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7512/15880742307_5e758bc46d_o.jpg"><img src="https://farm8.staticflickr.com/7512/15880742307_5aef807d43_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7531/16065811642_16ca43e67a_o.jpg"><img src="https://farm8.staticflickr.com/7531/16065811642_e3dc84f71f_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7514/15444208294_30f398890c_o.jpg"><img src="https://farm8.staticflickr.com/7514/15444208294_347b1786e9_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7572/15879073428_68253ef6bd_o.jpg"><img src="https://farm8.staticflickr.com/7572/15879073428_e633177a5c_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8629/15879225090_b36148661f_o.jpg"><img src="https://farm9.staticflickr.com/8629/15879225090_94e0e18d4e_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8654/16066511905_e3ca6ce793_o.jpg"><img src="https://farm9.staticflickr.com/8654/16066511905_40160eb770_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8587/15444207934_d54559cbc0_o.jpg"><img src="https://farm9.staticflickr.com/8587/15444207934_2937de26e1_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7528/15446844243_503e7ce380_o.jpg"><img src="https://farm8.staticflickr.com/7528/15446844243_81ae8980d2_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8571/16064576191_d5d1be569b_o.jpg"><img src="https://farm9.staticflickr.com/8571/16064576191_5f8e20d0c4_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7511/16064576071_51cd20cfb6_o.jpg"><img src="https://farm8.staticflickr.com/7511/16064576071_a925d4737a_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7532/15444207624_728b5cddc2_o.jpg"><img src="https://farm8.staticflickr.com/7532/15444207624_4c2d095d15_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8599/16040722506_998dc52d0a_o.jpg"><img src="https://farm9.staticflickr.com/8599/16040722506_5574e61887_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7533/15446843993_940e325d1c_o.jpg"><img src="https://farm8.staticflickr.com/7533/15446843993_29041d7df0_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7555/15879224330_037a4ba563_o.jpg"><img src="https://farm8.staticflickr.com/7555/15879224330_bfdf160697_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8567/15879224310_126bbf5f2d_o.jpg"><img src="https://farm9.staticflickr.com/8567/15879224310_f601cddf04_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8637/15879072598_94ab47de30_o.jpg"><img src="https://farm9.staticflickr.com/8637/15879072598_2832f58a79_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7579/16064575571_748bc2b02b_o.jpg"><img src="https://farm8.staticflickr.com/7579/16064575571_4951d0f9a0_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7575/16066511925_8d50dc766c_o.jpg"><img src="https://farm8.staticflickr.com/7575/16066511925_e62355a5e3_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7571/15880428099_b259f323d3_o.jpg"><img src="https://farm8.staticflickr.com/7571/15880428099_1de27e2ba6_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8610/15446843763_aa1165ed12_o.jpg"><img src="https://farm9.staticflickr.com/8610/15446843763_25355b3b86_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8580/16040722096_852b10d596_o.jpg"><img src="https://farm9.staticflickr.com/8580/16040722096_4c7887e9d8_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7534/15879223860_bbf85a6cae_o.jpg"><img src="https://farm8.staticflickr.com/7534/15879223860_6b20f80604_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8608/15880741987_0e07867808_o.jpg"><img src="https://farm9.staticflickr.com/8608/15880741987_6777d5f9f4_s.jpg"></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p><br> “Action Figures: Objectified” showcases a special niche of artists who create sculptures inspired by the toy industry. These artists blend pop culture kingpins, ‘80s cartoon superheroes, low budget anime, and happy meal freebies into unique, ultra-cool handmade sculptural objects. Often these sculptures are cast and packaged to reference the toys you loved as a kid in a totally new context.<br> <br>Con Artist will host an invite-only VIP on Wednesday, November 26th that permits an early viewing of the artwork. We will be closed for the Thanksgiving holiday and re-opening for the official Black Friday Opening Party with all these awesome, toy-inspired pieces, and perhaps a great opportunity to find unique holiday gifts.<br> <br> “Action Figures: Objectified” features work by <a href="http://suckadelic.com/" target="_blank">SUCKADELIC</a>, <a href="http://wizardskull.com/" target="_blank">Wizard Skull</a>, <a href="http://www.scumlife.com/" target="_blank">Tone Tank</a>, <a href="http://www.toyasobject.com/" target="_blank">Sean Gallagher</a>, <a href="http://healeymade.com/home.html" target="_blank">HEALEYMADE</a>, <a href="http://deanmillien.com/" target="_blank">Dean Millien</a> and <a href="http://resintrashdistro.bigcartel.com/" target="_blank">Weird Luke</a>.<br><br> <a href="http://bedfordandbowery.com/2014/11/these-hacked-action-figures-make-for-suckadelic-stocking-stuffers/">Interview with Suckadelic and Weird Luke Bedford and Bowery</a><br> <br> Gallery Open Monday - Saturday 11am to 7pm (or later)<br> Dates: November 26th - December 6th</p>
+    </div><!-- .post-content  -->
+    <div class = "return"><a href="/blogs/past-events">&lsaquo; Go back to the blog</a></div>
+</div><!-- blog-content -->
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

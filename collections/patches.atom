@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/patches.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-07-05T15:22:04-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/8397132933</id>
+    <published>2017-07-05T15:22:04-04:00</published>
+    <updated>2017-07-05T15:22:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/homer-by-wizard-skull"/>
+    <title>&quot;Homer&quot; by Wizard Skull</title>
+    <s:type>Patch</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Wizard_Skull.jpg?v=1499282469" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Patch<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Homer donut patch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>donut</s:tag>
+    <s:tag>homer</s:tag>
+    <s:tag>Patch</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8397132933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8397168901</id>
+    <published>2017-07-05T15:10:51-04:00</published>
+    <updated>2017-07-05T15:10:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/alien-lover-by-wizard-skull"/>
+    <title>&quot;Alien Lover&quot; by Wizard Skull</title>
+    <s:type>Patch</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/wizardskull_2.jpg?v=1499282047" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Patch<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Alien lover patch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>Alien Lover</s:tag>
+    <s:tag>aliens</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Patch</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8397168901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6841316741</id>
+    <published>2017-07-05T13:52:37-04:00</published>
+    <updated>2017-07-05T13:52:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/kiss-me-kanye-by-wizard-skull"/>
+    <title>&quot;Kiss me Kanye&quot; by Wizard Skull</title>
+    <s:type>Patch</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/KissmeKanye.jpg?v=1481064720" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Patch<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Kiss Me, I'm Kanye Patch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butt</s:tag>
+    <s:tag>embroidered</s:tag>
+    <s:tag>embroidery</s:tag>
+    <s:tag>Kanye</s:tag>
+    <s:tag>kanyeeeeeeeeeeeeeeeeeeeet</s:tag>
+    <s:tag>kiss me</s:tag>
+    <s:tag>Patch</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6841316741</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6841431045</id>
+    <published>2017-07-05T13:52:27-04:00</published>
+    <updated>2017-07-05T13:52:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/eazy-e-by-wizard-skull"/>
+    <title>&quot;Eazy E&quot; by Wizard Skull</title>
+    <s:type>Patch</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/EazyE.jpg?v=1481066379" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Patch<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eazy E Patch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat</s:tag>
+    <s:tag>cat lovers</s:tag>
+    <s:tag>con artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>embroidered patch</s:tag>
+    <s:tag>embroidery</s:tag>
+    <s:tag>gangsta</s:tag>
+    <s:tag>gangster</s:tag>
+    <s:tag>patch</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6841431045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8240924677</id>
+    <published>2017-06-22T15:34:36-04:00</published>
+    <updated>2017-06-22T15:34:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/gone-fishin-by-ed-higgins"/>
+    <title>&quot;Gone Fishin&quot; by Ed Higgins</title>
+    <s:type>Patch</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Patch.jpg?v=1498160050" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Patch<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Big round "gone fishin" patch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Ed Higgins</s:tag>
+    <s:tag>embroidered patch</s:tag>
+    <s:tag>embroidery</s:tag>
+    <s:tag>fishing</s:tag>
+    <s:tag>gone fishin&apos;</s:tag>
+    <s:tag>michagain</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8240924677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

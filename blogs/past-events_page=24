@@ -1,0 +1,482 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Past Events</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="prev" href="/blogs/past-events?page=23">
+<link rel="next" href="/blogs/past-events?page=25">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/past-events.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"b4a01a72-1430-42fc-8cb1-2f818df4d882","pageurl":"conartistnyc.com\/blogs\/past-events?page=24","s":"blogs-1521782","u":"5df646aa10b4","p":"blog","rtyp":"blog","rid":1521782};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":1521782}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"blog","resourceType":"blog","resourceId":1521782}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "V0lsenRxK21LRHUycldZcER2cklDY0tTaS9LU1RNaFBHNzlxRW1OS3ZDOTBLTkgwU3NHQS9HM010c243b1BMZy0tQjZuQlNHWTNTWENwN3VSTGIxZTBSZz09--e12f1ca59c6d6160b7d491b9c456284e8eda3849";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/past-events?page=24">
+</head>
+<body id="page-blog">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+
+    
+    <div class="blog-item">
+    	<a name="article-15290713"></a>
+	    <div class="article first">
+    	    <h2><a href="/blogs/past-events/15290713-conicon-2-0">ConiCon 2.0</a></h2>
+        	<div class="textile">
+            	<div>
+  <iframe src="//player.vimeo.com/video/108749297" width="700" height="393" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</div>&#13;
+<a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5599/15312502069_c4e581f134_o.jpg"> <img src="https://farm6.staticflickr.com/5599/15312502069_c0a1c3b19c_s.jpg" alt="" /></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3946/15312826107_24a5769bbb_o.jpg"> <img src="https://farm4.staticflickr.com/3946/15312826107_3830370b0d_s.jpg" alt="" /></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3944/15499047482_dae6d3ce22_o.jpg"> <img src="https://farm4.staticflickr.com/3944/15499047482_a236c06606_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3951/15499047542_55d479baf0_o.jpg"> <img src="https://farm4.staticflickr.com/3951/15499047542_e0a2b5be5f_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3932/15476267586_58f39a3662_o.jpg"> <img src="https://farm4.staticflickr.com/3932/15476267586_92d6797b88_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2950/15496256261_97b05105da_o.jpg"> <img src="https://farm3.staticflickr.com/2950/15496256261_ee5e81c078_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5597/15496256321_0ebc64abea_o.jpg"> <img src="https://farm6.staticflickr.com/5597/15496256321_9c08a7f3d4_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2948/15476267706_4f7d6f64ee_o.jpg"> <img src="https://farm3.staticflickr.com/2948/15476267706_b8b76dbe9a_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3933/15312679940_628838c5d2_o.jpg"> <img src="https://farm4.staticflickr.com/3933/15312679940_e438b7cd46_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2948/15499047832_0a0434f944_o.jpg"> <img src="https://farm3.staticflickr.com/2948/15499047832_a45febd2b7_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2946/15312826757_deb86ae1a9_o.jpg"> <img src="https://farm3.staticflickr.com/2946/15312826757_38702616fc_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3927/15312826817_600c50b07a_o.jpg"> <img src="https://farm4.staticflickr.com/3927/15312826817_638da5b9ea_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5609/15476268056_e5c0b33079_o.jpg"> <img src="https://farm6.staticflickr.com/5609/15476268056_88796163e3_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5597/15476268136_accd008c13_o.jpg"> <img src="https://farm6.staticflickr.com/5597/15476268136_3bf2dcb83c_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5615/15499048162_7c40d4e3a3_o.jpg"> <img src="https://farm6.staticflickr.com/5615/15499048162_320cd98fb9_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2947/15312827087_3225ab98b0_o.jpg"> <img src="https://farm3.staticflickr.com/2947/15312827087_3dd639041b_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2950/15312748208_9295147385_o.jpg"> <img src="https://farm3.staticflickr.com/2950/15312748208_10e48d5c49_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2945/15312826237_e31b235233_o.jpg"> <img src="https://farm3.staticflickr.com/2945/15312826237_421a4c1cd4_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3938/15499048382_ae73c10253_o.jpg"> <img src="https://farm4.staticflickr.com/3938/15499048382_613e51729a_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3946/15312681140_456e29cd79_o.jpg"> <img src="https://farm4.staticflickr.com/3946/15312681140_d0a6616881_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3950/15312681230_ee3d707949_o.jpg"> <img src="https://farm4.staticflickr.com/3950/15312681230_46b6540319_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3950/15312748478_bc534a658c_o.jpg"> <img src="https://farm4.staticflickr.com/3950/15312748478_691329bbc1_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3947/15312503399_5c42e90766_o.jpg"> <img src="https://farm4.staticflickr.com/3947/15312503399_da256c55fd_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5598/15312501949_7bab0e68ba_o.jpg"> <img src="https://farm6.staticflickr.com/5598/15312501949_45ac709a55_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2949/15499048762_96ffcfeff1_o.jpg"> <img src="https://farm3.staticflickr.com/2949/15499048762_50c43dd0aa_s.jpg" alt="" /> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3940/15496257411_dbe27b4254_o.jpg"> <img src="https://farm4.staticflickr.com/3940/15496257411_5a316dd4c6_s.jpg" alt="" /> </a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="" />&#13;
+<p>CONICON 2.0, a CONtinuation of the Con Artist Collective's CONnection to the CONspicuous CONsumption of all that CONsists of the culture of comics. With your CONsent, we CONtrive to CONvince you of the complex CONcepts of this facet of CONtemporary society through CONversation and participation. Toss CONformity aside and get in touch with your inner geek, nerd or cosplayer with iCONic art that has an X factor, radioactive presence and the mystical powers of the imagination. CONfectious, unCONventional and sometimes CONtroversial, CONICON 2.0, 'Nuff Said!<br /><br />Dates: 10.01.14 to 10.11.14</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-15276945"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/15276945-chris-x-cross">chris X cross</a></h2>
+        	<div class="textile">
+            	<div><iframe src="//player.vimeo.com/video/107781458" width="700" height="393" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+<br> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3953/15450868289_1b936c031a_o.jpg"><img src="https://farm4.staticflickr.com/3953/15450868289_18b5e1206a_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3955/15613799106_405799a106_o.jpg"><img src="https://farm4.staticflickr.com/3955/15613799106_e05e96cdb7_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3936/15613798756_b2c3892af9_o.jpg"><img src="https://farm4.staticflickr.com/3936/15613798756_7fa711f717_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3946/15637513115_3c934c4c40_o.jpg"><img src="https://farm4.staticflickr.com/3946/15637513115_422a73b1e8_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3933/15016759884_79af559eef_o.jpg"><img src="https://farm4.staticflickr.com/3933/15016759884_a31a26bf9c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3943/15638352932_a0b7e8a169_o.jpg"><img src="https://farm4.staticflickr.com/3943/15638352932_04867c0f1b_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3942/15451525017_60cd504ee3_o.jpg"><img src="https://farm4.staticflickr.com/3942/15451525017_f59bb1b684_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3939/15451524657_501b3f5260_o.jpg"><img src="https://farm4.staticflickr.com/3939/15451524657_f78bf03ab4_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5604/15637509835_88b77f06a3_o.jpg"><img src="https://farm6.staticflickr.com/5604/15637509835_fd13574820_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3936/15450861849_6faed0fd0e_o.jpg"><img src="https://farm4.staticflickr.com/3936/15450861849_df0218e862_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3943/15017333913_27ae378445_o.jpg"><img src="https://farm4.staticflickr.com/3943/15017333913_f057600542_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3948/15634831251_ffa534f3f6_o.jpg"><img src="https://farm4.staticflickr.com/3948/15634831251_429e3648f8_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5609/15613790306_13861443c3_o.jpg"><img src="https://farm6.staticflickr.com/5609/15613790306_4cafac88d9_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3940/15451518867_659bba9c44_o.jpg"><img src="https://farm4.staticflickr.com/3940/15451518867_c9f25cd859_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3954/15613792836_ba1d74e971_o.jpg"><img src="https://farm4.staticflickr.com/3954/15613792836_38ff66a118_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3950/15638352162_76335e5797_o.jpg"><img src="https://farm4.staticflickr.com/3950/15638352162_127bbd6df4_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3934/15451928060_e90b94cd3d_o.jpg"><img src="https://farm4.staticflickr.com/3934/15451928060_3d57c923aa_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5598/15016757574_eb90117f4f_o.jpg"><img src="https://farm6.staticflickr.com/5598/15016757574_176b3b7579_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3934/15017336663_4c023d1bc9_o.jpg"><img src="https://farm4.staticflickr.com/3934/15017336663_390ea1759b_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5613/15451923750_a13cba37dd_o.jpg"><img src="https://farm6.staticflickr.com/5613/15451923750_f2424f1fb7_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5603/15016757754_ef0b68d6d6_o.jpg"><img src="https://farm6.staticflickr.com/5603/15016757754_50075485d8_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5603/15637514265_c7a8490283_o.jpg"><img src="https://farm6.staticflickr.com/5603/15637514265_3868349826_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5605/15638349922_b98f323cd8_o.jpg"><img src="https://farm6.staticflickr.com/5605/15638349922_6b8b642d75_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3953/15451926880_578be98ecd_o.jpg"><img src="https://farm4.staticflickr.com/3953/15451926880_3f7d7fe3c2_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3954/15451380728_75f1f3945c_o.jpg"><img src="https://farm4.staticflickr.com/3954/15451380728_1c7ced67e4_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3953/15451521987_ae9eed3a12_o.jpg"><img src="https://farm4.staticflickr.com/3953/15451521987_6aac582143_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3945/15451375158_4eae7d6006_o.jpg"><img src="https://farm4.staticflickr.com/3945/15451375158_d9fba43594_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p>The Con Artist Collective is hosting an collaboration between two long time collective contributors <a href="http://chrismendoza.carbonmade.com/" target="_blank">Chris Mendoza</a> (Brooklyn) and <a href="http://chrisworfold.blogspot.com/" target="_blank">Chris Worfold</a> (Australia). Whilst the artists live half a world away from one another they share more than just their first name. Their aesthetic palettes are quite distinct but they both create work by layering color, geometry, organic forms, and referential images to form energetic compositions. They riff in paint, ink and aerosol on paper and found materials to build extended pictorial realities which mine and combine our global visual culture. “Chris x Cross” features new and collaborative work by both artists. The joint effort between Chris and Chris demonstrates the power of creative people globally connected.<br> <br>Read the interview: <a href="http://conartistnyc.tumblr.com/post/98255724133/chris-x-cross-con-artist-gallery" target="_blank">Con Artist Collective Blog</a><br><br> Dates: September 16th to 27th</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-15179481"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/15179481-just-politics">Just Politics</a></h2>
+        	<div class="textile">
+            	<div><img src="//cdn.shopify.com/s/files/1/0123/0942/files/JP2.jpg?621"></div>
+<br> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2950/15314641900_67c26526ab_o.jpg"> <img src="https://farm3.staticflickr.com/2950/15314641900_a085640825_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3939/15498216431_210b718327_o.jpg"> <img src="https://farm4.staticflickr.com/3939/15498216431_6f6724054f_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5599/15314459729_0f5ccbe4f3_o.jpg"> <img src="https://farm6.staticflickr.com/5599/15314459729_97ea181fce_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2950/15501001592_dd3cfbfe92_o.jpg"> <img src="https://farm3.staticflickr.com/2950/15501001592_829c58bdd2_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5606/15501376605_35ceea5178_o.jpg"> <img src="https://farm6.staticflickr.com/5606/15501376605_f140852a8e_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2946/15314640820_1a9060d6e2_o.jpg"> <img src="https://farm3.staticflickr.com/2946/15314640820_df0cb70362_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5599/15314708938_136470c64c_o.jpg"> <img src="https://farm6.staticflickr.com/5599/15314708938_6c6a5254db_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5598/15314641220_18a273c58e_o.jpg"> <img src="https://farm6.staticflickr.com/5598/15314641220_4837c3e384_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3933/15314783377_340d1c4e67_o.jpg"> <img src="https://farm4.staticflickr.com/3933/15314783377_1d6314951d_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2949/15314640180_9e660b3d28_o.jpg"> <img src="https://farm3.staticflickr.com/2949/15314640180_68c1308f62_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3953/15314639790_d23eb6f509_o.jpg"> <img src="https://farm4.staticflickr.com/3953/15314639790_4673a819ef_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2945/15501375135_753bb00bf1_o.jpg"> <img src="https://farm3.staticflickr.com/2945/15501375135_f673314485_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2946/15501373745_0cb01b9be1_o.jpg"> <img src="https://farm3.staticflickr.com/2946/15501373745_a91877a13e_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5612/15501374395_0ccb1a29ed_o.jpg"> <img src="https://farm6.staticflickr.com/5612/15501374395_c69ba7239d_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5600/15314781277_d205991107_o.jpg"> <img src="https://farm6.staticflickr.com/5600/15314781277_0c60dd5600_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5600/15314638890_d09461d0c7_o.jpg"> <img src="https://farm6.staticflickr.com/5600/15314638890_f0ee630782_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5609/15498212771_26d1b2da64_o.jpg"> <img src="https://farm6.staticflickr.com/5609/15498212771_272fb88e09_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5615/15500998222_86678cb19a_o.jpg"> <img src="https://farm6.staticflickr.com/5615/15500998222_052c9e4b72_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3956/15314637450_33abc2a222_o.jpg"> <img src="https://farm4.staticflickr.com/3956/15314637450_43c6d61c10_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3933/15498211671_ba65d62f1e_o.jpg"> <img src="https://farm4.staticflickr.com/3933/15498211671_903f332980_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2946/15478216926_6521029bee_o.jpg"> <img src="https://farm3.staticflickr.com/2946/15478216926_a6b2c7ff99_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5598/15478214216_267662da3d_o.jpg"> <img src="https://farm6.staticflickr.com/5598/15478214216_1b16f3160b_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm3.staticflickr.com/2947/15314446829_d13ea1cee1_o.jpg"> <img src="https://farm3.staticflickr.com/2947/15314446829_44169be981_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3929/15501362175_6055052e6a_o.jpg"> <img src="https://farm4.staticflickr.com/3929/15501362175_979c3639c1_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5615/15498197891_5508e31039_o.jpg"> <img src="https://farm6.staticflickr.com/5615/15498197891_13f551c8d1_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5603/15314437929_52e24767ec_o.jpg"> <img src="https://farm6.staticflickr.com/5603/15314437929_5787a14c0c_s.jpg" alt=""> </a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p>“Just Politics” is a multimedia art show that takes an aggressive stance in looking at social and cultural issues. It analyzes war, the LGBTQ community, class, racism, and an takes an in-depth view of headline events and political figures using the lens of contemporary art.<br><br>This show is more than an editorial. The diverse artists represented reflect on personal experiences in politically charged environments including childhoods in volatile nations, forced migrations, and conflict with an increasingly digitized government. This show features work by Elsa Fraysse, Adriana J. Garces, Andrew Arnett, Chelsea Rae Klein, Daz Chandler, Deedee DeGelia, Honey Brown, Kirstin Chappell, Sonja Lessley, Qinza Najm, and Alex Christopher Williams.<br><br>DATES: 09.02.2014 - 09.13.2014</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-14712893"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/14712893-xxx-stitch">XXX Stitch</a></h2>
+        	<div class="textile">
+            	<div><img src="https://farm4.staticflickr.com/3841/14348881049_22de729313_o.jpg" alt="Web_stitch_image" width="475" height="358"></div>
+<br><br> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5601/15484175308_8ba35fbbe8_o.jpg"> <img src="https://farm6.staticflickr.com/5601/15484175308_c3f7081a14_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3934/15646604436_b591cbecac_o.jpg"> <img src="https://farm4.staticflickr.com/3934/15646604436_c6d4e8289d_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5607/15670333465_8aa5f36af8_o.jpg"> <img src="https://farm6.staticflickr.com/5607/15670333465_3994c1c86a_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3948/15483687959_244c6d9885_o.jpg"> <img src="https://farm4.staticflickr.com/3948/15483687959_047db4ba6e_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7554/15667651131_b57e736b80_o.jpg"> <img src="https://farm8.staticflickr.com/7554/15667651131_cf71f2df83_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7463/15049591494_7dc7a25694_o.jpg"> <img src="https://farm8.staticflickr.com/7463/15049591494_05c13c7059_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3932/15484175178_786ff45644_o.jpg"> <img src="https://farm4.staticflickr.com/3932/15484175178_617ed657fe_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7580/15483688209_2dfb5e5c0e_o.jpg"> <img src="https://farm8.staticflickr.com/7580/15483688209_7b4f382566_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3943/15646604376_85a807f81f_o.jpg"> <img src="https://farm4.staticflickr.com/3943/15646604376_436f42fa7b_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5612/15670333615_1d4f57d57d_o.jpg"> <img src="https://farm6.staticflickr.com/5612/15670333615_334888cbb6_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7528/15667651381_7f8c9e3756_o.jpg"> <img src="https://farm8.staticflickr.com/7528/15667651381_7d6390273a_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7500/15667651061_b1cabae696_o.jpg"> <img src="https://farm8.staticflickr.com/7500/15667651061_57977015a6_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3934/15484759940_511fd07c87_o.jpg%22"> <img src="https://farm4.staticflickr.com/3934/15484759940_c18ce4368d_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7461/15646604026_3c0ab5b50a_o.jpg"> <img src="https://farm8.staticflickr.com/7461/15646604026_2b050c1679_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7535/15484358807_e422563452_o.jpg"> <img src="https://farm8.staticflickr.com/7535/15484358807_51977aae85_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7503/15484175348_ca61d14162_o.jpg"> <img src="https://farm8.staticflickr.com/7503/15484175348_cde6168493_s.jpg"></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p>On Friday August 22nd, Urban Cross Stitch will be making its X across the pond at New York City's Con Artist Gallery.<br> <br> This debut exhibition will feature some Urban Cross Stitch classics and a range of never-before seen limited edition and one off gallery works by the "Hitchcock of cross stitch" Phil Davison, whose work seamlessly blends traditional crafts with a street edge, infused with wit and humour that epitomizes Urban Cross Stitchs' iconic style.<br><br><a href="http://urban-cross-stitch.com/index.php?main_page=index">Urban Cross Stitch</a> with Refreshments catered by <a href="http://organicgemini.com/" target="_blank">Organic Gemini</a><br><br>Con Artists Gallery 119 Ludlow Street, New York, New York 10002<br> <br>Friday August 22nd, 2014<br>Doors open from 6pm.</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-14946165"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/14946165-starrcade">Starrcade</a></h2>
+        	<div class="textile">
+            	<div><img src="https://farm3.staticflickr.com/2931/14817326364_8d57430fe0_o.jpg" alt="Starrcade_Webflyer" width="475" height="358"></div>
+<br> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3842/14882166868_58f9f6aff8_o.jpg"><img src="https://farm4.staticflickr.com/3842/14882166868_149ba1f576_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3922/14882108300_60aba095f3_o.jpg"><img src="https://farm4.staticflickr.com/3922/14882108300_ff666fa31c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3946/15703786501_1b06e64d48_o.jpg"><img src="https://farm4.staticflickr.com/3946/15703786501_a38b4fb59f_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7497/15519820719_1e061faec5_o.jpg"><img src="https://farm8.staticflickr.com/7497/15519820719_21abdef2bb_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7575/15705692465_00a323feef_o.jpg"><img src="https://farm8.staticflickr.com/7575/15705692465_6963c7ffe2_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3937/15705692535_98274cfc68_o.jpg"><img src="https://farm4.staticflickr.com/3937/15705692535_c740af1ed4_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7492/15519820859_206278d101_o.jpg"><img src="https://farm8.staticflickr.com/7492/15519820859_64df78c49b_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3945/15520498277_69ac59dc98_o.jpg"><img src="https://farm4.staticflickr.com/3945/15520498277_767b11c16f_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7550/15681971466_9d6edb3a26_o.jpg"><img src="https://farm8.staticflickr.com/7550/15681971466_1fa727fa2b_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7516/15703785481_5a7f25593a_o.jpg"><img src="https://farm8.staticflickr.com/7516/15703785481_c631242798_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7542/15086333723_381e10e9c5_o.jpg"><img src="https://farm8.staticflickr.com/7542/15086333723_af960e51e5_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7496/15086333853_b3e7377b27_o.jpg"><img src="https://farm8.staticflickr.com/7496/15086333853_7ae139f5de_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3941/15707269942_88d05206f0_o.jpg"><img src="https://farm4.staticflickr.com/3941/15707269942_71693eb3d8_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5600/15707270932_96997c2580_o.jpg"><img src="https://farm6.staticflickr.com/5600/15707270932_cd9829897e_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3943/15520294768_85bab03451_o.jpg"><img src="https://farm4.staticflickr.com/3943/15520294768_0555813a8e_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3952/15705690105_4b8a768380_o.jpg"><img src="https://farm4.staticflickr.com/3952/15705690105_a432547651_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3949/15707270662_5cee925972_o.jpg"><img src="https://farm4.staticflickr.com/3949/15707270662_858ee6933a_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3950/15707269632_b92f4b7a25_o.jpg"><img src="https://farm4.staticflickr.com/3950/15707269632_d37dd1922c_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7545/15707269112_eb02909c69_o.jpg"><img src="https://farm8.staticflickr.com/7545/15707269112_3b7945eb1d_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3938/15520855710_e559b79fdf_o.jpg"><img src="https://farm4.staticflickr.com/3938/15520855710_259f2c4249_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8671/15705691945_b8094ce2e7_o.jpg"><img src="https://farm9.staticflickr.com/8671/15705691945_bf8744a4a9_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3955/15705690655_117a6b0af2_o.jpg"><img src="https://farm4.staticflickr.com/3955/15705690655_845c3a0c0a_s.jpg"> </a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7565/15520856910_6610f5cb7c_o.jpg"><img src="https://farm8.staticflickr.com/7565/15520856910_e38ea3de26_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3941/15520858190_3ec6b9f6ef_o.jpg"><img src="https://farm4.staticflickr.com/3941/15520858190_125e986465_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5615/15705689795_ee5d8dc903_o.jpg"> <img src="https://farm6.staticflickr.com/5615/15705689795_6d2eee1035_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7568/15703785221_b1056945c5_o.jpg"><img src="https://farm8.staticflickr.com/7568/15703785221_a7cfcd4174_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5615/15705693555_3b47cb20c9_o.jpg"><img src="https://farm6.staticflickr.com/5615/15705693555_39f58782ba_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5608/15682333886_7e1f572cb3_o.jpg"><img src="https://farm6.staticflickr.com/5608/15682333886_e591460bf5_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3946/15703786611_42a439e850_o.jpg"><img src="https://farm4.staticflickr.com/3946/15703786611_1ca688b1b6_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p>Con Artist presents “Starrcade”, a show about anything and everything related to Professional Wrestling. Seriously. We’re a fine art gallery and we’re having a show about piledrivers, shiny spandex masks, TKOs, and endless tag-team smackdowns. “Starrcade” features work by 10 artists who aren’t trying to be ironic or poke fun at low-brow culture. They’re die hard wrestling superfans who grew up with the sport’s colorful characters and outrageous storylines.<br> <br> And why shouldn’t we have a wrestling show? The mixture of high art and low art has been fueling the arts for the last century. What is professional wrestling but a gigantic, blue collar performance art piece? Wrestling has an immediately recognizable aesthetic that isn’t quite like anything else. It’s colorful, melodramatic, and flashy. It isn’t afraid to put common ethnic and gender stereotypes on parade. <br><br> Artists: Daniel "The Dutch Master" Lamanna, Gabriel "Ace" Ventura, Patrick "Mr. Imperfect" Myers, Bunny Lee, Josef "El Surrealiste" Pinlac, John "El Guapo" De La O, Rachel "Ratchet Rabbies" Covert, Enzo "The American Popper", Sarah "Chicken" Wang, Wizard "Wizard Skull" Skull<br><br>DATES: 8.19.14 - 8.30.14</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-14973985"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/14973985-pop-up-shop-with-relique">Pop Up Shop with Relique</a></h2>
+        	<div class="textile">
+            	<div><img src="https://farm4.staticflickr.com/3846/14587125148_6decb7ce1d_o.jpg" alt="PopUpShopRelique_web" width="475" height="358"></div>
+<br><br> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3947/15543958877_9516cf5799_o.jpg"><img src="https://farm4.staticflickr.com/3947/15543958877_5713551c72_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7507/15729146085_066c07a222_o.jpg"><img src="https://farm8.staticflickr.com/7507/15729146085_7fb00622eb_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7478/15727217251_63ce65fd85_o.jpg"><img src="https://farm8.staticflickr.com/7478/15727217251_30cc00d877_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7568/15766328236_ace8a95c37_o.jpg"><img src="https://farm8.staticflickr.com/7568/15766328236_322b79bf7b_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3940/15109184464_8af45efc21_o.jpg"><img src="https://farm4.staticflickr.com/3940/15109184464_e436004f5e_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3937/15109184134_c39cf3daa4_o.jpg"><img src="https://farm4.staticflickr.com/3937/15109184134_e38a901580_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7551/15705425716_c99046d169_o.jpg"><img src="https://farm8.staticflickr.com/7551/15705425716_3abcc5313d_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7568/15766328236_ace8a95c37_o.jpg"><img src="https://farm8.staticflickr.com/7568/15766328236_322b79bf7b_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3949/15727216111_9c4b0a6c7a_o.jpg"><img src="https://farm4.staticflickr.com/3949/15727216111_1a600129d2_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7514/15705424396_0d2a50ab30_o.jpg"><img src="https://farm8.staticflickr.com/7514/15705424396_044caab1a9_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3946/15727216991_bab97465ce_o.jpg"><img src="https://farm4.staticflickr.com/3946/15727216991_7ec2409443_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm8.staticflickr.com/7562/15730689942_9066400f32_o.jpg"><img src="https://farm8.staticflickr.com/7562/15730689942_22637b0e97_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3941/15544293000_9a3cc5b29d_o.jpg"><img src="https://farm4.staticflickr.com/3941/15544293000_1404a04fde_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3939/15109183854_e35780957c_o.jpg"><img src="https://farm4.staticflickr.com/3939/15109183854_81ea9249b5_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3941/15109754813_4e2aeb6379_o.jpg"><img src="https://farm4.staticflickr.com/3941/15109754813_80c6f1a5a4_s.jpg"></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p>Pop Up Shop Featuring: <a href="http://www.relique.us/" target="_blank">Relique</a>, <a href="http://outofofficenyc.com" target="_blank">Out of Office</a>, <a href="http://mansishah.com" target="_blank">Mansi Shah</a>, <a href="http://smallspells.com" target="_blank">Small Spells</a>, <a href="http://arc-objects.com" target="_blank">Arc Objects</a>, <a href="http://caramarienyc.com" target="_blank">Cara Marie Piazza</a>, <a href="http://amyb.club" target="_blank">Amy B</a>, <a href="http://spencergrayjewelry.com" target="_blank">Spencer Gray</a>, <a href="http://signe-yberg.com" target="_blank">Signe Yberg</a><br><br> DATES: 08.15.2014 - 08.17.2014</p>
+	        </div>
+		</div>
+  </div>
+    
+    
+        <div id="more" class="article"><p>&darr; <a href="/blogs/past-events?page=25"></a></p></div>        
+       
+    <div id="article-list-foot"></div>
+
+  
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+</div> <!-- Blog Content -->
+
+<script>
+function ScrollExecute() {
+  if($(document).height() - 800 < ($(document).scrollTop() + $(window).height())) {
+    // find container for next url to load
+    scrollNode = $('.article#more').last();
+    // find url to load, inside that container
+    scrollURL = $('.article#more p a').last().attr("href");
+    if(scrollNode.length > 0 && scrollNode.css('display') != 'none') {
+      $.ajax({
+        type: 'GET',
+        url: scrollURL,
+        beforeSend: function() {
+          scrollNode.clone().empty().insertAfter(scrollNode).append('<img class="loading" src=\"//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/loading.gif?7579882800129985059\" />');
+          scrollNode.hide();
+        },
+        success: function(data) {
+        // remove loading feedback
+          scrollNode.next().remove();
+          scrollNode.remove();
+          var filteredData = $(data).find(".article");
+          filteredData.insertBefore( $("#article-list-foot") );
+          
+        },
+        dataType: "html"
+      });
+    }
+  }
+}
+
+$(document).ready(function () {
+  $(window).scroll(function(){
+    $.doTimeout( 'scroll', 200, ScrollExecute);
+  });
+});
+</script>
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

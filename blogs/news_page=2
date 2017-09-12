@@ -1,0 +1,584 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Current Events</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="prev" href="/blogs/news?page=1">
+<link rel="next" href="/blogs/news?page=3">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/news.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"2d8dc414-8291-4f65-9e7f-83c1446b80eb","pageurl":"conartistnyc.com\/blogs\/news?page=2","s":"blogs-1496152","u":"c856fcee8cb5","p":"blog","rtyp":"blog","rid":1496152};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":1496152}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"blog","resourceType":"blog","resourceId":1496152}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "ZVZLU25GdHVJd3NmTTBHVUFpM0sxUjBRMnFsTElBMW0rTnB2eEdETGd1QWxyNUpGVFdUWDE3dFpoY3VSMzFBMC0tV203MjZqZjZLV3lQd3oyR2tHa1UrQT09--f0c279f2c5ac901b407c81c27ad436d454d38fdd";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/news?page=2">
+</head>
+<body id="page-blog">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+
+    
+    <div class="blog-item">
+    	<a name="article-144373317"></a>
+	    <div class="article first">
+    	    <h2><a href="/blogs/news/money-shot-ii">Money Shot II</a></h2>
+        	<div class="textile">
+            	<div>
+<img src="https://farm5.staticflickr.com/4324/36004678581_d7923cfd28_o.jpg" div=""><br><br><strong>On View: September 25 to September 29 </strong>
+</div>
+<div>
+<strong>Gallery Party: Wednesday September 27</strong> <br><br>Following the 2014 Money Shot group show, Con Artist presents Money Shot II! A money shot is the flashiest, most awe-inspiring, or most expensive scene of a film (pornographic or otherwise). Each work is considered to be the most valuable, best executed, or most important piece ever created by the artist themself.<br><br>Con Artist Collective &amp; Gallery</div>
+<div>119 Ludlow St. New York, New York 10002</div>
+<div>Open Monday through Saturday 11am to 7pm</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-144517637"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/news/studio-painting-residency-showcase">Studio Painting Residency Showcase</a></h2>
+        	<div class="textile">
+            	<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<pre><span><img src="//cdn.shopify.com/s/files/1/0123/0942/files/gif-for-studio-painting-residency_updated_for_Timonde.gif?v=1503016187" alt=""></span></pre>
+<meta charset="utf-8">
+<pre><span><strong>ON VIEW: September 18th to September 22nd<br>GALLERY PARTY: Wednesday September 20th /// 7-11pm</strong> <br><br><br>Con Artist Collective is proud to present a group exhibition of new work from our 2017 Studio Painting Residency. Hand-picked for their exceptional painting skills and novel approaches to this classic medium, this show of rising art stars is not to be missed.
+</span></pre>
+<p><span>Featuring: </span></p>
+<pre><a href="http://nadinemahoney.com">Nadine Mahoney</a>
+<a href="http://thepoetinblack.com">Timonde</a>
+<a href="http://caroledinverno.com/">Carole d’Inverno</a>
+<a href="http://shaleeka.com">Shaleeka<br><br></a></pre>
+<meta charset="utf-8">
+<pre></pre>
+<meta charset="utf-8">
+<pre><span>Con Artist Collective &amp; Gallery</span><br><span>119 Ludlow St. New York, New York 10002</span><br><span>Open Monday through Saturday 11am to 7pm</span><br><a href="http://shaleeka.com"><br>
+</a></pre>
+</div>
+</div>
+</div>
+</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-144105477"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/news/goodbye-cassini">Goodbye Cassini</a></h2>
+        	<div class="textile">
+            	<div>
+<img src="https://farm5.staticflickr.com/4303/35217731293_140c5996ea_o.jpg" width="475" height="358" alt="cassini 2">
+
+<br><br><strong>ON VIEW: September 11th to September 15th<br> GALLERY PARTY: Wednesday September 13th /// 7-11pm</strong> <br><br>
+<p>The universe is full of mysteries. Black holes? Dark Matter?? Aliens??? The Cassini spacecraft has been uncovering the mysteries of the Ringed Planet, Saturn for more than a decade but now it’s almost time to end its mission with a bang... by crashing into Saturn. Come see artists move outerspace into the art space in this stellar group show.</p>
+<br>Con Artist Collective &amp; Gallery<br>119 Ludlow St. New York, New York 10002<br>Open Monday through Saturday 11am to 7pm<br><br>
+</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-143178245"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/news/summer-residency-showcase">Summer Residency Showcase</a></h2>
+        	<div class="textile">
+            	<div>
+<img src="//cdn.shopify.com/s/files/1/0123/0942/files/gif-for-summer-residency-in-progress_large.gif?v=1498609966" alt=""><br><br>
+<p><strong>Dates: September 4th to September 8th<br> GALLERY PARTY: Wednesday September 6th /// 7-11pm</strong> <br><br> Summer Residency Showcase<br> Con Artist Collective is proud to present of group exhibition of new work from our 2017 Summer Residency. Hand-picked for exceptional work in their respective mediums, this show of rising art stars is not to be missed.</p>
+<p style="font-size: 18px;"><br>Featuring: <br> <a href="http://rosechebert.com/" target="_blank" rel="noopener noreferrer">Moody Rose Christopher</a><br> <a href="https://www.sahirpena.com/paintings/" target="_blank" rel="noopener noreferrer">Sahir Pena</a><br> <a href="https://kristenleonard.carbonmade.com" target="_blank" rel="noopener noreferrer">Kristen Leonard</a><br> <a href="http://www.instagram.com/artmamaheart" target="_blank" rel="noopener noreferrer">Laura Fay Lewis</a><br> <a href="http://omgitsjilliangreen.com" target="_blank" rel="noopener noreferrer">Jillian Green</a><br> <a href="http://cargocollective.com/mariaamador" target="_blank" rel="noopener noreferrer">María Amador</a><br> <a href="http://www.jakruiz.com" target="_blank" rel="noopener noreferrer">Jak Ruiz</a><br><a href="http://samallen0818.wixsite.com/storungdesign" target='_blank"'>Samuel Allen</a></p>
+<br> <strong>Con Artist Collective &amp; Gallery<br>119 Ludlow St. New York, New York 10002<br>Open Monday through Saturday 11am to 7pm<br></strong>
+</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-145661765"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/news/sunday-school-artist-led-classes-workshops-7pm-9pm">Sunday School! Artist-led classes + workshops // 7pm-9pm</a></h2>
+        	<div class="textile">
+            	<div>
+<br> <a href="https://www.eventbrite.com/e/sunday-school-photoshop-and-illustrator-with-jon-sirotniak-tickets-36801922541" target="_blank" title="Buy a ticket for Photoshop and Illustrator with Jon Sirotniak" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4356/35825427084_63e0061728_o.jpg" alt=""></a><br><a href="https://www.eventbrite.com/e/sunday-school-photoshop-and-illustrator-with-jon-sirotniak-tickets-36801922541" target="_blank" title="Buy a ticket for Photoshop and Illustrator with Jon Sirotniak" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4413/36522248641_7087116ec3_o.jpg" alt=""></a> <br><br><strong>Date: Sunday, September 10th /// 7pm-9pm</strong><br><br>Con Artist Collective is proud to present a workshop in Adobe Photoshop and Illustrator led by New York artist and graphic designer Jon Sirotniak as the latest event in our series of artist-led workshops "Sunday School." Jon has a decade of experience in graphic design, and has designed for licenses including Nickelodeon, Hasbro, Reebok, and Nautica.<br><br>Digital art is the medium of the 21st century, with the use of computer-altered images taking off in fields as diverse as fine art, graphic design, photography, and illustration. A solid background in Photoshop and Illustrator is an essential for any modern artist or designer foraying into the digital realm! Jon will cover the basics of photo retouching in Photoshop using the clipping mask with the modify/contract options, the warp tool, and the healing brush. Topics covered will also include some of Illustrator's lesser-used, most powerful tools including the erase tool, the blend tool, envelope distort, and the 3D rendering tool.<br><br>Don't wait to kick-start your digital career; come in get started with one of Con Artist's best!<br><br> <a href="https://www.eventbrite.com/e/sunday-school-making-art-with-procreate-and-apple-ipad-tickets-37112570698" target="_blank" title="Buy a ticket for Making Art With Your Ipad with Brandon Wisecarver" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4381/35825426784_d4622a8af9_o.jpg" alt=""></a><br><a href="https://www.eventbrite.com/e/sunday-school-making-art-with-procreate-and-apple-ipad-tickets-37112570698" target="_blank" title="Buy a ticket for Making Art with your iPad with Brandon Wisecarver" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4413/36522248641_7087116ec3_o.jpg" alt=""></a><br><br><strong>Date: Sunday, September 17th /// 7pm-9pm</strong><br><br> Con Artist Collective is proud to present a workshop in ProCreate for iPad led by New York artist and Con Artist Collective manager Brandon Wisecarver in the latest event in our series of artist-led workshops "Sunday School."<br><br>ProCreate paired with an iPad and Apple Pencil just might be the most powerful and natural digital tool available today. Brandon will cover most of the features of ProCreate for iPad in this comprehensive walkthrough of the app focused on drawing and painting using this incredible new tool. Don't wait to discover just how much you can do with these amazing tools; come in get started!<br><br>Bring your iPad or iPad Pro with Apple Pencil and draw along with the demo, or just come and observe before deciding to purchase one. If you have an iPad, but have not purchased ProCreate yet... It's only $5.99 on the App Store and worth every penny.<br><br><a href="https://www.eventbrite.com/e/sunday-school-the-empty-handed-painterreading-lips-w-laura-fay-lewis-tickets-36801626656" target="_blank" title="Buy a ticket for the double feature screening with Laura Fay Lewis" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4417/35825427124_b553119573_o.jpg" alt=""></a><br><a href="https://www.eventbrite.com/e/sunday-school-the-empty-handed-painterreading-lips-w-laura-fay-lewis-tickets-36801626656" target="_blank" title="Buy a ticket for the double feature film screening with Laura Fay Lewis" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4413/36522248641_7087116ec3_o.jpg" alt=""></a><br><br><strong>Date: Sunday, September 24th /// 7pm-9pm</strong><br><br>Con Artist Collective is proud to host the NYC premieres of "The Empty Handed Painter" and "Reading Lips" for the latest installation of Sunday School, a series of artist-led meet-ups, workshops, and screenings at the Collective's Lower East Side gallery space. Laura Fay Lewis –– director of "The Empty Handed Painter" and star of "Reading Lips" –– will host these two unique premieres.<br><br>Based on true events, "The Empty Handed Painter" follows Tony Masaccio, the working-class son of an Italian gangster, from his mentorship under New York legends like Pollock, Rothko, and de Kooning in the 1970s to his discovery of his rare talent for art forgery. The film chronicles Masaccio's dark journey into the world of contemporary art fraud, as he flies closer to the sun selling impeccable forgeries of million-dollar masterpieces, all while on the run from lawyers, gallery owners, and drug dealers from his past. Featuring interviews with the real Masaccio, we see the troubled genius hurry to escape the cage he has built for himself, repent for his sins, and despereately seek out a second chance at life.<br><br>The first screening will be followed by a second premiere, "Reading Lips" directed by Lawrence Weiner and starring Laura Fay Lewis. A mashup of visual, text, and performative art featuring a high degree of collaboration from actors and directors, this unique film is not to be missed!<br><br> <a href="https://www.eventbrite.com/e/the-life-and-work-of-w-eugene-smith-presented-by-john-milisenda-tickets-37741030438" target="_blank" title="Buy a ticket for the double feature screening with Laura Fay Lewis" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4355/36694418860_0bbc8427a5_o.jpg" alt=""></a><br><a href="https://www.eventbrite.com/e/the-life-and-work-of-w-eugene-smith-presented-by-john-milisenda-tickets-37741030438" target="_blank" title="Buy a ticket for this historical photography lecture by John Milisenda" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4413/36522248641_7087116ec3_o.jpg" alt=""></a><br><br><strong>Date: Sunday, November 12th /// 7pm-9pm</strong><br><br>Con Artist Collective is proud to host John Milisenda's talk on Eugene Smith "The Concerned Photographer" and latest installation of Sunday School, a series of artist-led meet-ups, workshops, and screenings at the Collective's Lower East Side gallery space. <br><br>During the 1940’s and 1950’s W. Eugene Smith produced photographic essays for Life Magazine. Smith covered battles in the Pacific during WWII; the devastation, carnage and brutality affected him deeply. He experienced a metanoia, a spiritual awakening that changed him and resulted in his seeing the world differently. He sought truth in his photography - his essays considered to be the highest quality photo journalism, used as a standard to judge others’ work. Smith was looked upon as a hero. Over the years critics have denigrated Smith’s work calling it propaganda and stating that his images-were set up and dishonest, questioning his motives and integrity. At what point does society turn a seeker of truth into a propagandist?<br><br>John Milisenda’s photograhy has appeared in over 150 shows and many publications including Smithsonian and the New York Times. His work is in the permanent collections on Brooklyn Museum, New Orleans Museum of Art, Museum of Modern Art and Bibliotheque Nationale. He has taught basic photography,The Zone sytem and Photographic chemistry at Drexel University, The New School, and Parson’s School of Design. He is currently working on a photography book of his family, a cross section of 50 years of work.</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-142417029"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/news/studio-residency-at-con-artist-collective">Studio Residencies at Con Artist Collective</a></h2>
+        	<div class="textile">
+            	<p>The residencies at Con Artist Collective are short-term curated 60-day studio stays culminating in a special week-long showcase gallery exhibition. They are either seasonal, or based upon a particular medium.<br><br> Our jurors are often NYC creatives, art luminaries, past members, and friends and family of the collective that are up to exciting things in their respective fields. You'll sit down with each juror from the cycle for exclusive feedback socials.<br><br> ALL RESIDENCIES ARE FREE TO APPLY TO.<br><br>Each individual residency will list any fees due upon acceptance.</p>
+<br>
+<div>
+<img src="https://c1.staticflickr.com/5/4196/35016450436_6100d01894_o.jpg" alt=""><br>Studio Time: <strong>September 15th, 2017 - November 15th, 2017</strong><br>Showcase Exhibition: <strong>November 13th - 17th, 2017</strong><br>Reception: <strong>November 15th, 2017</strong><br><strong><em>$600 Studio Fees for 60 days unlimited Studio Access</em></strong><br>
+<h2><a href="https://goo.gl/forms/eY9HtSmy768yuzPW2" target="_blank" rel="noopener noreferrer"><strong>CLICK HERE TO LEARN MORE AND APPLY FOR ILLUSTRATION</strong></a></h2>
+<br>
+<h2>Meet the jurors:</h2>
+<img src="https://c1.staticflickr.com/5/4270/34216850964_5ff7fc8553_o.jpg"><br><strong>Ian Bertram </strong>- SVA Graduate, Illustrator<br><br>Ian Bertram is an American comic book artist and SVA graduate who has been published by D.C. Comics, Marvel and Dark Horse. Ian is a long-time Con Artist Collective collaborator and has had solo shows at our sister gallery Lazy Susan Gallery, and the Barefoot Gallery in Colombo, Sri Lanka as part of a Hot Butter Collective artist residency. <a href="http://ianbertramink.com/" target="_blank" rel="noopener noreferrer">Check out his website.</a><br><br> <img src="https://c1.staticflickr.com/5/4278/34216951454_68d2c4ce15_o.jpg"><br><br><strong>Victor Ochoa </strong>- Illustrator, Art Director at Crunchyroll<br><br>Victor is an artist from Brooklyn, New York, and studied Fine Art at The Cooper Union for the Advancement of Science and Art in New York City. After graduating he established a career as a graphic designer for companies such as Scholastic, HarperCollins, and Marvel Entertainment. He is the founder of the independent comic publisher DRAWMORE INC., where he worked with artists from around the world creating original sequential art. He is currently an Art Director for Crunchyroll in San Francisco, California. His current personal work deconstructs symbolisms, icons, and language within comics, video games, and animation to create surrealist illustrations and sculptures. Find more info at <a href="http://www.vjochoa.com" target="_blank" rel="noopener noreferrer">vjochoa.com</a> <br><br> <img src="https://c1.staticflickr.com/5/4248/34689620250_6ffc2276dc_o.jpg"><br><br><strong>Richard Miller</strong> - Illustrator<br><br>Richard has over 20 years experience as an illustrator and fine artist. He graduated from the Joe Kubert School of Cartoon Graphics in 1994 and was recruited by DC Comics, where he worked on producing comic books including Superman, Wonder Woman, and Batman. His expertise includes illustration, toy design, and animation. Find out more at: <a href="https://richmillerart.com/">richmillerart.com</a>.</div>
+<div>
+<br>
+<div>
+<img src="https://c1.staticflickr.com/5/4283/35345532716_f9e5c5c3c9_o.jpg"><br><br> Studio Time: <strong>October 15th, 2017 - December 15th, 2017</strong><br>Showcase Exhibition: <strong>December 18th - 22nd, 2017</strong><br>Reception: <strong>December 20th, 2017</strong><br><strong><em>$600 Studio Fees for 60 days unlimited Studio Access</em></strong><br><br>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScDEVr9IdEKMnX17lO-BCVWUMmt4UlxCCe2SImkpvbQG-d6ew/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"><strong>CLICK HERE TO LEARN MORE AND APPLY FOR STREET ART</strong></a></h2>
+<h2>Meet the jurors:</h2>
+<p><img src="https://farm5.staticflickr.com/4260/34999358360_647a44a39d_o.jpg" alt="" meta="" charset="utf-8"><em><span><br><strong><br>Wizard Skull </strong></span></em>- Pop Artist featured in Vice, Huffington Post, and Bushwick Daily <br><br>Wizard Skull is a bearded Brooklyn-based artist known for his colorful and provocative images of pop culture icons. He is a frequent Con Artist collaborator, sometimes referred to as a legend at the collective. Find out more at <a href="http://wizardskull.com/" target="_blank" rel="noopener noreferrer">http://wizardskull.com/</a></p>
+<br>
+<div>
+<img src="https://farm5.staticflickr.com/4330/35135510643_4928f75c10_o.jpg" meta="" charset="utf-8"><meta charset="utf-8">
+<em><span><br><strong><br>Jamie Martinez </strong></span></em>- Publisher of Arte Fuse, featured in New York Magazine, Artslife, &amp; Decompoz Magazine<br><br>Jamie Martinez is a Columbian-born artist. At the age of 12, Jamie moved to Florida, where he attended Miami International University of Art and Design then later moved to New York City to continue his education. Martinez is the publisher of ArteFuse, an art blog that focuses on art shows, interviews and studio visits. For more information, visit <a href="http://jamiemartinez.net/" target="_blank" rel="noopener noreferrer">http://jamiemartinez.net</a><br><br> <img src="https://farm5.staticflickr.com/4222/34575948373_4426e0b412_o.jpg" br="" em=""><br><strong><br>Adrian Wilson</strong> - Photographer featured Apple, Architectural Digest &amp; Chanel <br><br> Adrian Wilson is an interior design and architectural photographer and video artist. Wilson’s clients include big name brands like Apple, Victoria’s Secret, and Chanel. More information on this beloved member of the Con Artist community can be found at <a href="http://www.interiorphotography.net/index.html" target="_blank" rel="noopener noreferrer">http://www.interiorphotography.net/index.html</a>
+<p> </p>
+<div>
+<div>
+<div><img src="https://c1.staticflickr.com/5/4273/34732415272_e25dbcfc59_o.jpg" alt=""></div>
+<div></div>
+<div>Studio Time: <strong>November 15th, 2017  - January 15th, 2018</strong><br>Showcase Exhibition: <strong>January 8th, 2018 - January 12th, 2018 </strong><br>Reception: <strong>January 10th, 2018</strong><br><meta charset="utf-8">
+<strong><em>$600 Studio Fees for 60 days unlimited Studio Access</em></strong>
+</div>
+<h2><a href="https://goo.gl/forms/F9o9MhLXcJ0Vjst02" target="_blank" rel="noopener noreferrer"> <strong>CLICK HERE TO LEARN MORE AND APPLY FOR WINTER</strong></a></h2>
+<h2>Meet the Jurors:</h2>
+<p><img src="https://farm5.staticflickr.com/4304/35553576840_810972cc37_o.jpg" alt="" meta="" charset="utf-8"><em><span><br><strong><br>Yetunde Olagbaju </strong></span></em>- Multimedia Artist <br><br> Yetunde Olagbaju is a multidisciplinary artist and collaborator currently residing in Oakland, CA. Through her work, she concerns herself with time travel, space, source, vulnerability, ancestry, and the human relationship to the Blackness of the universe. Through video, installation, performance, archival documents, sound, and ritual she aims to illuminate paths of deep emotional kinship, all the while highlighting moments of cosmic mirroring and overlap, within the human experience. This is all with the distinct desire to reimagine Black past, present, and future and to create a bridge for that exchange. For more information, visit <a href="yetundeolagbaju.com" target="_blank" rel="noopener noreferrer">yetundeolagbaju.com</a>.</p>
+</div>
+<div></div>
+<div></div>
+<div>
+<img src="https://farm5.staticflickr.com/4270/35002833780_8776870b33_o.jpg" meta="" charset="utf-8"><meta charset="utf-8">
+<em><span><br><strong><br>CC Brown </strong></span></em>- Artist, Essayist <br><br>C.C. Brown is a New York based artist and essayist who writes about media art, social theory, and metaphysics. Brown is a regular columnist for Second Sight Magazine and works with the Con Artist Collective extensively. For more information, visit <a href="http://carloscuellarbrown.wixsite.com/author" target="_blank" rel="noopener noreferrer">carloscuellarbrown.wixsite.com/author.<br> <br> </a>
+<div><a href="http://carloscuellarbrown.wixsite.com/author" target="_blank" rel="noopener noreferrer"><img src="https://farm5.staticflickr.com/4302/35175770043_2d79599c10_o.jpg" div=""> <br><br></a></div>
+<div>
+<strong>Nyssa Frank</strong> - Founder of the Living Gallery in Brooklyn, Performance Artist</div>
+<div>
+<br>
+<div>Nyssa Frank is the Owner &amp; Founder of The Living Gallery in Brooklyn, a venue dedicated to supporting emerging artists in a non-completive environment. Nyssa explores numerous mediums to dissect the beautiful questions our world gives birth to. She hopes to be forever in a state of learning and growth, diving into the unknown with eyes open wide. For more information, visit <a href="http://www.nyssafrank.net/" target="_blank" rel="noopener noreferrer">www.nyssafrank.net</a>.</div>
+<div><meta charset="utf-8"></div>
+<a href="http://carloscuellarbrown.wixsite.com/author" target="_blank" rel="noopener noreferrer"> </a>
+</div>
+<br> <img src="https://farm5.staticflickr.com/4364/36630310086_a26127c75e_o.jpg" alt="">
+</div>
+<div></div>
+<div>Studio Time: <strong>March 15th, 2018  - May 15th, 2018</strong><br>Showcase Exhibition: <strong>May 14th, 2018 - May 18th, 2018</strong> <br>Reception: <strong>May 16th, 2018</strong><br><meta charset="utf-8">
+<strong><em>$600 Studio Fees for 60 days unlimited Studio Access</em></strong>
+</div>
+<h2><a href="https://goo.gl/forms/DW7b2uSUjv7Wj8qL2" target="_blank" rel="noopener noreferrer"> <strong>CLICK HERE TO LEARN MORE AND APPLY FOR SPRING</strong></a></h2>
+<p>Artwork by: Laura Fay Lewis ~ <a href="http://www.laurafaylewis.com/" target="_blank" rel="noopener noreferrer">http://www.laurafaylewis.com/</a></p>
+<br> <img src="https://farm5.staticflickr.com/4382/35867220953_dc42b48d98_o.jpg" alt="">
+</div>
+<div></div>
+<div>Studio Time: <strong>June 15th, 2018 - August 15th, 2018</strong><br>Showcase Exhibition: <strong>August 13th, 2018 - August 17th, 2018 </strong><br>Reception: <strong>August 15th, 2018</strong><br><meta charset="utf-8">
+<strong><em>$600 Studio Fees for 60 days unlimited Studio Access</em></strong>
+</div>
+<h2><a href="https://goo.gl/forms/z7A9VxZn8GcmPRgK2" target="_blank" rel="noopener noreferrer"> <strong>CLICK HERE TO LEARN MORE AND APPLY FOR SUMMER</strong></a></h2>
+<p>Artwork by: Moody Rose Christopher ~ <a href="http://rosechebert.com/" target="_blank" rel="noopener noreferrer">http://rosechebert.com/</a></p>
+<br> <img src="https://farm5.staticflickr.com/4334/36630309976_37a39397f4_o.jpg" alt="">
+</div>
+<div></div>
+<div>Studio Time: <strong>August 15th, 2018 - October 15th, 2018</strong><br>Showcase Exhibition: <strong>October 15th, 2018 - October 19th, 2018 </strong><br>Reception: <strong>October 17th, 2018</strong><br><meta charset="utf-8">
+<em>$600 Studio Fees for 60 days unlimited Studio Access</em>
+</div>
+<h2><a href="https://goo.gl/forms/aE5JqIko3AL9zYvr2" target="_blank" rel="noopener noreferrer"> <strong>CLICK HERE TO LEARN MORE AND APPLY FOR FALL</strong></a></h2>
+<p>Artwork by: Fall Resident, BriAnna Olson ~ <a href="http://brianna-olson.com/" target="_blank" rel="noopener noreferrer">http://brianna-olson.com/</a></p>
+<br> <img src="https://farm5.staticflickr.com/4438/36630310236_19f801ea95_o.jpg" alt="">
+</div>
+<div></div>
+<div>Studio Time: <strong>November 15th, 2018 - January 15th, 2019</strong><br>Showcase Exhibition: <strong>January 14th, 2019 - January 19th, 2019 </strong><br>Reception: <strong>January 16th, 2019</strong><br><meta charset="utf-8">
+<strong><em>$600 Studio Fees for 60 days unlimited Studio Access</em></strong>
+</div>
+<h2><a href="https://goo.gl/forms/XUWMVsMoopXvfsvp1" target="_blank" rel="noopener noreferrer"> <strong>CLICK HERE TO LEARN MORE AND APPLY FOR WINTER</strong></a></h2>
+<p>Artwork by:  Koo Seunghwui ~ <a href="http://kooseunghwui.com/" target="_blank" rel="noopener noreferrer">http://kooseunghwui.com/</a></p>
+</div>
+	        </div>
+		</div>
+  </div>
+    
+    
+        <div id="more" class="article"><p>&darr; <a href="/blogs/news?page=3"></a></p></div>        
+       
+    <div id="article-list-foot"></div>
+
+  
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+</div> <!-- Blog Content -->
+
+<script>
+function ScrollExecute() {
+  if($(document).height() - 800 < ($(document).scrollTop() + $(window).height())) {
+    // find container for next url to load
+    scrollNode = $('.article#more').last();
+    // find url to load, inside that container
+    scrollURL = $('.article#more p a').last().attr("href");
+    if(scrollNode.length > 0 && scrollNode.css('display') != 'none') {
+      $.ajax({
+        type: 'GET',
+        url: scrollURL,
+        beforeSend: function() {
+          scrollNode.clone().empty().insertAfter(scrollNode).append('<img class="loading" src=\"//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/loading.gif?7579882800129985059\" />');
+          scrollNode.hide();
+        },
+        success: function(data) {
+        // remove loading feedback
+          scrollNode.next().remove();
+          scrollNode.remove();
+          var filteredData = $(data).find(".article");
+          filteredData.insertBefore( $("#article-list-foot") );
+          
+        },
+        dataType: "html"
+      });
+    }
+  }
+}
+
+$(document).ready(function () {
+  $(window).scroll(function(){
+    $.doTimeout( 'scroll', 200, ScrollExecute);
+  });
+});
+</script>
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

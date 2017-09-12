@@ -1,0 +1,487 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Past Events</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="prev" href="/blogs/past-events?page=19">
+<link rel="next" href="/blogs/past-events?page=21">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/past-events.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"ba828e71-5a68-4a78-9ab3-477b93cd2561","pageurl":"conartistnyc.com\/blogs\/past-events?page=20","s":"blogs-1521782","u":"9a4f2484f2d5","p":"blog","rtyp":"blog","rid":1521782};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":1521782}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"blog","resourceType":"blog","resourceId":1521782}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "bHpTL0d0bGVxVUFENEMxR0k0UTZ3SlFaaDNLa0FMeXlZdVg4MVIrNTJLcXRyUkh4dnpzWmZWYWlqT3MrQmR0US0tWWxXMFVWbmpBdVo4ZFFLanpJVzZOUT09--0410140d7e74436740cd6b5fa84363ecf852a3ab";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/past-events?page=20">
+</head>
+<body id="page-blog">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+
+    
+    <div class="blog-item">
+    	<a name="article-48669893"></a>
+	    <div class="article first">
+    	    <h2><a href="/blogs/past-events/48669893-conicon-3-0">Conicon 3.0</a></h2>
+        	<div class="textile">
+            	<div><img src="//cdn.shopify.com/s/files/1/0123/0942/files/output_Jqf2sA_large.gif?18334158431060673010"></div>
+<br>
+<p><strong>Dates: October 6th through October 17th</strong><br><strong>10.07.2015 Wednesday 7 to 11 /// Opening Party</strong><br><strong>10.14.2015 Wednesday 7 to 11 /// Closing Party</strong><br><br>In the tradition of truly awful threequels, we are beating a dead horse, getting blood from a turnip and bringing you the same old same old one more time for CONICON III. WORST. CONICON. EVER. We will leave no stone unturned, kill off main characters, introduce forgettable sidekicks and forget plot lines altogether in our attempt to quench the nostalgia of our stunted adulthood and you will like it! Stay tuned true believers!</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-34281861"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/34281861-atmospheric">Atmospheric</a></h2>
+        	<div class="textile">
+            	<div><img src="https://c2.staticflickr.com/6/5535/18681052868_a30500ecfd_o.gif" alt="Atmospheric" height="358" width="475"></div>
+<br> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/662/20796687015_5c7d77122a_o.jpg"><img src="https://farm1.staticflickr.com/662/20796687015_b3a02458fd_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/593/20608693528_886e4b279c_o.jpg"><img src="https://farm1.staticflickr.com/593/20608693528_20952d7a23_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/640/20803724191_23bd12131b_o.jpg"><img src="https://farm1.staticflickr.com/640/20803724191_3d76f97ff7_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/695/20609949049_80747b192a_o.jpg"><img src="https://farm1.staticflickr.com/695/20609949049_c8556e75ca_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/658/20787250592_af943176ec_o.jpg"><img src="https://farm1.staticflickr.com/658/20787250592_b5e7405095_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5629/20787251182_3a2c85ccd7_o.jpg"><img src="https://farm6.staticflickr.com/5629/20787251182_c37f217d29_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5816/20608713000_aab75441a3_o.jpg"><img src="https://farm6.staticflickr.com/5816/20608713000_cb142cc8e4_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5651/20787251712_3ed892c921_o.jpg"><img src="https://farm6.staticflickr.com/5651/20787251712_cdfd2480fe_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5818/20796689765_1219b0639e_o.jpg"><img src="https://farm6.staticflickr.com/5818/20796689765_f40c8b40fb_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/662/20608696298_0ffb49ca9a_o.jpg"><img src="https://farm1.staticflickr.com/662/20608696298_46465f5a78_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5677/20787252122_e942ccacfa_o.jpg"><img src="https://farm6.staticflickr.com/5677/20787252122_ba89878f3c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5733/20174101174_fdc6317d4f_o.jpg"><img src="https://farm6.staticflickr.com/5733/20174101174_c09c86b45e_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/775/20805511351_fc20b14334_o.jpg"><img src="https://farm1.staticflickr.com/775/20805511351_5feaf1818c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5720/20177523693_9bec35da17_o.jpg"><img src="https://farm6.staticflickr.com/5720/20177523693_7000268c08_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5799/20772231826_53ebaecf28_o.jpg"><img src="https://farm6.staticflickr.com/5799/20772231826_9c1c00a7ca_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5806/20772231896_d85612759a_o.jpg"><img src="https://farm6.staticflickr.com/5806/20772231896_39de5f81f9_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5812/20610494048_2efd8e74d2_o.jpg"><img src="https://farm6.staticflickr.com/5812/20610494048_5edaf7e7b3_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/649/20772232116_3dfe052fd7_o.jpg"><img src="https://farm1.staticflickr.com/649/20772232116_135eceb340_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280">
+<p><b>Dates: August 18th to August 29th</b><br> <b>AT: Con Artist Ludlow Gallery, 119 Ludlow St.</b> <br> 08.19.2015 Wednesday 7 to 11 /// Opening Party <br> 08.26.2015 Wednesday 7 to 11 /// Closing Party<br><br>A study in mood and environment, vibes and landscapes. Atmospheric aims to draw out places, people, and memories from that weird mental wilderness where we experience art. Kayo Albert and David Barnett present a group show to demonstrate how atmosphere creates mood. Featuring work from: David Barnett, Juan Bravo, Brandon Wisecarver, Caroline Werner, Joey Guidone, and Kayo Albert.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0123/0942/files/output_J7WFj4_large.gif?13057888398844177155"></p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-25794692"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/25794692-canvas-couture">Canvas Couture</a></h2>
+        	<div class="textile">
+            	<img src="https://c2.staticflickr.com/6/5463/17033804634_e4abebce53_o.jpg"> <br> <br>
+<p>CANVAS COUTURE is an art &amp; fashion infused exhibit conceptualized by New York based event curator, Genesis Be. The expo will showcase visual artists &amp; clothing / accessory designers and LIVE music performances. The jump off event will be held at #LibertyHallNYC at Ace Hotel New York. <br><br> CANVAS COUTURE’S jump off event on May 29th will have <a href="http://www.illspokinn.com/">Illspokinn</a> , Tess &amp; Margie (fashionista &amp; singer) as our musical guest &amp; Natashia Underwood Founder of <a href="http://www.ilovearter.com/">ARTER CLOTHING</a>. Art pieces from the phenomenal Un Cutt , @HekTad123 &amp; @IamTheTruth_TM will be on display .(You've seen their work ALL over NYC I'm sure) And DJ Petra will be in the mix. <br><br> About Our Collaborators: Con Artist Collective is an organization housing over 350 New York based visual &amp; installation artists spanning hundreds of themes &amp; concepts. VolaVida represents some of NYC's most popular artists. The goal is to help artists monetize their craft without relinquishing their integrity. Through social events and gallery exhibits they intend to create a atmosphere that is welcoming to art lovers from all walks of life. <br><br> Purchase discounted tickets for the Early Bird Special <a href="http://tinyurl.com/ps79bjb%20">Here!</a><br><br> Each event would highlight the work of similarly themed art installments and one NY based apparel/accessory designer. <br><br> This event is brought to you by The Breslin Bar &amp; Dining Room, <br><br> <a href="https://twitter.com/libertyhallnyc">#LibertyHallNYC</a> <a href="http://www.instagramal.com/canvascouturenyc">@CanvasCoutureNYC</a></p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-17630532"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/17630532-but-is-it-art">But is it Art?</a></h2>
+        	<div class="textile">
+            	<div>
+<img src="https://farm9.staticflickr.com/8642/16662700908_17122ac7c2_o.jpg">  </div>
+<div>
+<a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/370/19134513883_c2b91ff20f_o.jpg"> <img src="https://farm1.staticflickr.com/370/19134513883_33d5e38602_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/256/19760102251_8dd16bd9f6_o.jpg"><img src="https://farm1.staticflickr.com/256/19760102251_48f2e13f3a_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/284/19760098531_82d0af58fa_o.jpg"><img src="https://farm1.staticflickr.com/284/19760098531_39f7e29572_s.jpg" alt=""> </a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/484/19729225936_b2713631f7_o.jpg"><img src="https://farm1.staticflickr.com/346/19134510433_583f4c7309_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/484/19729225936_b2713631f7_o.jpg"><img src="https://farm1.staticflickr.com/484/19729225936_1fb2012781_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/681/20882544186_371570bd39_o.jpg"><img src="https://farm1.staticflickr.com/681/20882544186_670ae5cd47_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5834/20908818655_f35dbfcba7_o.jpg"><img src="https://farm6.staticflickr.com/5834/20908818655_0129f959ab_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/678/20916120711_a487f59531_o.jpg"><img src="https://farm1.staticflickr.com/678/20916120711_c01930e2b9_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/684/20908818465_14e9ab4092_o.jpg"><img src="https://farm1.staticflickr.com/684/20908818465_d13f70bfac_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5777/20286226774_07c066032b_o.jpg"><img src="https://farm6.staticflickr.com/5777/20286226774_3fc77095d5_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5720/20720774910_db9df264f1_o.jpg"><img src="https://farm6.staticflickr.com/5720/20720774910_da9a507fe7_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5780/20882543366_c2e04f88e3_o.jpg"><img src="https://farm6.staticflickr.com/5780/20882543366_437085b895_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+</div>
+<p>Pre-smashed TVs, radical doll parts, fecal matter. . . can't artists just paint pictures anymore? From abstract to conceptual, from installation to bricolage, from metamodernism to zombie formalism, you can slap a label on anything, maybe even a price tag. . . <i>but is it art?</i><br><br>Taking one of contemporary art’s most pressing questions as its title, this group show at the Con Artist Collective addresses the current atmosphere of our post-painting, post-postmodern art world. With an emphasis on mixed-media work that employs non-traditional materials and methods, “But is it Art?” examines the sometimes violent shift away from classical modes and features artists as bold in the visions they build as they are ruthless in the rules they break.<br> <br>“But is it Art?” is curated by Josef Pinlac and includes work by artists Adriana Garces, Audrey Ryan, Bree Rubin, Carolyn Colsant, Heather Marie Scholl, Laura Tack, Marianna Peragallo, Maria Petrovskaya, Sessa Englund, Shaina Yang, Winter Mendelson, Tia Dunn, Paola Torres Nuñez Del Prado, Daniel Lamanna, James Gardella, John De La O, Josef Pinlac and Saks Afridi. Opening Party performance by Violet Elixir.<br><br> <b>DATES: May 5th to May 15th</b><br><strong>AT: Con Artist Collective, 119 Ludlow St.</strong><br>05.13.2015 Wednesday 7 - 11pm /// Closing Party</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-17852832"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/17852832-con-artist-5-year-anniversary-party">Con Artist 5 Year Anniversary Party</a></h2>
+        	<div class="textile">
+            	<div>
+<iframe src="https://player.vimeo.com/video/127105642" width="700" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe> <br><br> <a rel="facebox" class="gallery" href="https://farm9.staticflickr.com/8716/16713189167_35d4706d77_o.gif"><img src="https://c1.staticflickr.com/9/8716/16713189167_846ea943ff_s.jpg"></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3749/20266921895_9880c3829b_o.jpg"><img src="https://farm4.staticflickr.com/3749/20266921895_ed2d20437d_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/488/20240927986_bfcf92defd_o.jpg"><img src="https://farm1.staticflickr.com/488/20240927986_392879bc22_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/392/20080554069_043d969c02_o.jpg"><img src="https://farm1.staticflickr.com/392/20080554069_0a8e63f868_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/294/20273049851_66fedac005_o.jpg"><img src="https://farm1.staticflickr.com/294/20273049851_7a6f307a2b_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/543/20258864722_abf45cb74f_o.jpg"><img src="https://farm1.staticflickr.com/543/20258864722_8dd2e7948b_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/361/20273050011_2dd18edabe_o.jpg"><img src="https://farm1.staticflickr.com/361/20273050011_33d0c2172e_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/379/19646212793_2147178ae9_o.jpg"><img src="https://farm1.staticflickr.com/379/19646212793_7fb67287df_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/389/20242180566_33900c230c_o.jpg"><img src="https://farm1.staticflickr.com/389/20242180566_7d35863955_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/278/20268412365_fb0229582f_o.jpg"><img src="https://farm1.staticflickr.com/278/20268412365_72d933818c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/450/20268412205_5c96118b8d_o.jpg"><img src="https://farm1.staticflickr.com/450/20268412205_dd75841b56_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/474/20260120952_d67bf0d12d_o.jpg"><img src="https://farm1.staticflickr.com/474/20260120952_c3e3d410fd_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/330/19648247983_39d88c0f94_o.jpg"><img src="https://farm1.staticflickr.com/330/19648247983_0f281194f5_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/442/20081179410_eac781c3d0_o.jpg"><img src="https://farm1.staticflickr.com/442/20081179410_bef84c3e69_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/317/20242963236_ea4e9a6cfb_o.jpg"><img src="https://farm1.staticflickr.com/317/20242963236_7b17d05c65_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/517/20275094881_aa2bb61196_o.jpg"><img src="https://farm1.staticflickr.com/517/20275094881_7498344988_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3816/20269193265_a4d22a1da7_o.jpg"><img src="https://farm4.staticflickr.com/3816/20269193265_964a750af5_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/426/20082590269_47a70bccbb_o.jpg"><img src="https://farm1.staticflickr.com/426/20082590269_100dfa80b9_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/259/19646567024_9f4e63b804_o.jpg"><img src="https://farm1.staticflickr.com/259/19646567024_99856d60bd_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/393/19646566964_69244822e8_o.jpg"><img src="https://farm1.staticflickr.com/393/19646566964_4d956aae3f_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/522/20081218068_fce62a8512_o.jpg"><img src="https://farm1.staticflickr.com/522/20081218068_33dfe32b4b_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/291/19648254773_4bfedb2a25_o.jpg"><img src="https://farm1.staticflickr.com/291/19648254773_b872a6092e_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+</div>
+<p>We can't believe it's already been five years??? A lot has changed since the Con Artist Collective opened up in the basement at 119 Ludlow with a handful of artists and a whole lot of grit. But after 170+ shows featuring hundreds of artists creating thousands of original new works, we’re still here helping the downtown art scene thrive. So join us as we celebrate five years at the center of emerging arts and culture in the Lower East Side and beyond. Whether you’re one of our 400+ members, a collaborator, a supporter or “just curious,” you are our community...and this party is for you. Come get some.<br><br><a href="https://www.kickstarter.com/projects/conartist/con-artist-collective-book-the-first-five-years?ref=nav_search">To Celebrate our 5 Year Anniversary we're publishing a beautiful 200+ book, Reserve your copy now on Kickstarter</a><br> <b>DATE: Friday, April 24th, 2015 /// 6pm - midnight<br></b></p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-17122708"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/17122708-sound-and-vision-album-art-reimagined">Sound and Vision: Album Art Reimagined</a></h2>
+        	<div class="textile">
+            	<p><img src="https://farm8.staticflickr.com/7331/16470516616_cf522e5dac_o.gif" alt="Vision-and-Sound" height="358" width="475"></p>
+<p><b>Dates: April 21st to May 2nd<br></b><b>AT: Con Artist Ludlow Gallery, 119 Ludlow St.</b></p>
+<p><a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/258/19135057783_b8177bb63b_o.jpg"><img src="https://farm1.staticflickr.com/258/19135057783_abe13e3f4e_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3722/19760647241_031be0063b_o.jpg"><img src="https://farm4.staticflickr.com/3722/19760647241_b0b2c83349_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm1.staticflickr.com/273/19135056293_83472a7164_o.jpg"> <img src="https://farm1.staticflickr.com/273/19135056293_60a7a3ce11_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5660/20995983261_ed0010bcdb_o.jpg"> <img src="https://farm6.staticflickr.com/5660/20995983261_b9f4c30c0c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm4.staticflickr.com/3752/19567930860_2c2038ccbd_o.jpg"> <img src="https://farm4.staticflickr.com/3752/19567930860_afefbc93ec_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5816/20800410230_faff2a7f77_o.jpg"> <img src="https://farm6.staticflickr.com/5816/20800410230_7d68609384_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5681/20365857204_3b22e65db7_o.jpg"> <img src="https://farm6.staticflickr.com/5681/20365857204_56de18261c_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5730/20800410430_87c907d964_o.jpg"> <img src="https://farm6.staticflickr.com/5730/20800410430_f42e93d535_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5646/20365853814_99f15227bc_o.jpg"> <img src="https://farm6.staticflickr.com/5646/20365853814_3e96a97cf0_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5777/20962219986_73ddff23a3_o.jpg"><img src="https://farm6.staticflickr.com/5777/20962219986_af3445e91b_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://farm6.staticflickr.com/5794/20801672829_2d3000c6a9_o.jpg"> <img src="https://farm6.staticflickr.com/5794/20801672829_f5dd9ab98a_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt=""></p>
+<p>The Greatest Albums. The ones we maintain to be classic, essential, even perfect in the face of any and all argument. Each of us has a unique and highly personal catalogue of music that we return to again and again regardless of the ways we and the times may change. For many of us the crowning touch to these albums is an unforgettable cover.</p>
+<p>“Sound &amp; Vision” is dedicated to the artistry of these visual statements that capture the genius, inspiration, passion and provocation of the recorded sounds they envelop. We’ve invited artists of the collective to reinterpret cover art from some of their favorite albums which span a significant range of musical styles, genres, periods and recording techniques. Count on one sure thing: the new works they’ve created will be every bit as diverse and provocative as the iconic albums they invoke.</p>
+<p>“Sound &amp; Vision” is curated by Bree Rubin &amp; Pat Myers.</p>
+	        </div>
+		</div>
+  </div>
+    
+    
+        <div id="more" class="article"><p>&darr; <a href="/blogs/past-events?page=21"></a></p></div>        
+       
+    <div id="article-list-foot"></div>
+
+  
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+</div> <!-- Blog Content -->
+
+<script>
+function ScrollExecute() {
+  if($(document).height() - 800 < ($(document).scrollTop() + $(window).height())) {
+    // find container for next url to load
+    scrollNode = $('.article#more').last();
+    // find url to load, inside that container
+    scrollURL = $('.article#more p a').last().attr("href");
+    if(scrollNode.length > 0 && scrollNode.css('display') != 'none') {
+      $.ajax({
+        type: 'GET',
+        url: scrollURL,
+        beforeSend: function() {
+          scrollNode.clone().empty().insertAfter(scrollNode).append('<img class="loading" src=\"//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/loading.gif?7579882800129985059\" />');
+          scrollNode.hide();
+        },
+        success: function(data) {
+        // remove loading feedback
+          scrollNode.next().remove();
+          scrollNode.remove();
+          var filteredData = $(data).find(".article");
+          filteredData.insertBefore( $("#article-list-foot") );
+          
+        },
+        dataType: "html"
+      });
+    }
+  }
+}
+
+$(document).ready(function () {
+  $(window).scroll(function(){
+    $.doTimeout( 'scroll', 200, ScrollExecute);
+  });
+});
+</script>
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

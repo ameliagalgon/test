@@ -1,0 +1,373 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Members DISCIPLINE</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"d0b51e9b-9810-4c7b-addb-0adf7bfe9804","pageurl":"conartistnyc.com\/pages\/members","s":"pages-7101782","u":"8f9b46a9b04a","p":"page","rtyp":"page","rid":7101782};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":7101782}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":7101782}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "VCs3ektuR2Z6K0RJWURXczF6Qm1lNklmRjZmWEJGVFY4NTJPWndIcGEzb3dPL3J6ekxDdWZkTUh3ckRIVE90Ti0tbGVXU21wYnppcEc4Y0RPR3htSjVHUT09--7ae4c67c27922ba036da9acea95fb4a5b71abbe4";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/pages/members">
+</head>
+<body id="page-page">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "page-content" >
+<h2 style="text-align: left;">
+<b>Current Members</b><br><br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/adrianajgarces_artistwebsites_com_index_html.jpg?546"> <span style="color: #000000;"><a href="http://AdrianaJGarces.ArtistWebsites.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Adriana Garces</a></span><br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/AlliMerz_avatar.jpg?2922" alt=""> <span style="color: #000000;"><a href="http://allisonmerz.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Allison Merz</a> </span><br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Wolfvatar.jpg?2910" alt=""> <span style="color: #000000;"><a href="http://flickr.com/photos/andy-wolf" target="_blank" style="color: #000000;" rel="noopener noreferrer">Andy Wolf</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Andreavatar_compact.jpg?532" alt=""> <span style="color: #000000;"><a href="http://andreagarciavasquez.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Andrea Garcia</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/AngelaViensvatar_compact.jpg?511" alt=""> <span style="color: #000000;"><a href="http://www.angelaviens.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Angela Viens</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/AnnaFawcusvatar.jpg?382" alt=""> <span style="color: #000000;"><a href="http://annafawcus.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Anna Fawcus</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/ari-rose_compact.png?530" alt=""> <span style="color: #000000;"><a href="http://www.ari-rose.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Ari Rose</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Audreyvatar.jpg?2970" alt=""> <span style="color: #000000;"><a href="http://yeahimaudrey.tumblr.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Audrey Ryan</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/BenjaColemanvatar.png?468" alt=""> <span style="color: #000000;"><a href="http://www.benjaminwrightcoleman.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Benjamin Wright Coleman</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Calogo_avatar.jpg?2892" alt=""> <span style="color: #000000;"><a href="http://conartistnyc.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Brian Shevlin</a></span> <br><img src="https://cdn.shopify.com/s/files/1/0123/0942/files/carriemae_com_rose.png?547"> <span style="color: #000000;"><a href="http://carriemae.com/" style="color: #000000;">Carrie Mae Rose</a></span><br> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/CarolineWerner_web.JPG?8391344100999056269"> <span style="color: #000000;"><a href="http://carolinewernerart.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Caroline Werner</a></span><br><img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CarolynColsantVatar.jpg?462" alt=""> <span style="color: #000000;"><a href="http://carolyncolsant.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Carolyn Colsant</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAAlexFortuneTeller_avatar.jpg?2894" alt=""> <span style="color: #000000;"><a href="http://charlessullivan.tumblr.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Charles Alexander Sullivan</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CharlesAllenvatar.jpg?416" alt=""> <span style="color: #000000;"><a href="http://fallgates.tumblr.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Charles Allen</a></span> <br><img src="//cdn.shopify.com/s/files/1/0123/0942/files/clethbridge-thumbnail.jpg?594"> <span style="color: #000000;"><a title="Charlotte Lethbridge" href="http://www.charlotte-lethbridge.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Charlotte Lethbridge</a></span><br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Mendozavatar.jpg?2974" alt=""> <span style="color: #000000;"><a href="http://chrismendoza.carbonmade.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Chris Mendoza</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Codvatar.jpg?2912" alt=""> <span style="color: #000000;"><a href="http://codyoyama.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Cody Oyama</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CourtneyGordanvatar.jpg?428" alt=""> Courtney Gordon<br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> <span style="color: #000000;"><a href="http://danielamanna.deviantart.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Daniel Lamanna</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Deanvatar.jpg?2914" alt=""> <span style="color: #000000;"><a href="http://deanmillien.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Dean Millien</a></span> <br> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/DelfinaVatarfiah.jpg?604"> <span style="color: #000000;"><a href="http://delfinapicchiophotography.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Delifna Picchio</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/DorianDevatar.jpg?552" alt=""> <span style="color: #000000;"><a href="http://artwhenigettoit.blogspot.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Dorian Devins</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Elkevatar.jpg?2972" alt=""> <span style="color: #000000;"><a href="http://www.elkerevasudin.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Elke Reva Sudin</a></span> <br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Ericvatar.jpg?2906" alt=""> <span style="color: #000000;"><a href="http://freshlydoesit.com/wordpress/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Eric Triton</a></span>
+</h2>
+<h2 style="text-align: left;">
+<span style="color: #000000;"><a href="http://AdrianaJGarces.ArtistWebsites.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0123/0942/files/emmawadethumbnail_large.jpg?16147295443030351235" alt=""></a> <a href="http://emmawade.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer"><span style="text-decoration: underline;"><span>Emma Wade</span></span></a></span><br> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/EvanLavatar.jpg?622"> <span style="color: #000000;"><a href="http://elovisualart.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Evan Lorberbaum</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/babybell1_compact.jpg?550" alt=""> <a href="http://www.frogwang.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Frog Wing</a> </span><br> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Garnvatar.jpg?2916" alt=""> <span style="color: #000000;"><a href="http://0-to-1.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Garner Oh</a> </span><br><span style="color: #000000;"> <img src="https://farm4.staticflickr.com/3832/11273039674_1b2dca6df5_o.jpg" alt=""> <a href="http://www.geoffgreen.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Geoff Green</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Govatar.jpg?284" alt=""> <a href="http://photogoraphy.blogspot.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Go Nakamura</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/GCuts_ConArtistNY_2_compact.jpg?497" alt=""> <a href="http://guillotinecuts.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Guillotine Cuts</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/HeaJinKoVatar.png?464" alt=""> <a href="http://pulddegy.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Hea Jin Ko</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Heikivatar_compact.jpg?493" alt=""> <a href="http://www.heikebuelau.com/main" target="_blank" style="color: #000000;" rel="noopener noreferrer">Heiki Buelau</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> <a href="http://hokoroko.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Hiroko Ishikawa</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/JamesH_Avatar.png?2934" alt=""> <a href="http://www.pleasepleasefantastic.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">James Harrison</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/JDellvatar_compact.jpg?529" alt=""> <a href="http://www.janedell.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Jane Dell</a> </span><br><span style="color: #000000;"><img src="//cdn.shopify.com/s/files/1/0123/0942/files/JasperVatar.jpg?619"> <a href="http://www.jasperfields.net/" style="color: #000000;">Jasper Fields</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/AlexBertmanvatar.jpg?380" alt=""> <a href="http://www.louisenewyork.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Jeaz Louise</a></span><br><span style="color: #000000;"> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/Jennifer-Dwyer.png?597"> <a title="Jennifer Dwyer" href="http://www.jenniferemilydwyer.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Jennifer Dwyer</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/JonMannvatar2_compact.jpg?535" alt=""> <a href="http://genpopart.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Jon Mann</a></span><br><span style="color: #000000;"> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/Josefpinlac_com.jpg?540" alt=""> <a href="http://josefpinlac.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Josef Pinlac</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/JoMuelvatar.png?286" alt=""> <a href="http://josephmueller.net/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Joseph Mueller</a> </span><br><span style="color: #000000;"> <img src="https://farm4.staticflickr.com/3774/11313873416_5bdd22dd31_o.jpg"> <a href="http://juanbravo194.wix.com/juan" target="_blank" style="color: #000000;" rel="noopener noreferrer">Juan Bravo</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> <a href="http://juliapascone.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Julia Pascone</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/JuliaBernouisvatar_compact.jpg?491" alt=""> <a href="http://juliebernouis.kontrolboard.com" style="color: #000000;">Julie Bernouis</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/jwoodvatar.jpg?2960" alt=""> <a href="http://justinwood.us" target="_blank" style="color: #000000;" rel="noopener noreferrer">Justin Wood</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Kaponesvatar_compact.jpg?520" alt=""> <a href="http://www.kaponeisill.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Kapone Is ILL</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/KanaVatar.jpg?2958" alt=""> <a href="http://Kanakophoto.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Kanako Pine Miyamoto</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Kari-de-Koenigswarter--dekoenig_com.jpg?537"> <a href="http://dekoenig.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Kari de Koenigswarter</a></span>
+</h2>
+<h2>
+<span style="color: #000000;"><img src="//cdn.shopify.com/s/files/1/0123/0942/files/katte-geneta.jpg?595"> <a title="Katte Geneta" href="http://www.katte.co/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Katte Geneta</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/ko-irkt_compact.gif?533" alt=""> <a href="http://www.irktism.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Ko IRKT</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/www_kirstinchappell_com.jpg?548"> <a href="http://www.kirstinchappell.com" style="color: #000000;">Kirstin Chappell</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Zon_sn_avatar.gif?2930" alt=""> <a href="http://wakest.info" target="_blank" style="color: #000000;" rel="noopener noreferrer">Liaizon Wakest</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/LauraTack_avatar.jpg?2932" alt=""> <a href="http://lauratack.tumblr.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Laura Tack</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/LawrenceVatar_compact.jpg?518" alt=""> <a href="http://lawrenceschau.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Lawrence Schau</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> <a href="http://www.leahgabriel.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Leah Gabriel</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MarianaVatar.jpg?454" alt=""> Mariana Khomrenko </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MariaPetrovatar.jpg?288" alt=""> <a href="http://www.mariapetrovskaya.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Maria Petrovskaya</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MariannaPregvatar_compact.jpg?519" alt=""> <a href="http://mariannaperagallo.net" target="_blank" style="color: #000000;" rel="noopener noreferrer">Marianna Peragallo</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MattieHiivatar.jpeg?436" alt=""> <a href="http://www.matthewhillock.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Matthew Hillock</a> </span><br><span style="color: #000000;"> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/Mayavatar.png" alt=""> <a href="http://www.youtube.com/shamelessmaya" target="_blank" style="color: #000000;" rel="noopener noreferrer">Maya Washington</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> <a href="http://www.maxluger.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Max Luger</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MeganTatemvatar_compact.png?536" alt=""> <a href="http://www.megantatem.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Megan Tatem</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/meghanborvatar_compact.jpg?512" alt=""> <a href="http://www.meghanborah.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Meghan Borah</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Msharpvatar.jpg?2920" alt=""> <a href="http://wastedspaces.org" target="_blank" style="color: #000000;" rel="noopener noreferrer">Michael Sharp</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MikoLimVatar.jpg?456" alt=""> <a href="http://www.mikolim.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Miko Lim</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Miriamvatar.jpg?177" alt=""> Miriam Braverman</span><br><span style="color: #000000;"><img src="https://cdn.shopify.com/s/files/1/0123/0942/files/upshaw.jpg?513"> Mlle Upshaw</span><br><span style="color: #000000;"> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/NCarlosJ-site.jpg?627"> <a href="http://www.ncarlosj.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">N Carlos J</a></span><br><span style="color: #000000;"><img src="https://cdn.shopify.com/s/files/1/0123/0942/files/OscarVatar.jpg?2918" alt=""> <a href="http://trutatsu.tumblr.com/art" target="_blank" style="color: #000000;" rel="noopener noreferrer">Oscar Brown IV</a> <br></span><img src="//cdn.shopify.com/s/files/1/0123/0942/files/face.jpg?v=1495227201" alt="Patrick Carroll"> <a href="http://www.patroison.com/" target="_blank" rel="noopener noreferrer">Patrick Carroll</a><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> <a href="http://pdhphotos.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Patrick Hughes</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/PatrickGrzvatar_compact.jpg?526" alt=""> <a href="http://patrickgrz.tumblr.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Patrick Grzelewski</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/PaulJohnvatar_compact.jpg?495" alt=""> <a href="http://www.pauljohninternetart.info/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Paul John</a> </span><br><span style="color: #000000;"> <img src="https://farm3.staticflickr.com/2859/10144543945_86617faea3_o.jpg" alt=""> <a href="http://www.ilovemuza.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Polet Guzman</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/PauloVatar.png?231" alt=""> <a href="http://www.paulorojas.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Paulo Rojas</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/RSenchoway_avatar.jpg?2896" alt=""> <a href="http://www.rachaelsenchoway.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Rachael Senchoway</a> </span><br><span style="color: #000000;"> <img src="https://farm8.staticflickr.com/7341/10983443745_63c42f83f3_o.jpg" alt=""> <a href="http://www.raylenegorum.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Raylene Gorum</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/RSHERMAN_MEMBERAVATAR.jpg?2936" alt=""> <a href="http://bhekisherman.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Rebecca Sherman</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Reneevatar.jpg?2904" alt=""> <a href="http://reneebareno.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Renee Bareno</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Richvatar.png?2986" alt=""> <a href="http://glossworksrefinishing.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Rich Ordonez</a></span><br><span style="color: #000000;"> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/Rileyhoonan_com.jpg?538"> <a href="http://rileyhoonan.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Riley Hoonan</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/rosafulart_markup_compact.jpg?527" alt=""> <a href="http://rosafulart.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Rosa Chang</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/RyanWija_Avatar.png?2928" alt=""> <a href="http://meisstillhere.tumblr.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Ryan Wijayaratne</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Sanpovatar.jpg?426" alt=""> <a href="http://sanpo.yu-yake.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Sanpo Matsumoto</a> </span><br><span style="color: #000000;"> <img src="https://farm4.staticflickr.com/3744/11312707006_11431463a2_o.jpg" alt=""> <a href="http://cargocollective.com/samanthaLLsilver" target="_blank" style="color: #000000;" rel="noopener noreferrer">Samantha Leah Liberty Silver</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Zinvatar.png?2988"> <a href="http://zingallery.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Sara Zin</a> </span><br><span style="color: #000000;"><img src="//cdn.shopify.com/s/files/1/0123/0942/files/Swangvatar.jpg?616"> <a href="http://sarahwangart.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Sarah Wang</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Saroj_Thumbnail.jpg?466" alt=""> <a href="http://sarojpatel.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Saroj Patel</a> </span><br><span style="color: #000000;"> <img src="//cdn.shopify.com/s/files/1/0123/0942/files/shannon-orcutt_com.jpg?539"><a href="http://shannon-orcutt.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Shannon Orcutt</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/sheryo-avatar.jpg?2888"> <a href="http://sheryoart.tumblr.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Sheryo</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Shainvatar.png?2984" alt=""> <a href="http://www.shainayang.info/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Shaina Yang</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/jj_www_showdiscipline_com.jpg?549"> <a href="http://showdiscipline.com/" style="color: #000000;">Show Discipline</a></span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/MihaiVatar.jpg?458" alt=""> <a href="http://amandineforet.carbonmade.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Silvia Mihai</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/SonjaLessvatar_compact.png?516" alt=""> <a href="http://sonjalessley.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Sonya Lessley</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/TagBrumVatar.jpg?460" alt=""> <a href="http://www.tagbrum.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Tag Brum</a> </span>
+</h2>
+<h2><span style="color: #000000;"><a style="line-height: 1.2; font-size: 14px; color: #000000;" href="http://www.tagbrum.com/" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0123/0942/files/Tea-Hacic-Vlahovic.jpg?596"></a> <a title="Tea Hacic-Vlahovic" href="http://www.t-crumpets.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Tea Hacic-Vlahovic</a></span></h2>
+<h2>
+<span style="color: #000000;"><img src="https://cdn.shopify.com/s/files/1/0123/0942/files/TekProfilevatar_compact.jpg?525" alt=""> <a href="http://teknari.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Teknari</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Yokvatar.jpg?2902" alt=""> <a href="http://theyok.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">The Yok</a> </span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/VOavatar.jpg?2900" alt=""> <a href="http://drawmoreinc.com" target="_blank" style="color: #000000;" rel="noopener noreferrer">Victor Ochoa</a> </span><br><span style="color: #000000;"><img src="//cdn.shopify.com/s/files/1/0123/0942/files/WizardSkullvatar.JPG?644"> <a href="http://wizardskull.com/" target="_blank" style="color: #000000;" rel="noopener noreferrer">Wizard Skull</a></span><br><span style="color: #000000;"><img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> Yuliya Mamontova</span><br><span style="color: #000000;"> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/CAblankAvatar.jpg?2886" alt=""> Yvette Chapman</span>
+</h2>
+</div><!-- Page Content -->
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

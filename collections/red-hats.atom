@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/red-hats.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-05-24T20:41:44-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/7959343429</id>
+    <published>2017-05-24T20:41:44-04:00</published>
+    <updated>2017-05-24T20:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/medieval-red-hat"/>
+    <title>&quot;Medieval&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Medieval-Red-Hat.jpg?v=1495673094" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: Danica Pantic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959343429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7959308613</id>
+    <published>2017-05-24T20:38:19-04:00</published>
+    <updated>2017-05-24T20:38:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/let-it-be-red-hat"/>
+    <title>&quot;Let it Be&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Let-it-Be-Red-Hat.jpg?v=1495672899" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: Ioannis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959308613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7959270597</id>
+    <published>2017-05-24T20:32:25-04:00</published>
+    <updated>2017-05-24T20:32:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/fuhgeddaboudit-red-hat"/>
+    <title>&quot;Fuhgeddaboudit&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Fuhgeddaboudit-Red-Hat.jpg?v=1495672684" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: L Cool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959270597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7959222981</id>
+    <published>2017-05-24T20:27:54-04:00</published>
+    <updated>2017-05-24T20:27:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/happy-place-red-hat"/>
+    <title>&quot;Happy Place&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Happy-Place-Red-Hat.jpg?v=1495672340" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: Yaicecream</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959222981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7959130245</id>
+    <published>2017-05-24T20:17:04-04:00</published>
+    <updated>2017-05-24T20:17:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/wake-america-red-hat"/>
+    <title>&quot;WakE america&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/WakE-america-Red-Hat.jpg?v=1495671721" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: <a href="http://www.shanapedersonart.com/" target="_blank" rel="noopener noreferrer">Shana Pederson</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959130245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7959069829</id>
+    <published>2017-05-24T20:08:04-04:00</published>
+    <updated>2017-05-24T20:08:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/inside-of-my-mind-red-hat"/>
+    <title>&quot;Inside of My Mind&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Inside-of-My-Mind-Red-Hat.jpg?v=1495671233" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: John "Walsh" Curtin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959069829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7959012229</id>
+    <published>2017-05-24T20:03:18-04:00</published>
+    <updated>2017-05-24T20:03:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/con-artist-red-hat"/>
+    <title>&quot;Con Artist&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Con-Artists-Red-Hat.jpg?v=1495670881" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: Brian Shevlin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7959012229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7958706309</id>
+    <published>2017-05-24T19:18:39-04:00</published>
+    <updated>2017-05-24T19:18:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/beat-everything-red-hat"/>
+    <title>&quot;Beat Everything&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Beat-Everything-Red-Hat.jpg?v=1495669013" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: TFUK</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7958706309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7958562565</id>
+    <published>2017-05-24T19:06:02-04:00</published>
+    <updated>2017-05-24T19:06:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/fellate-red-hat"/>
+    <title>&quot;Fellate&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Fellate-Red-Hat.jpg?v=1495667794" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: <a href="https://www.epalexander.com/" target="_blank" rel="noopener noreferrer">E P Alexander</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7958562565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7958187461</id>
+    <published>2017-05-24T18:12:40-04:00</published>
+    <updated>2017-05-24T18:12:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/political-correctness-red-hat"/>
+    <title>&quot;Political Correctness&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Political-Correctness-Red-Hat.jpg?v=1495664371" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: Nero Dawn</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7958187461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7958135109</id>
+    <published>2017-05-24T18:02:43-04:00</published>
+    <updated>2017-05-24T18:02:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/space-or-rent-red-hat"/>
+    <title>&quot;Space or Rent&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Space-for-Rent-Red-Hat.jpg?v=1495663842" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: KatGal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7958135109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7957926533</id>
+    <published>2017-05-24T17:34:45-04:00</published>
+    <updated>2017-05-24T17:34:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/already-great-red-hat"/>
+    <title>&quot;Already Great&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Already-Great-Red-Hat.jpg?v=1495662230" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: Danielle Matthews</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>sigh</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7957926533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7957810501</id>
+    <published>2017-05-24T17:13:58-04:00</published>
+    <updated>2017-05-24T17:13:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/triggered-red-hat"/>
+    <title>&quot;Triggered&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Triggered_Red_Hat.jpg?v=1495661251" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: <a href="http://brandon-wisecarver.squarespace.com/" target="_blank" rel="noopener noreferrer">Brandon Wisecarver</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>The Red Hats</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7957810501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7957663301</id>
+    <published>2017-05-24T16:55:10-04:00</published>
+    <updated>2017-05-24T16:55:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/jiggy-red-hat"/>
+    <title>&quot;Jiggy&quot; Red Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Jiggy_Red_Hat.jpg?v=1495660377" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From "<a href="https://conartistnyc.com/blogs/past-events/the-red-hats" target="_blank" rel="noopener noreferrer">The Red Hats</a>"</p>
+<p>Slogan by: <a href="http://davidchevtaikin.com/" target="_blank" rel="noopener noreferrer">David Chevtaikin</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butt</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Hat Parody</s:tag>
+    <s:tag>Jiggy</s:tag>
+    <s:tag>MAGA</s:tag>
+    <s:tag>Make America Great Again</s:tag>
+    <s:tag>Parody</s:tag>
+    <s:tag>Parody Trump Hat</s:tag>
+    <s:tag>Red Hat</s:tag>
+    <s:tag>Trump</s:tag>
+    <s:tag>Trump Hat</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7957663301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/20-postcards.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-09-07T14:48:00-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/8993071557</id>
+    <published>2017-09-07T14:48:00-04:00</published>
+    <updated>2017-09-07T14:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/grimace-postcard-pt-2"/>
+    <title>Grimace Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/grimace_02_store.jpg?v=1504810041" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/grimace-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993071557</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993071557</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993070469</id>
+    <published>2017-09-07T14:45:29-04:00</published>
+    <updated>2017-09-07T14:45:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/grimace-postcard-pt-1"/>
+    <title>Grimace Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/grimace_01_store.jpg?v=1504809918" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/grimace-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993070469</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993070469</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993165061</id>
+    <published>2017-09-07T14:45:00-04:00</published>
+    <updated>2017-09-07T14:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/grim-reaper-postcard"/>
+    <title>Grim Reaper Postcard</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/grim-reaper_store.jpg?v=1504809881" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/grim-reaper-postcard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993165061</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993165061</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993063941</id>
+    <published>2017-09-07T14:40:02-04:00</published>
+    <updated>2017-09-07T14:40:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/feliz-cachapero-postcard-pt-2"/>
+    <title>Feliz Cachapero Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/feliz-cachapero_03_store.jpg?v=1504809576" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/feliz-cachapero-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993063941</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993063941</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993052229</id>
+    <published>2017-09-07T14:40:01-04:00</published>
+    <updated>2017-09-07T14:40:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/postcard-pt-1"/>
+    <title>Feliz Cachapero Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/feliz-cachapero_01_store.jpg?v=1504809558" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993052229</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993052229</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8992535429</id>
+    <published>2017-09-07T14:39:00-04:00</published>
+    <updated>2017-09-07T14:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/emarqzart-postcard-pt-2"/>
+    <title>Emarqzart Postcard Pt.2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/emarqz-art_01_store.jpg?v=1504809384" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/emarqzart-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>From:<span> </span><a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Emarqzart</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8992535429</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8992535429</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993324037</id>
+    <published>2017-09-07T14:27:35-04:00</published>
+    <updated>2017-09-07T14:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/carlos-cuellar-brown-postcard-pt-3"/>
+    <title>Carlos Cuellar Brown PC Pt. 3</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/carlos_03_store.jpg?v=1504808841" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/carlos-cuellar-brown-postcard-pt-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993324037</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993324037</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993321861</id>
+    <published>2017-09-07T14:26:56-04:00</published>
+    <updated>2017-09-07T14:26:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/carlos-cuellar-brown-postcard-pt-2"/>
+    <title>Carlos Cuellar Brown PC Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/carlos_02_store.jpg?v=1504808800" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/carlos-cuellar-brown-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993321861</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993321861</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8993320389</id>
+    <published>2017-09-07T14:25:00-04:00</published>
+    <updated>2017-09-07T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/carlos-cuellar-brown-postcard-pt-1"/>
+    <title>Carlos Cuellar Brown PC Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/carlos_01_store.jpg?v=1504808645" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/carlos-cuellar-brown-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>Adhesive Art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993320389</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8993320389</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898184517</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/cist-ones-postcard-pt-1"/>
+    <title>Cist Ones Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/cist-ones_01_store.jpg?v=1503537401" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/cist-ones-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898184517</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898184517</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898185733</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-cist-ones-postcard-pt-2"/>
+    <title>Cist Ones Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/cist-ones_02_store.jpg?v=1503537363" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/copy-of-cist-ones-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898185733</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898185733</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898202501</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/ching-lan-postcard-pt-1"/>
+    <title>Ching Lan Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Ching-Lan_01_front_store.jpg?v=1503537553" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/ching-lan-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898202501</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898202501</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898205317</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/ching-lan-postcard-pt-2"/>
+    <title>Ching Lan Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Ching-Lan_02_store.jpg?v=1503537583" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/ching-lan-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898205317</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898205317</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898207749</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/chris-mendoza-postcard-pt-1"/>
+    <title>Chris Mendoza Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/chris-mendoza_01_store.jpg?v=1503537641" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/chris-mendoza-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898207749</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898207749</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898213061</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-chris-mendoza-postcard-pt-2"/>
+    <title>Chris Mendoza Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/chris-mendoza_02_store.jpg?v=1503537694" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/copy-of-chris-mendoza-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898213061</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898213061</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898224261</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/cb23-postcard-pt-1"/>
+    <title>CB23 Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/cb23_01_store.jpg?v=1503537861" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/cb23-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898224261</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898224261</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898227845</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/cb23-postcard-pt-2"/>
+    <title>CB23 Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/cb23_02_store.jpg?v=1503537920" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/cb23-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898227845</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898227845</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898257925</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/colin-drake-postcard-pt-1"/>
+    <title>Colin Drake Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Colin-Drake_01_store.jpg?v=1503538131" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/colin-drake-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898257925</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898257925</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898260997</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/colin-drake-postcard-pt-2"/>
+    <title>Colin Drake Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Colin-Drake_02_store.jpg?v=1503538156" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/colin-drake-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898260997</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898260997</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898271109</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/christy-bencosme-postcard"/>
+    <title>Christy Bencosme Postcard</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/christy-bencosme_store.jpg?v=1503538293" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/christy-bencosme-postcard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898271109</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898271109</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8898278405</id>
+    <published>2017-08-23T21:14:05-04:00</published>
+    <updated>2017-08-23T21:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/cool-666-postcard-pt-1"/>
+    <title>Cool 666 Postcard Pt. 1</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/cool666_store.jpg?v=1503538368" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/cool-666-postcard-pt-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From: <a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898278405</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8898278405</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8882488069</id>
+    <published>2017-08-21T19:48:45-04:00</published>
+    <updated>2017-08-21T19:48:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/asend-postcard-with-frame"/>
+    <title>Asend Postcard (with frame)</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Asend_01_store.jpg?v=1503359681" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>From:<span> </span><a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882488069</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8882451077</id>
+    <published>2017-08-21T19:46:27-04:00</published>
+    <updated>2017-08-21T19:46:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/bobert-postcard"/>
+    <title>Bobert Postcard</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Bobert_01_store.jpg?v=1503359315" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/bobert-postcard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>From:<span> </span><a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882451077</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882451077</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8882428485</id>
+    <published>2017-08-21T19:42:28-04:00</published>
+    <updated>2017-08-21T19:42:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/bernstah-postcard"/>
+    <title>Bernstah Postcard</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Bernstah_01_store.jpg?v=1503359165" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/bernstah-postcard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>From:<span> </span><a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882428485</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882428485</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8882383877</id>
+    <published>2017-08-21T19:35:16-04:00</published>
+    <updated>2017-08-21T19:35:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/lone-postcard-pt-2"/>
+    <title>Lone Postcard Pt. 2</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Lone_02_store.jpg?v=1503358610" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://conartistnyc.com/products/lone-postcard-pt-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>From:<span> </span><a href="https://conartistnyc.com/blogs/past-events/20-art-show" target="_blank" rel="noopener noreferrer">$20 Postcard Show</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 Postcard Show</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882383877</id>
+      <title>No Frame</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8882383877</id>
+      <title>With Frame</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

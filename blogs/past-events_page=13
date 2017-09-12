@@ -1,0 +1,511 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Past Events</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="prev" href="/blogs/past-events?page=12">
+<link rel="next" href="/blogs/past-events?page=14">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/past-events.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"b1853d9c-8f45-4dd1-aaf0-d3bcc39fee19","pageurl":"conartistnyc.com\/blogs\/past-events?page=13","s":"blogs-1521782","u":"7373e33be857","p":"blog","rtyp":"blog","rid":1521782};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":1521782}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"blog","resourceType":"blog","resourceId":1521782}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "dWlzck5xeC9lSHg5NGc2ZlNYT2k2NXRNRkwzSXlLa2ljMkpMK1R1L2trNSswN3RrUlNpeFJibHhtczdIUGFrNi0tRUFtNW5EaUtXeE5xZzIxOHFzemhydz09--d8bbb6b54b8fc54e9f94d5bc57262ca80ebdcbc7";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/past-events?page=13">
+</head>
+<body id="page-blog">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+
+    
+    <div class="blog-item">
+    	<a name="article-76457413"></a>
+	    <div class="article first">
+    	    <h2><a href="/blogs/past-events/76457413-never-blue-vol-2">Never Blue vol.2</a></h2>
+        	<div class="textile">
+            	<div><img src="//cdn.shopify.com/s/files/1/0123/0942/files/colorgreenparty_02970be5-777e-44d2-af2d-a7cd6e660417_large.jpg?6337071495681825612" alt=""></div>
+<p><b>One Day Only Sunday March 27th 2016 5pm - 10pm</b> <br><br> Following up on artist and curator A COLOR GREEN’s hybrid street art book release, The A Color Green Zine Vol. 1 “In Black and White” (2015), Never Blue (2016) picks up from where Green left off, curating a selection of some of New York’s finest up and coming independent, underground artists working in street art and illustration today.<br><br> Never Blue combines the experience and talents of Green’s last few years. Formally co­-published by Endless Editions and premiering exclusively in store alongside an all blue gallery exhibition of original work at Con Artist NYC on March 27th for one night only. <br><br> The Gallery show will include work from Con Artist Collective members &amp; surprise guests. Featuring artwork by: A Color Green, Joe Capon, Abe Lincoln Jr., Joe Egan, Akiko, Justin Crawford, Anna Lindell, Kristy Elena, Anna D. Williams, Lauren Asta, Baily Crawford, Leaf 8k, Brolga, Maori Maori, CEEZ,  Miriam Carruthers, Chiar, Murrz, Chris RWK, Nyssa Frank, City Kitty Street Art, Ostertag, Damian Rivera, Seth Laupus, David Weiss, SL Graphic Design, Frank Ape, Stephen Faillace, Haus Riot, Tripp Jakovich, Victoria Montes, Jason Longo, Xbstrxct, Jcorp ™, Zero Productivity<br><br> <strong>PRESS:</strong> <a href="http://www.brooklynstreetart.com/theblog/events/color-green-presents-never-blue-a-group-exhibition-con-artist-collective-manhattan-nyc/#.VuBgJ9NVhBc" target="_blank">Brooklyn Street Art, Never Blue </a><br><br> All proceeds directly benefit future independent publishing of A COLOR GREEN, EndlessEditions and New York based artists</p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-121030213"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/metro-texture-street-photography-exhibition">Metro Texture - Street Photography Exhibition</a></h2>
+        	<div class="textile">
+            	<div><img src="//cdn.shopify.com/s/files/1/0123/0942/files/output_F34tXo.gif?12809585494448677860" alt="Metro Texture"></div>
+<p><strong>Dates: October 17 - 24<br>Wednesday 7 to 11 /// Gallery Night 10.19.2016</strong><br><br> An exhibition of street photography curated by <a href="http://liam-cotter.com/">Liam Cotter.</a><br><br> Featuring works by:</p>
+<meta charset="utf-8">
+<div style="padding-left: 30px; text-align: left;">
+<span><a data-cke-saved-href="http://marcovacchi.com/" href="http://marcovacchi.com/" target="_blank">Marco Vacchi</a></span><br> <a href="http://www.flickr.com/photos/the_eye_of_the_moment" target="_blank">Nolan Rhodes</a><br> <a href="http://jackiephoto.com" target="_blank">Jackie Neale</a><br> <a href="http://www.jamessenzer.net" target="_blank">James Senzer</a><br> <a href="http://www.a-edelman.tumblr.com" target="_blank">Andrea Edelman</a><br> <a href="http://www.flickr.com/photos/aquaman6/" target="_blank">David Vega</a><br> <a href="http://www.karlpetersonphoto.com" target="_blank">Karl Peterson</a><br> <a href="http://www.josefpinlac.com" target="_blank">Josef Pinlac</a><br> <a href="http://www.instagram.com/gma0093" target="_blank">Gregory Alders</a><br><a href="http://www.instagram.com/davidtusunsong" target="_blank">David Tu Sun Song</a>
+</div>
+<div style="padding-left: 30px; text-align: left;">
+<a href="http://www.keepitholy.org" target="_blank">Peter Hopkins</a><br> <a href="http://www.crisfavero.com" target="_blank">Cristopher Favero</a><br> <a href="http://www.denisetien.com" target="_blank">Denise Tien</a><br> <a href="http://www.issuu.com/nathanlaux" target="_blank">Nathan Laux</a><br> <a href="http://www.samyruby.com" target="_blank">Samy Ruby</a><br> <a href="http://www.instagram.com/ishooturbanutah" target="_blank">Nicholas Hemingway</a><br> <a href="http://www.nusevoicephotography.com/" target="_blank">Troy Barrow</a><br> <a href="http://www.katzart.jimdo.com" target="_blank">Kat Zhao</a>
+</div>
+<div style="padding-left: 30px; text-align: left;"><meta charset="utf-8"></div>
+<div style="padding-left: 30px; text-align: left;"><span><a data-cke-saved-href="https://tisch.nyu.edu/about/directory/photo/3553375" href="https://tisch.nyu.edu/about/directory/photo/3553375" target="_blank">Thomas Drysdale</a></span></div>
+<div style="padding-left: 30px; text-align: left;">
+<br> <strong>Con Artist Collective &amp; Gallery</strong><br>119 Ludlow St. New York, New York 10002<br>Open Monday through Saturday 11am to 7pm</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-119272197"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/space-and-place">Space and Place</a></h2>
+        	<div class="textile">
+            	<div>
+<img src="https://c8.staticflickr.com/8/7375/27789820511_0eb20f676a_o.jpg" alt=""><br><br><strong></strong>
+</div>
+<div><strong>NEW YORK / CON ARTIST COLLECTIVE</strong></div>
+<div>
+<strong>Dates: August 31 to September 9</strong><br><strong>Wednesday 7pm to 11pm /// Opening Party 8.31.2016<br>Wednesday 7pm to 11pm /// Closing Party 9.7.2016</strong><br><br>
+</div>
+<div><strong>MELBOURNE / MAGNET GALLERY</strong></div>
+<div><strong>Dates: September 15 to October 1</strong></div>
+<div><strong>Thursday 6:30pm // Opening Party 9.15.2016</strong></div>
+<div><strong> </strong></div>
+<div><strong></strong></div>
+<div>
+<p><span style="font-weight: 400;">13 artists from both the Con Artist Collective in New York and the Stills Co-op in Melbourne have come together from across the world for a visual conversation about Space &amp; Place using the medium of photography. This exchange of ideas explores the definition of space and place and how the two interact to create context, atmosphere, and identity. Can one exist without the other?</span></p>
+<span style="font-weight: 400;">An exhibition of this collaboration will be held at the Con Artist Collective Gallery in New York City from August 30th to September 9th, and at the Magnet Gallery in Melbourne from September 15th to October 1st.</span><br><br><strong>Con Artist Collective &amp; Gallery</strong><br>119 Ludlow St. New York, New York 10002<br><span>Open Monday through Saturday 11am to 7pm<br></span>
+</div>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-120891077"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/absolom-roche-pop-up">Absolom Roche Pop Up</a></h2>
+        	<div class="textile">
+            	<p><img src="//cdn.shopify.com/s/files/1/0123/0942/files/AbsolomRochePopUp2.jpg?1502569962493347697" alt="Absolom Roche Pop Up Shop"></p>
+<a rel="facebox" class="gallery" href="https://c7.staticflickr.com/8/7759/28237826054_a2c40f8068_o.jpg"><img src="https://c7.staticflickr.com/8/7759/28237826054_74b95f131e_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://c4.staticflickr.com/9/8671/28855032475_ffa856888b_o.jpg"><img src="https://c4.staticflickr.com/9/8671/28855032475_a663e93ba7_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://c6.staticflickr.com/8/7770/28855033245_48076e4208_o.jpg"><img src="https://c6.staticflickr.com/8/7770/28855033245_30cbd4c815_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://c5.staticflickr.com/9/8245/28237825524_a0c980f187_o.jpg"><img src="https://c5.staticflickr.com/9/8245/28237825524_3e9ee953f2_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p><strong>Dates: Saturday, September 10th - Sunday, September 11th</strong></p>
+<p>The Queens at <a href="http://www.absolomroche.com/" target="_blank">Absolom Roche</a> are BACK after the success of their August 5th weekend sale at Con Artist. Join us for champagne, giveaways, and thrones galore at this luxury handcrafted furniture sale.</p>
+<meta charset="utf-8">
+<p><strong>Con Artist Collective &amp; Gallery</strong><br><span>119 Ludlow St. New York, New York 10002 </span><br><span>Open Monday through Saturday 11am to 7pm </span> </p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-121021765"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/vew">Vew Solo Show</a></h2>
+        	<div class="textile">
+            	<p><img src="//cdn.shopify.com/s/files/1/0123/0942/files/VEWW_copy_large.jpg?16262997158462633059" alt="NYC Street Artist Vew Solo Show"></p>
+<p> <strong>Date: Friday, August 26th /// Reception from 7-11pm</strong></p>
+<p><span style="font-weight: 400;">Vew is an NYC born and raised self-taught artist and well known graffiti writer. Since 2010 he has spray painted New York City's multifaceted landscape and subway system. Vew has been published in the </span><span style="font-weight: 400;">New York Post</span><span style="font-weight: 400;"> and </span><span style="font-weight: 400;">Complex Magazine</span><span style="font-weight: 400;"> for his graffiti’s political/social messages.</span><span style="font-weight: 400;"><br></span></p>
+<p><span style="font-weight: 400;">It’s no secret that graffiti has been steadily making it’s way off the streets and into galleries and the homes of collectors for the past 40 years. From Keith Haring &amp; Basquiat in the 1980s, to Banksy’s 2006 debut in LA, or the 2016 KAWS show at the Brooklyn Museum. The line between fine art and graffiti seems to blur more every day, and the trend is not lost on those creating it.</span></p>
+<p><span style="font-weight: 400;">In this series of new work meant for the gallery, Vew has taken his street-style lexicon and blown it apart into it’s most basic elements to play with. The resulting work is an explosion of color and form; sophisticated, yet preserving that original spark of dangerous fun.</span></p>
+<p><b>"I was sad and happy. Lost, but also found. I just wanted to have fun. I wanted to hide under the covers and be a child again. This series fulfilled my need to get away from adulthood without taking the risks I normally would to escape it"  </b><span style="font-weight: 400;">- Vew, regarding his new series, 2016.</span></p>
+<p><strong></strong><strong>Con Artist Collective &amp; Gallery</strong><br><span>119 Ludlow St. New York, New York 10002 </span><br><span>Open Monday through Saturday 11am to 7pm </span><span> </span></p>
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-118295621"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/118295621-99-show">$99 Show</a></h2>
+        	<div class="textile">
+            	<p><img src="//cdn.shopify.com/s/files/1/0123/0942/files/99_Show_large.gif?2814559844285495793" alt=""></p>
+<a rel="facebox" class="gallery" href="https://c3.staticflickr.com/9/8662/28844522466_3d2a29b984_o.jpg"><img src="https://c3.staticflickr.com/9/8662/28844522466_bb776df3b1_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://c3.staticflickr.com/9/8629/28844522666_128ff1242d_o.jpg"><img src="https://c3.staticflickr.com/9/8629/28844522666_1e747656de_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://c8.staticflickr.com/9/8391/28800286711_3a0b1866e4_o.jpg"><img src="https://c8.staticflickr.com/9/8391/28800286711_8a56c785e8_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="https://c3.staticflickr.com/9/8667/28844523066_28581fd768_o.jpg"><img src="https://c3.staticflickr.com/9/8667/28844523066_5c2f6f2e36_s.jpg" alt=""></a> <img src="https://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" alt="">
+<p><strong> Dates: August 2nd to August 13th</strong></p>
+<p><strong>Wednesday 7 to 11 /// Opening Party 08.03.2016 </strong><br><strong>Wednesday 7 to 11 /// Closing Party 08.10.2016</strong></p>
+<p>Everything $99!<br><br><strong>Con Artist Collective &amp; Gallery</strong><br>119 Ludlow St. New York, New York 10002 <br>Open Monday through Saturday 11am to 7pm</p>
+	        </div>
+		</div>
+  </div>
+    
+    
+        <div id="more" class="article"><p>&darr; <a href="/blogs/past-events?page=14"></a></p></div>        
+       
+    <div id="article-list-foot"></div>
+
+  
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+</div> <!-- Blog Content -->
+
+<script>
+function ScrollExecute() {
+  if($(document).height() - 800 < ($(document).scrollTop() + $(window).height())) {
+    // find container for next url to load
+    scrollNode = $('.article#more').last();
+    // find url to load, inside that container
+    scrollURL = $('.article#more p a').last().attr("href");
+    if(scrollNode.length > 0 && scrollNode.css('display') != 'none') {
+      $.ajax({
+        type: 'GET',
+        url: scrollURL,
+        beforeSend: function() {
+          scrollNode.clone().empty().insertAfter(scrollNode).append('<img class="loading" src=\"//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/loading.gif?7579882800129985059\" />');
+          scrollNode.hide();
+        },
+        success: function(data) {
+        // remove loading feedback
+          scrollNode.next().remove();
+          scrollNode.remove();
+          var filteredData = $(data).find(".article");
+          filteredData.insertBefore( $("#article-list-foot") );
+          
+        },
+        dataType: "html"
+      });
+    }
+  }
+}
+
+$(document).ready(function () {
+  $(window).scroll(function(){
+    $.doTimeout( 'scroll', 200, ScrollExecute);
+  });
+});
+</script>
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

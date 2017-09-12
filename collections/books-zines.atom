@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/books-zines.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-06-22T17:54:36-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/8243002821</id>
+    <published>2017-06-22T17:54:36-04:00</published>
+    <updated>2017-06-22T17:54:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/times-to-move-on-vol-1-by-amber-elise-jones"/>
+    <title>Times to Move On Vol. 1 by Amber Elise Jones</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Time_Moves_On_Cover.jpg?v=1498169156" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Collaboration between <a href="https://amberelisejones.com/" target="_blank" rel="noopener noreferrer">Amber Elise Jones</a> and <a href="http://fromvenuswithlove.com/sicklyparticular" target="_blank" rel="noopener noreferrer">Venusain </a>Digital Media Zine, 18 pages, 2017</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amber Elise Jones</s:tag>
+    <s:tag>Digital Media</s:tag>
+    <s:tag>times to move on</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8243002821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8242833285</id>
+    <published>2017-06-22T17:15:09-04:00</published>
+    <updated>2017-06-22T17:15:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/wassaic-zine-by-audrey-ryan"/>
+    <title>Wassaic Zine by Audrey Ryan</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Wassaic_Cover.jpg?v=1498168069" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span> Art Zine, </span><span>Black and White, 13 pages, design by: Audrey Ryan</span><span>, 2016</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>audrey ryan</s:tag>
+    <s:tag>black and white</s:tag>
+    <s:tag>Wassaic</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8242833285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8242461637</id>
+    <published>2017-06-22T17:04:04-04:00</published>
+    <updated>2017-06-22T17:04:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-green-carpet-zine-by-a-color-green-friends"/>
+    <title>Green Carpet Zine by A Color Green</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Green_Carpet_Zine.jpg?v=1498165888" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>We decided to dedicate our second Limited Edition print to Oscar Season and all things celebrity. Catch Clooney, Ri-Ri, DOOM and more of your favorite celebs in this exclusive release full of celebrity puns and malformations. Locally made by<span> </span><a target="_blank" href="http://www.smalleditionsnyc.com/" rel="noopener noreferrer">Small Editions NYC</a>. Featuring artwork by:</p>
+<meta charset="utf-8">
+<p class="text-align-center"><a target="_blank" href="https://instagram.com/2susjustin/" rel="noopener noreferrer">@2susjustin</a><br><a target="_blank" href="https://instagram.com/createdangerously/" rel="noopener noreferrer">@createdangerously</a><br><a target="_blank" href="https://instagram.com/zeroproductivity/" rel="noopener noreferrer">@zeroproductivity</a><br><a target="_blank" href="https://instagram.com/sickanimation/" rel="noopener noreferrer">@sickanimation</a><br><a target="_blank" href="https://instagram.com/raw_beanz/" rel="noopener noreferrer">@raw_beanz</a><br><a target="_blank" href="https://instagram.com/mistakoy/" rel="noopener noreferrer">@mistakoy</a><br>@<a target="_blank" href="https://instagram.com/joecapon/" rel="noopener noreferrer">joecapon</a><br><a target="_blank" href="https://instagram.com/tinyelevator/" rel="noopener noreferrer">@tinyelevator</a><br><a target="_blank" href="http://seanmonaghan.blogspot.com/" rel="noopener noreferrer">Sean Monaghan</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>a color green</s:tag>
+    <s:tag>green carpet</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8242461637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8242337285</id>
+    <published>2017-06-22T16:27:18-04:00</published>
+    <updated>2017-06-22T16:27:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/be-good-of-heart-zine-by-mallory-smith"/>
+    <title>Be Good of Heart Zine by Mallory Smith</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/be_good_of_heart_cover.jpg?v=1498164897" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black and White, 13 pages, design by: Mallory Smith, 2016</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>be good of heart</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>Mallory Smtih</s:tag>
+    <s:tag>Wassaic</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8242337285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7944946885</id>
+    <published>2017-05-23T16:33:12-04:00</published>
+    <updated>2017-05-23T16:33:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/grasshopper-jones"/>
+    <title>&quot;Grasshopper Jones&quot;</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/grasshopper_jones_store.jpg?v=1495571969" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A collection of poetry (2013-2015) by C. Alexander.<br><br>"Born and raised in a blue-collar suburb where the world's first zombie movie was filmed, C. Alexander received a BA in Psychology before moving to Pre-Revolutionary Egypt, where he lived for 2.5 years. In 2010, he was fortunate to leave a kind of administrative position to join the international performance art troup called Firefly Tunnels. (<a href="http://sitesofpassage.org" target="_blank" rel="noopener noreferrer">http://sitesofpassage.org</a>)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2013-2015</s:tag>
+    <s:tag>C. Alexander</s:tag>
+    <s:tag>collection of poetry</s:tag>
+    <s:tag>Grasshopper Jones</s:tag>
+    <s:tag>poetry</s:tag>
+    <s:tag>zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7944946885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7256882629</id>
+    <published>2017-05-06T16:52:03-04:00</published>
+    <updated>2017-05-06T16:52:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/carlos-cuellar-brown-in-search-for-singularity-reflections-and-chronicles-from-the-end-of-time"/>
+    <title>CC Brown/In Search For Singularity</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/singularity.jpg?v=1494104369" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>In this paradigm-shattering book, the visionary author Carlos Cuellar Brown has created a counterculture tour de force that attempts to jam popular notions. These lyrical stories offer insight into humanities problems and potential for change. Centered on science, resource economics, and a natural systems approach, In Search For Singularity arouses curiosity in a panoply of readers; it voices a call for action on the personal, local and regional scales. This solution based journey rekindles our grassroots condition in the evolution of society and planetary stewardship.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7256882629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7006186629</id>
+    <published>2017-01-17T17:32:00-05:00</published>
+    <updated>2017-01-17T17:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-best-of-con-artist-collective"/>
+    <title>The Best of Con Artist Collective</title>
+    <s:type></s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Best_of_CA_FINAL_copy.jpg?v=1484692359" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Group Portraits of the Con Artist Collective from 2014-2016 by Nick McManus</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>film</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7006186629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7006111685</id>
+    <published>2017-01-17T17:13:00-05:00</published>
+    <updated>2017-01-17T17:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/handmade-silkscreen-book"/>
+    <title>Handmade SilkScreen Book</title>
+    <s:type></s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Skateboard_FINAL.jpg?v=1484692069" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade silkscreen book cataloging my own history through skateboarding. 1:3 Editions!- Chris Miller @DIGIMIL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>book</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7006111685</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7006039109</id>
+    <published>2017-01-17T16:44:00-05:00</published>
+    <updated>2017-01-17T16:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/when-ppl-die-the-sing-songs"/>
+    <title>&quot;When People Die They Sing Songs&quot;</title>
+    <s:type>Film</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/When_Ppl_Die_FINAL_copy.jpg?v=1484690069" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Film<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A story of a mother and daughter who resolve to uncover their wartime past buried half a century ago. After suffering a stroke, 93 year-old Holocaust survivor Regina is getting music therapy. Accompanied by a music therapist, Regina sings Yiddish and French songs of her youth. Her daughter Sonia is with her at every session. This revitalizes their mother-daughter relationship and emboldens them to revisit their past. With Regina's help, Sonia tries to capture their family story. The past they were so eager to forget they are now anxious to remember . Yet Regina's memory is rapidly succumbing to dementia.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>buy this</s:tag>
+    <s:tag>con artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>documentary</s:tag>
+    <s:tag>film</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>olga lvoff</s:tag>
+    <s:tag>please</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>when people die they sing songs</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7006039109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7005988229</id>
+    <published>2017-01-17T16:09:00-05:00</published>
+    <updated>2017-01-17T16:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/con-artist-original-zine"/>
+    <title>Con Artist Original Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/CA_RED_ZINE_store.jpg?v=1485197846" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Zine of Original Photographs by Con Artist NYC</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>book</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>film</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7005988229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7005913029</id>
+    <published>2017-01-17T15:34:00-05:00</published>
+    <updated>2017-01-17T15:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/women-found-on-tinder-4"/>
+    <title>Women Found on Tinder</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Apples_Tinder.jpg?v=1484883292" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Women with Apples Found on Tinder" Zine by Wizard Skull</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>book</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7005913029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7005830661</id>
+    <published>2017-01-17T15:31:00-05:00</published>
+    <updated>2017-01-17T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/women-found-on-tinder-3"/>
+    <title>Women Found on Tinder</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Ice_Cream_tinder.jpg?v=1484883617" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Women with ICE CREAM Found on Tinder" Zine by Wizard Skull</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>book</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7005830661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7005815237</id>
+    <published>2017-01-17T15:28:00-05:00</published>
+    <updated>2017-01-17T15:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/women-found-on-tinder-2"/>
+    <title>Women Found on Tinder</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Women_w_Pizza_FINAL.jpg?v=1484685062" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Women with Pizza Found on Tinder" Zines by Wizard Skull</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>book</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7005815237</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7005789125</id>
+    <published>2017-01-17T15:25:00-05:00</published>
+    <updated>2017-01-17T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/women-found-on-tinder-1"/>
+    <title>Women Found on Tinder</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Women_w_Elephants_FINAL.jpg?v=1484684827" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Women with Elephants Found on Tinder" by Wizard Skull</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>book</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7005789125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7005779077</id>
+    <published>2017-01-17T14:34:00-05:00</published>
+    <updated>2017-01-17T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/women-found-on-tinder"/>
+    <title>Women Found on Tinder</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Women_with_Fake_FINAL_COVER.jpg?v=1484878041" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Women With Fake Mustaches Found on Tinder" Zines By Wizard Skull</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7005779077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6845333573</id>
+    <published>2016-12-07T21:00:00-05:00</published>
+    <updated>2016-12-07T21:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/disposable-zine-by-michael-sharp"/>
+    <title>&quot;Disposable&quot; Zine by Michael Sharp</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Disposable_store.jpg?v=1484603402" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Disposable Camera Project was a project where over 45 artists shared two disposable cameras from October 2014 to March 2015. Each member had to pass the camera on to another member once they took a photo.</p>
+<p>"Disposable" was published in an edition of 100.</p>
+<p>Design: Miguel Ibarra, Brian Shevlin, and Michael Sharp</p>
+<p>Project By: Michael Sharp</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>Camera</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>disposable camera</s:tag>
+    <s:tag>film</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6845333573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6806033541</id>
+    <published>2016-11-25T16:53:00-05:00</published>
+    <updated>2016-11-25T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-black-ader-handmade-zine-10"/>
+    <title>The Black Ader - Handmade Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/BA8f.jpg?v=1480110851" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand-made in Osaka Japan and Brooklyn New York, these incredible zines are chalked full of graffiti stickers, "tag it yourself" landscapes, street photography, original art and more! All from the mind of The Black Ader. Follow him at <a href="http://conartistnyc.com/products/www.instagram.com/theeblackader" target="_blank">@theeblackader</a> on Instragram!</p>
+<p>Pick up one of these little pieces of street art history before December 24th, and get a FREE <a href="http://conartistnyc.com/products/slap-pack" target="_blank">SLAP PACK</a>, put together by the artists of the Con Artist Collective for our wildly popular <a href="http://conartistnyc.com/blogs/past-events/52747397-slap-2" target="_blank">SLAP!</a> exhibition series of handmade graffiti stickers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>grafitti</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>The Black Ader</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6806033541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6806027589</id>
+    <published>2016-11-25T16:36:00-05:00</published>
+    <updated>2016-11-25T16:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-black-ader-handmade-zine-7"/>
+    <title>The Black Ader - Handmade Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/BA7f.jpg?v=1480109871" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand-made in Osaka Japan and Brooklyn New York, these incredible zines are chalked full of graffiti stickers, "tag it yourself" landscapes, street photography, original art and more! All from the mind of The Black Ader. Follow him at <a href="http://conartistnyc.com/products/www.instagram.com/theeblackader" target="_blank">@theeblackader</a> on Instragram!</p>
+<p>Pick up one of these little pieces of street art history before December 24th, and get a FREE <a href="http://conartistnyc.com/products/slap-pack" target="_blank">SLAP PACK</a>, put together by the artists of the Con Artist Collective for our wildly popular <a href="http://conartistnyc.com/blogs/past-events/52747397-slap-2" target="_blank">SLAP!</a> exhibition series of handmade graffiti stickers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>grafitti</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>The Black Ader</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6806027589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6806026693</id>
+    <published>2016-11-25T16:34:00-05:00</published>
+    <updated>2016-11-25T16:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-black-ader-handmade-zine-6"/>
+    <title>The Black Ader - Handmade Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/BA11f.jpg?v=1480109764" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand-made in Osaka Japan and Brooklyn New York, these incredible zines are chalked full of graffiti stickers, "tag it yourself" landscapes, street photography, original art and more! All from the mind of The Black Ader. Follow him at <a href="http://conartistnyc.com/products/www.instagram.com/theeblackader" target="_blank">@theeblackader</a> on Instragram!</p>
+<p>Pick up one of these little pieces of street art history before December 24th, and get a FREE <a href="http://conartistnyc.com/products/slap-pack" target="_blank">SLAP PACK</a>, put together by the artists of the Con Artist Collective for our wildly popular <a href="http://conartistnyc.com/blogs/past-events/52747397-slap-2" target="_blank">SLAP!</a> exhibition series of handmade graffiti stickers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>grafitti</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>The Black Ader</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6806026693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6806026181</id>
+    <published>2016-11-25T16:31:00-05:00</published>
+    <updated>2016-11-25T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-black-ader-handmade-zine-5"/>
+    <title>The Black Ader - Handmade Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/BA6f.jpg?v=1480109690" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand-made in Osaka Japan and Brooklyn New York, these incredible zines are chalked full of graffiti stickers, "tag it yourself" landscapes, street photography, original art and more! All from the mind of The Black Ader. Follow him at <a href="http://conartistnyc.com/products/www.instagram.com/theeblackader" target="_blank">@theeblackader</a> on Instragram!</p>
+<p>Pick up one of these little pieces of street art history before December 24th, and get a FREE <a href="http://conartistnyc.com/products/slap-pack" target="_blank">SLAP PACK</a>, put together by the artists of the Con Artist Collective for our wildly popular <a href="http://conartistnyc.com/blogs/past-events/52747397-slap-2" target="_blank">SLAP!</a> exhibition series of handmade graffiti stickers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>grafitti</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>The Black Ader</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6806026181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6806023877</id>
+    <published>2016-11-25T16:26:00-05:00</published>
+    <updated>2016-11-25T16:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-black-ader-handmade-zine-4"/>
+    <title>The Black Ader - Handmade Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/BA5f.jpg?v=1480109461" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand-made in Osaka Japan and Brooklyn New York, these incredible zines are chalked full of graffiti stickers, "tag it yourself" landscapes, street photography, original art and more! All from the mind of The Black Ader. Follow him at <a href="http://conartistnyc.com/products/www.instagram.com/theeblackader" target="_blank">@theeblackader</a> on Instragram!</p>
+<p>Pick up one of these little pieces of street art history before December 24th, and get a FREE <a href="http://conartistnyc.com/products/slap-pack" target="_blank">SLAP PACK</a>, put together by the artists of the Con Artist Collective for our wildly popular <a href="http://conartistnyc.com/blogs/past-events/52747397-slap-2" target="_blank">SLAP!</a> exhibition series of handmade graffiti stickers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>The Black Ader</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6806023877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6806017157</id>
+    <published>2016-11-25T16:19:00-05:00</published>
+    <updated>2016-11-25T16:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/the-black-ader-handmade-zine-1"/>
+    <title>The Black Ader - Handmade Zine</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/BA1f.jpg?v=1480108861" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand-made in Osaka Japan and Brooklyn New York, these incredible zines are chalked full of graffiti stickers, "tag it yourself" landscapes, street photography, original art and more! All from the mind of The Black Ader. Follow him at <a href="www.instagram.com/theeblackader" target="_blank">@theeblackader </a>on Instragram!</p>
+<p>Pick up one of these little pieces of street art history before December 24th, and get a FREE <a href="http://conartistnyc.com/products/slap-pack" target="_blank">SLAP PACK</a>, put together by the artists of the Con Artist Collective for our wildly popular <a href="http://conartistnyc.com/blogs/past-events/52747397-slap-2" target="_blank">SLAP!</a> exhibition series of handmade graffiti stickers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>The Black Ader</s:tag>
+    <s:tag>zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6806017157</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/129381085</id>
+    <published>2015-06-10T14:19:00-04:00</published>
+    <updated>2015-06-10T14:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/slap-adhesives-egos-1"/>
+    <title>Slap: Adhesives &amp; Egos #1</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/SLAP1_Storecover.jpg?v=1433960402" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Slap: Adhesives &amp; Egos, DIY Stickers Issue #1</h5>
+<div>1000 hand numbered limited edition and full color zine.<br> 34 pages of original stickers and photos from Slap gallery show at Con Artist Collective. Less than 100 left available.<br><br> <a href="http://conartistnyc.com/blogs/past-events/7162960-slap-adhesives-egos-a-diy-sticker-exhibit%20target=" _blank="">More info about Slap here</a>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Graffiti</s:tag>
+    <s:tag>Sticker</s:tag>
+    <s:tag>Zine</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/129381085</id>
+      <title>Slap Issue 1</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CA_SLP_1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/567303940</id>
+    <published>2015-05-15T16:35:00-04:00</published>
+    <updated>2015-05-15T16:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/first-five-years-book"/>
+    <title>First Five Years Book</title>
+    <s:type>Zine</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Book_product_website.jpg?v=1433960128" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Zine<br>
+        <strong>Price: </strong>
+            49.00 - 99.00
+            <a href="https://conartistnyc.com/products/first-five-years-book">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THIS IS A PRE-ORDER</strong> We expect the book to be released fall 2017.</p>
+<p>We were successful and funded our book "The First Five Years" on Kickstarter. If you didn't get the chance to reserve your copy from the campaign, you can now pre-order them online for only $49 (+shipping).</p>
+<p>This book will be beautifully printed on the highest quality recycled paper, coffee table book sized and over 200+ pages long. Featuring over 400+ artists from 170+ gallery shows, events and projects from the Con Artist Collective 2010 to 2015. Not only with this be a beautiful book, it will be a historic record and an artistic document of the Lower East Side emerging art scene from our group workspace and gallery here at 119 Ludlow st.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://conartistnyc.com/products/567303940</id>
+      <title>Standard Cover</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>Standard Cover</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/567303940</id>
+      <title>Dean Millien</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>Artbook_5years-1</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/567303940</id>
+      <title>Lädy Millard</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>Ladycover</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/567303940</id>
+      <title>Mor Cover</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>Morcover</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/567303940</id>
+      <title>Shaina Yang Cover</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>Shainacover</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/567303940</id>
+      <title>Chris Mendoza Cover</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>Mendozacover</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/original.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-02-09T15:20:00-05:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/7114991109</id>
+    <published>2017-02-09T15:20:00-05:00</published>
+    <updated>2017-02-09T15:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/bisco-smith-resist"/>
+    <title>Bisco Smith Resist</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Resist_store.jpg?v=1486671645" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Original Acrylic and Spray Paint on Archival Paper framed 13 inch by 10 inch, signed by the Bisco Smith and from the Code Red #resist gallery show at Lazy Susan Gallery. Only 1 available.</p>
+<p>SOLD OUT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7114991109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7111163141</id>
+    <published>2017-02-08T22:24:00-05:00</published>
+    <updated>2017-02-08T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/bettina-black-white-and-read"/>
+    <title>Bettina Black White and Read</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Bettina_read_store.jpg?v=1486610887" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bettina Vaz Guimaraes is back from Brazil, and here in the workspace and producing incredible work. This is for the "What is Black, White and Read all over" 11inch X 14inch acrylic on collage newsprint on archival paper</p>
+<p>SOLD OUT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>handmade</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7111163141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/5553306053</id>
+    <published>2016-04-30T13:56:00-04:00</published>
+    <updated>2016-04-30T13:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/charlie-cunningham-foot-sculpture"/>
+    <title>Steam Roller Pipe</title>
+    <s:type>bric-a-brac (household items)</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/foot.jpg?v=1462039484" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>bric-a-brac (household items)<br>
+        <strong>Price: </strong>
+            154.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This one-of-a-kind steam roller pipe is the perfect item to complete any home!</p>
+<p>9 x 4 x 6</p>
+<p>by Charlie Cunningham</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charlie Cunningham</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/5553306053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

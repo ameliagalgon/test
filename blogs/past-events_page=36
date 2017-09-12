@@ -1,0 +1,498 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Past Events</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="prev" href="/blogs/past-events?page=35">
+<link rel="next" href="/blogs/past-events?page=37">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/past-events.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"9e8b42ed-cc7c-4e19-8bce-7b9f88663839","pageurl":"conartistnyc.com\/blogs\/past-events?page=36","s":"blogs-1521782","u":"9d6f0b1ef3b1","p":"blog","rtyp":"blog","rid":1521782};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":1521782}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"blog","resourceType":"blog","resourceId":1521782}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "RDlOUjZGblROMzAxMFFvajVoRHdmQnlZSzVpeTl4cEJVbGxVc2FUaGNVb2dJVU9WUWdDQzJWeVl3ZXpzblBMNi0tY2JBWDBCY1ZGSmlRdW1FWDNCRXZ3Zz09--e1fd09ccb6ff5afc9e33a1f3a87e79771b53d01d";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/past-events?page=36">
+</head>
+<body id="page-blog">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+
+    
+    <div class="blog-item">
+    	<a name="article-5667882"></a>
+	    <div class="article first">
+    	    <h2><a href="/blogs/past-events/5667882-nbcuniversal-life-catching-project">NBCUniversal - "Life Catching Project"</a></h2>
+        	<div class="textile">
+            	<div><img src="http://farm9.staticflickr.com/8383/8462886233_739f5e0a8b.jpg" /></div>
+<p><a class="gallery" href="http://farm9.staticflickr.com/8366/8462889065_8955a1ff3c_o.jpg" rel="facebox"><img src="http://farm9.staticflickr.com/8366/8462889065_276319eb73_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8109/8462888983_9151ba4be6_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8109/8462888983_21b1902c2b_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8385/8463989400_d3e14e242d_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8385/8463989400_d5e97a1d95_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8101/8463986836_c416622e8d_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8101/8463986836_c3ed2cfa4a_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8391/8462888829_fdb8053690_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8391/8462888829_2188dbab8e_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8085/8463989282_27d6243f07_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8085/8463989282_e2b18959d9_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8091/8462888675_00cbfa3a10_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8091/8462888675_b03e37fc1f_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8514/8462888579_625f747c7d_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8514/8462888579_ed95c18dfb_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8245/8462888497_c49d8cbde2_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8245/8462888497_0a58a209dd_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8093/8463988930_f01d791e2e_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8093/8463988930_1ed7d8c449_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8111/8463988866_c19b1d50bb_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8111/8463988866_8351e7beab_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8370/8462888287_ff232cd43c_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8370/8462888287_8ea836e5ae_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8105/8463988666_efef6a9f02_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8105/8463988666_382bc82432_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8365/8463988636_273282516a_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8365/8463988636_840000d6ba_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8372/8463988528_bab4659c0f_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8372/8463988528_d9dc95c328_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8241/8463988470_8621ee5db4_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8241/8463988470_b9f3013f69_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8371/8462887865_351733b48f_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8371/8462887865_c63df117d3_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8239/8462886307_24af54f571_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8239/8462886307_4f60727940_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8391/8463988260_083c0142b6_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8391/8463988260_4ec1ff650d_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8529/8462887715_aa07ca3f90_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8529/8462887715_aa8d64693b_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8107/8462887643_76fe28b138_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8107/8462887643_c619b50597_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8522/8462887571_ec4176895a_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8522/8462887571_d2ed411ee7_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8378/8462887455_d3c3867c66_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8378/8462887455_afac96d85f_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8519/8463987832_8e3101e6aa_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8519/8463987832_09fb7b7f44_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8377/8462887313_0fef33e1fc_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8377/8462887313_f82099fe0d_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8094/8462887231_fbdc855577_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8094/8462887231_2c85650e51_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8511/8462887151_c31b5e3120_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8511/8462887151_f721af1de9_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8509/8462887047_0be7aa62da_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8509/8462887047_33076acbc6_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8103/8463987442_a2a158f4c4_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8103/8463987442_69ee612aae_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8383/8462886865_4a5d92882d_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8383/8462886865_14dfbf51a3_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8387/8462886817_fc2613539d_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8387/8462886817_c2a79b3bde_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8389/8463987174_e6e242398e_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8389/8463987174_dd1cc04b1a_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8390/8463987084_dc25eb7e2f_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8390/8463987084_c900aa88ea_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8509/8463986968_650820dd59_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8509/8463986968_774596e8f1_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8531/8463986890_49e35402ec_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8531/8463986890_e90e0cc766_s.jpg" /> </a></p>
+<img src="http://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" />
+<p>In conjunction with NBCUniversal, in contrast to the fleeting minutiae of technology: a crowdsourced time capsule. Con Artists drew inspiration and drew renditions of photographs caught in <a href="http://lifecatching.tumblr.com/" target="_blank"><em>The Life Catching Project</em></a>.</p>
+<p>DATES: 11.30.2011 - 12.06.2011</p>
+<br /><br />
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-5608762"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/5608762-andy-wolf-black-mold-free-gold">Andy Wolf - "Black Mold, Free Gold"</a></h2>
+        	<div class="textile">
+            	<div><img src="http://farm9.staticflickr.com/8516/8464013934_b9237b76e1.jpg" /></div>
+<p><a class="gallery" href="http://farm9.staticflickr.com/8240/8464015504_fbd6c45836_o.jpg" rel="facebox"><img src="http://farm9.staticflickr.com/8240/8464015504_f0ec3ea601_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8245/8462915015_e4778d761a_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8245/8462915015_d169db10e9_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8526/8462914937_66199fe81a_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8526/8462914937_bd9dd190fd_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8506/8464015318_304e19910d_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8506/8464015318_3c45b1e846_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8095/8462914775_65891c2e34_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8095/8462914775_5642797e94_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8522/8464015150_e35a802d36_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8522/8464015150_120fe8b8f7_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8391/8464015052_d293e49a94_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8391/8464015052_f35621a93d_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8389/8462914495_bbf9436f54_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8389/8462914495_766e45b138_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8087/8462914397_d7a261759b_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8087/8462914397_9fb6660704_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8375/8462914227_38faecb32e_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8375/8462914227_3a491ac259_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8089/8462914147_8fe679b3c9_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8089/8462914147_be2da0537a_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8530/8462914091_cb6d36dc09_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8530/8462914091_5ff4df64f0_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8099/8462913975_9f59d01f1a_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8099/8462913975_9840b42130_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8383/8462913905_5d40104cf1_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8383/8462913905_690688a7bd_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8386/8462913745_4cd9d69896_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8386/8462913745_271b2a6a28_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8108/8464014126_3be51be7cd_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8108/8464014126_54e6c35756_s.jpg" /> </a> <a class="gallery" href="http://farm9.staticflickr.com/8226/8464014032_c5189593fe_o.jpg" rel="facebox"> <img src="http://farm9.staticflickr.com/8226/8464014032_9564cca4a3_s.jpg" /> </a></p>
+<img src="http://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" />
+<p>While an implied sense of loss lingers, more apparent is an attempt to restructure reality on purely physical terms, allowing the emotional and the spiritual to simply fall into place. These are blueprints, diagrams and records of the concretely re-made, mapped out both programmatically and upon impulse, finding new paradigms and quickly abandoning them for others: curious, hopeful and a little panicked.</p>
+<p>DATES: 10.12.2011 - 10.19.2011</p>
+<br /><br />
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-5608512"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/5608512-the-end-of-summer-as-we-know-it">"The End of Summer as We Know It"</a></h2>
+        	<div class="textile">
+            	<div><img src="http://farm9.staticflickr.com/8510/8464057724_338dcf5e96.jpg" /></div>
+<p><a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8513/8462960737_ce56f6a8e6_o.jpg"><img src="http://farm9.staticflickr.com/8513/8462960737_1373334f44_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8102/8462960711_8f59e16dd0_o.jpg"> <img src="http://farm9.staticflickr.com/8102/8462960711_efa428a04a_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8366/8464060438_58073d7b9c_o.jpg"> <img src="http://farm9.staticflickr.com/8366/8464060438_bd1b802147_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8529/8464060378_9e2f3d28d1_o.jpg"> <img src="http://farm9.staticflickr.com/8529/8464060378_51ecf2664a_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8104/8462960525_a4ff65e231_o.jpg"> <img src="http://farm9.staticflickr.com/8104/8462960525_b564b9804c_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8107/8464060278_19bd61350c_o.jpg"> <img src="http://farm9.staticflickr.com/8107/8464060278_cf4fb28857_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8098/8464060206_ef362f03ca_o.jpg"> <img src="http://farm9.staticflickr.com/8098/8464060206_402a0fc81c_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8105/8464060150_11f87a6405_o.jpg"> <img src="http://farm9.staticflickr.com/8105/8464060150_024d18347f_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8229/8462958005_3d440d30c8_o.jpg"> <img src="http://farm9.staticflickr.com/8229/8462958005_2827c3d254_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8099/8462960307_a24efdcf48_o.jpg"> <img src="http://farm9.staticflickr.com/8099/8462960307_fc5df6e1e8_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8095/8462960235_35100d69fe_o.jpg"> <img src="http://farm9.staticflickr.com/8095/8462960235_442bd2aa82_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8239/8464060032_cbf84ac427_o.jpg"> <img src="http://farm9.staticflickr.com/8239/8464060032_9713d66a95_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8236/8464059932_e82c5205e0_o.jpg"> <img src="http://farm9.staticflickr.com/8236/8464059932_e823a3cf9e_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8246/8462958839_e51270a984_o.jpg"> <img src="http://farm9.staticflickr.com/8246/8462958839_c9506ffa0f_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8110/8462958819_aabc73f701_o.jpg"> <img src="http://farm9.staticflickr.com/8110/8462958819_648caab857_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8518/8464058632_cb8cf67faf_o.jpg"> <img src="http://farm9.staticflickr.com/8518/8464058632_15366e176e_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8513/8462958675_70fbe43551_o.jpg"> <img src="http://farm9.staticflickr.com/8513/8462958675_511a30aefb_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8522/8464058528_bcdf1e488b_o.jpg"> <img src="http://farm9.staticflickr.com/8522/8464058528_dbb1cf6911_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8252/8462958557_e50d8b64ee_o.jpg"> <img src="http://farm9.staticflickr.com/8252/8462958557_95cbc8a228_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8530/8464058290_8d2b040b4a_o.jpg"> <img src="http://farm9.staticflickr.com/8530/8464058290_042bde9c9d_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8226/8464057840_8da1bdb370_o.jpg"> <img src="http://farm9.staticflickr.com/8226/8464057840_14bb0d898a_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8523/8462958325_71c944572a_o.jpg"> <img src="http://farm9.staticflickr.com/8523/8462958325_1d4440dbe3_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8520/8462958087_cde4d7a486_o.jpg"><img src="http://farm9.staticflickr.com/8520/8462958087_cf699e1783_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8229/8462960075_22c67af567_o.jpg"> <img src="http://farm9.staticflickr.com/8229/8462960075_374b903d8a_s.jpg" /></a></p>
+<img src="http://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" />
+<p><em>It was the end of summer as we knew it</em>. At least enough angst abounded to inspire these works, lo and behold Con Artist's final group show of 2011. </p>
+<p>DATES: 09.28.2011 - 10.05.2011</p>
+<br /><br />
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-5607722"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/5607722-silvia-mihai-learn-to-swim">Silvia Mihai - "Learn To Swim"</a></h2>
+        	<div class="textile">
+            	<div><img src="http://farm9.staticflickr.com/8386/8462983359_7e38a9c3e4.jpg" /></div>
+<p><a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8243/8464082944_a3dcde5b6d_o.jpg"><img src="http://farm9.staticflickr.com/8243/8464082944_af87d8702c_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8093/8462983613_81d95085c1_o.jpg"> <img src="http://farm9.staticflickr.com/8093/8462983613_0ac71fe957_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8529/8462983697_d54913cacc_o.jpg"> <img src="http://farm9.staticflickr.com/8529/8462983697_7068b8b3b4_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8237/8464083142_7410ccf59d_o.jpg"> <img src="http://farm9.staticflickr.com/8237/8464083142_6bf6beb325_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8246/8464083230_c89610fc60_o.jpg"> <img src="http://farm9.staticflickr.com/8246/8464083230_1fb8a1397a_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8528/8462983879_ae4013836a_o.jpg"> <img src="http://farm9.staticflickr.com/8528/8462983879_a6a216bddc_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8376/8464083370_d8c044f5a1_o.jpg"> <img src="http://farm9.staticflickr.com/8376/8464083370_b190a2ba82_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8097/8464083448_2784bdb9b0_o.jpg"> <img src="http://farm9.staticflickr.com/8097/8464083448_cd2932580e_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8231/8464083520_19f709763b_o.jpg"> <img src="http://farm9.staticflickr.com/8231/8464083520_5373b27014_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8242/8464083092_166a23a1f6_o.jpg"> <img src="http://farm9.staticflickr.com/8242/8464083092_16048c1bbe_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8368/8464083668_f64cfc2c50_o.jpg"> <img src="http://farm9.staticflickr.com/8368/8464083668_d78609a66b_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8236/8462984263_b9fd4d91d7_o.jpg"> <img src="http://farm9.staticflickr.com/8236/8462984263_5818120648_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8523/8462984311_661dc51773_o.jpg"> <img src="http://farm9.staticflickr.com/8523/8462984311_f615c3f6f1_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8506/8462984405_c82375a3a0_o.jpg"> <img src="http://farm9.staticflickr.com/8506/8462984405_b75374c668_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8101/8464083934_55d2923638_o.jpg"> <img src="http://farm9.staticflickr.com/8101/8464083934_64cd383d95_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8521/8462984515_08d3a1104e_o.jpg"> <img src="http://farm9.staticflickr.com/8521/8462984515_e399eb224b_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8527/8462984585_446e313ee5_o.jpg"> <img src="http://farm9.staticflickr.com/8527/8462984585_72e257b5dc_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8524/8464084170_62f8fab46f_o.jpg"> <img src="http://farm9.staticflickr.com/8524/8464084170_eb37d17600_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8250/8462984679_7081e8538d_o.jpg"> <img src="http://farm9.staticflickr.com/8250/8462984679_5f5029ed69_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8093/8464084226_9080f1ceec_o.jpg"> <img src="http://farm9.staticflickr.com/8093/8464084226_ab4155c754_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8381/8464084318_3e2a83856b_o.jpg"> <img src="http://farm9.staticflickr.com/8381/8464084318_473c81f135_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8386/8462984901_a3bf422f16_o.jpg"> <img src="http://farm9.staticflickr.com/8386/8462984901_50526c8035_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8532/8462984947_d32bc38904_o.jpg"> <img src="http://farm9.staticflickr.com/8532/8462984947_5970de5d51_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8240/8462985027_8e86c52fab_o.jpg"> <img src="http://farm9.staticflickr.com/8240/8462985027_8934dd54b8_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8225/8462985053_0b7ae9b523_o.jpg"> <img src="http://farm9.staticflickr.com/8225/8462985053_e6ca6438db_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8105/8464084604_9f349d0e1a_o.jpg"> <img src="http://farm9.staticflickr.com/8105/8464084604_6eb1a104af_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8238/8462985205_a427484e22_o.jpg"> <img src="http://farm9.staticflickr.com/8238/8462985205_43491557ce_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8229/8464084732_2f36c219b8_o.jpg"> <img src="http://farm9.staticflickr.com/8229/8464084732_50e9ce9a7f_s.jpg" /></a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8511/8462985307_c0c700906c_o.jpg"> <img src="http://farm9.staticflickr.com/8511/8462985307_9bb4897468_s.jpg" /></a></p>
+<img src="http://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" />
+<p><a href="http://amandineforet.carbonmade.com/" target="_blank">Silvia Mihai</a>'s first solo show in NYC. </p>
+<p>DATES: 08.31.2011 - 09.21.2011</p>
+<br /><br />
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-5607662"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/5607662-judith-sonnicken-drawings">Judith Sönnicken - "Drawings"</a></h2>
+        	<div class="textile">
+            	<div><img src="http://farm9.staticflickr.com/8087/8462992695_a77a37c414.jpg" /></div>
+<p><a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8368/8464092270_a9f26aa75d_b.jpg"><img src="http://farm9.staticflickr.com/8368/8464092270_a9f26aa75d_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8108/8464092386_bf6152ca76_b.jpg"> <img src="http://farm9.staticflickr.com/8108/8464092386_bf6152ca76_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8112/8464092228_41af094417_b.jpg"> <img src="http://farm9.staticflickr.com/8112/8464092228_41af094417_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8378/8464092398_5eff731b02_b.jpg"> <img src="http://farm9.staticflickr.com/8378/8464092398_5eff731b02_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8248/8462992945_528b8420b1_b.jpg"> <img src="http://farm9.staticflickr.com/8248/8462992945_528b8420b1_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8383/8462993039_fc115df14a_b.jpg"> <img src="http://farm9.staticflickr.com/8383/8462993039_fc115df14a_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8513/8462993113_4a03362876_b.jpg"> <img src="http://farm9.staticflickr.com/8513/8462993113_4a03362876_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8230/8464092706_53ddae7cfb_b.jpg"> <img src="http://farm9.staticflickr.com/8230/8464092706_53ddae7cfb_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8232/8462993291_ed9c024ef3_b.jpg"> <img src="http://farm9.staticflickr.com/8232/8462993291_ed9c024ef3_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8090/8464092848_19a12c6387_b.jpg"> <img src="http://farm9.staticflickr.com/8090/8464092848_19a12c6387_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8245/8462993403_0c985d566c_b.jpg"> <img src="http://farm9.staticflickr.com/8245/8462993403_0c985d566c_s.jpg" /> </a></p>
+<img src="http://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" />
+<p><berlin-based artist="" a="" href="http://www.judithsonnicken.com/" target="_blank">Berlin-based artist ﻿Judith Sönnicken made these drawings during her stay in NYC. </berlin-based></p>
+<p>DATES: 06.22.2011 - 06.29.2011</p>
+<br /><br />
+	        </div>
+		</div>
+  </div>
+    
+    <div class="blog-item">
+    	<a name="article-5607432"></a>
+	    <div class="article ">
+    	    <h2><a href="/blogs/past-events/5607432-presenting-sam-woolley">Presenting...Sam Woolley</a></h2>
+        	<div class="textile">
+            	<div><img src="http://farm9.staticflickr.com/8250/8463001705_f7e87d4413.jpg" /></div>
+<p><a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8109/8463001063_41fc731651_o.jpg"><img src="http://farm9.staticflickr.com/8109/8463001063_4f0743a1cc_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8112/8464100264_d76b0a9626_o.jpg"> <img src="http://farm9.staticflickr.com/8112/8464100264_a96f0a813c_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8097/8463001217_17100a6aaa_o.jpg"> <img src="http://farm9.staticflickr.com/8097/8463001217_80de711084_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8244/8463001291_0b003d74c7_o.jpg"> <img src="http://farm9.staticflickr.com/8244/8463001291_48a9caec52_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8376/8464100422_33d53b5cfb_o.jpg"> <img src="http://farm9.staticflickr.com/8376/8464100422_2559d562d2_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8232/8463001389_e32c8fd7e7_o.jpg"> <img src="http://farm9.staticflickr.com/8232/8463001389_6c5226d2fc_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8510/8464100530_f70e2c9ac5_o.jpg"> <img src="http://farm9.staticflickr.com/8510/8464100530_28b43fbecb_s.jpg" /> </a> <a rel="facebox" class="gallery" href="http://farm9.staticflickr.com/8249/8463001499_86838e112c_o.jpg"> <img src="http://farm9.staticflickr.com/8249/8463001499_aa212aefb3_s.jpg" /> </a></p>
+<img src="http://cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280" />
+<p><a href="http://thewoolley.com/" target="_blank">Sam Woolley's</a> first ever solo show.</p>
+<p>DATES: 05.25.2011 - 06.17.2011</p>
+<br /><br />
+	        </div>
+		</div>
+  </div>
+    
+    
+        <div id="more" class="article"><p>&darr; <a href="/blogs/past-events?page=37"></a></p></div>        
+       
+    <div id="article-list-foot"></div>
+
+  
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+</div> <!-- Blog Content -->
+
+<script>
+function ScrollExecute() {
+  if($(document).height() - 800 < ($(document).scrollTop() + $(window).height())) {
+    // find container for next url to load
+    scrollNode = $('.article#more').last();
+    // find url to load, inside that container
+    scrollURL = $('.article#more p a').last().attr("href");
+    if(scrollNode.length > 0 && scrollNode.css('display') != 'none') {
+      $.ajax({
+        type: 'GET',
+        url: scrollURL,
+        beforeSend: function() {
+          scrollNode.clone().empty().insertAfter(scrollNode).append('<img class="loading" src=\"//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/loading.gif?7579882800129985059\" />');
+          scrollNode.hide();
+        },
+        success: function(data) {
+        // remove loading feedback
+          scrollNode.next().remove();
+          scrollNode.remove();
+          var filteredData = $(data).find(".article");
+          filteredData.insertBefore( $("#article-list-foot") );
+          
+        },
+        dataType: "html"
+      });
+    }
+  }
+}
+
+$(document).ready(function () {
+  $(window).scroll(function(){
+    $.doTimeout( 'scroll', 200, ScrollExecute);
+  });
+});
+</script>
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

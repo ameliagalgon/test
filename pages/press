@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Press</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"af1799c4-1bb9-4330-9077-2e450bae5c95","pageurl":"conartistnyc.com\/pages\/press","s":"pages-7101842","u":"ad325c68ebb6","p":"page","rtyp":"page","rid":7101842};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":7101842}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":7101842}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "Nm9ENzd0UUlMbWJLUzFWbkkxR3l0dllFT242RWZqMkFPOU9KTjAyY0l2YW1tdndPZXJtSGluRGpGcXBPQm1qVC0tRm9mb1BVQ2NpL3RZbE9SeGNibTRUdz09--00633381fd19fef224b4d411199f15938f19458f";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/pages/press">
+</head>
+<body id="page-page">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "page-content" >
+<h2><b>What some people have been saying about the Con Artist Collective</b></h2>
+<div class="press-links">
+<!-- Added a Div Class to refine styling of this section of links --> <!--  Format to fill in with Date and Article:
+	<span class="press-date"></span>
+		<a href="" target="_blank"></a><br>
+	-->
+</div>
+<div class="press-links"><span class="press-date">05.11.2017 <a href="https://www.dwell.com/article/spotlight-on-work-spaces-that-double-as-art-galleries-1417a501" target="_blank" rel="noopener noreferrer">Dwell: Spotlight on work spaces that double as galleries</a><br>11.02.2016 <a href="http://www.widewalls.ch/artist-collective/" target="_blank" rel="noopener noreferrer">Widewalls: Top 10 Most inspiring Artist Collectives working today</a></span></div>
+<div class="press-links">
+<span class="press-date">08.01.2014</span> <a href="http://thevernissage.com/post/93501940237/hot-spot" target="_blank" rel="noopener noreferrer">The Vernissage inspired by The Con Artist Collective</a><br><span class="press-date">07.25.2014</span> <a href="http://itsnicework.tumblr.com/post/89684422285/interview-with-brian-shevlin-of-con-artist-collective" target="_blank" rel="noopener noreferrer">It's Nice Work interview with Owner Brian Shevlin</a><br><span class="press-date">07.18.2014</span> <a href="http://thevernissage.com/post/92152982477/be-the-ace-in-the-hole">The Vernissage Money Shot Review</a><br> <span class="press-date">05.06.2014</span> <a href="http://www.frank151.com/news/artask-me-why-shadow-boxing.html" target="_blank" rel="noopener noreferrer">Frank 151 comes to the Con Artist Collective 4 year anniversary party</a><br> <span class="press-date">04.24.2014</span> <a href="http://www.studiointernational.com/index.php/training-to-be-an-artist-art-centres-residencies-collectives-and-subsidised-studio-venues-in-new-york-city" target="_blank" rel="noopener noreferrer"> Studio International "Art venues in New York City"</a><br> <span class="press-date">04.21.2014</span> <a href="http://artefuse.com/interview-with-audrey-from-con-artist-collective-about-their-residency-project-epic-epoch/" target="_blank" rel="noopener noreferrer">Arte Fuse "Con Artist Collective's residency project Epic Epoch"</a><br> <span class="press-date">03.27.2014</span> <a href="http://www.interiordesign.net/projects/detail/2317-big-ideas-budget-minded/" target="_blank" rel="noopener noreferrer">Interior Design Magazine "Big Ideas"</a><br> <span class="press-date">03.26.2014</span> <a href="http://artiholics.com/2014/03/26/triangulism-at-con-artist-collective/" target="_blank" rel="noopener noreferrer">Artiholics: "Triangulism @ Con Artist Collective"</a><br> <span class="press-date">03.16.2014</span> <a href="http://artgallerystuff.blogspot.com/2014/03/triangulation-anamorphosis-paintings-by.html" target="_blank" rel="noopener noreferrer">Review: Triangulism at Con Artist Collective</a><br> <span class="press-date">03.05.2014</span> <a href="http://annafawcus.com/wpga-award-winning-photo/" target="_blank" rel="noopener noreferrer">Con Artist Collective member Anna Fawcus wins the WPGA Pollux Awards</a><br> <span class="press-date">02.14.2014</span> <a href="http://coherecommunity.com/blog/7-more-terrific-coworking-spaces-youve-never-heard-of" target="_blank" rel="noopener noreferrer">7 MORE Terrific Coworking Spaces You’ve Never Heard Of</a><br> <span class="press-date">02.04.2014</span> <a href="http://www.thedailybeast.com/galleries/2013/02/04/outsider-art-fair-10-artists-to-buy-now-photos.html#3c73c40f-7c53-4220-bde8-512278d9938b" target="_blank" rel="noopener noreferrer">The Daily Beast selects CA Member Dean Millien 10 artists to buy now</a><br> <span class="press-date">01.21.2014</span> <a href="http://www.fulltimepassion.com/top-68-coworking-spaces-in-nyc/" target="_blank" rel="noopener noreferrer">Top 68 Coworking Spaces in NYC</a><br> <span class="press-date">01.16.2014 </span> <a href="http://nymag.com/homedesign/articles/con-artist-collective-2014-1/" target="_blank" rel="noopener noreferrer">New York Magazine "Space of the Week"</a><br> <span class="press-date">01.14.2014</span> <a href="https://www.youtube.com/watch?v=VQqx3tpRLpE" target="_blank" rel="noopener noreferrer">Shameless Maya "NYC Where to Work"</a><br> <span class="press-date">01.06.2014</span> <a href="http://www.bbook.com/blacklist-3/" target="_blank" rel="noopener noreferrer">Black Book: Featured on The Blacklist</a><br> <span class="press-date">12.19.2013</span> <a href="http://www.washingtonpost.com/goingoutguide/museums/art-review-human-soul-and-machine-the-coming-singularity/2013/12/18/d9aa40f2-641d-11e3-aa81-e1dab1360323_story.html" target="_blank" rel="noopener noreferrer"> Con Artist Collective member Dean Millien, American Visionary Art Museum</a><br><span class="press-date">12.05.2013</span> <a href="http://www.miaminewtimes.com/2013-12-05/culture/art-basel-satellite-fairs-in-miami-beach-transform-the-tourist-mecca/" target="_blank" rel="noopener noreferrer">Miami New Times reviews Con Artist Collective at Select Fair Art Basel</a><br> <span class="press-date">12.01.2013</span> <a href="http://www.arthitectural.com/0-to-1-con-artist-collective/" target="_blank" rel="noopener noreferrer">Architectural Writeup on Con Artist's Expansion</a><br> <span class="press-date">11.26.2013</span> <a href="http://mocoloco.com/vote/con-artist-collective-by-0-to-1/" target="_blank" rel="noopener noreferrer">MocoLoco "An Artist's Playground"</a><br> <span class="press-date">11.26.2013</span> <a href="http://rainemagazine.com/culture/con-artist-collective-expands-into-lower-east-side-space-on-ludlow/" target="_blank" rel="noopener noreferrer">Raine Magazine "Con Artist Collective Expands"</a><br> <span class="press-date">11.12.2013</span> <a href="http://www.metropolismag.com/Point-of-View/November-2013/Con-Artist-Collective-Rethinks-Community-and-Shared-Space/" target="_blank" rel="noopener noreferrer">Metropolis Magazine "Con Artist Collective Rethinks Community"</a><br> <span class="press-date">09.16.2013</span> <a href="http://artefuse.com/brand-new-again-at-con-artist-gallery/" target="_blank" rel="noopener noreferrer">Arte Fuse, Review "Brand New Again" at Con Artist Gallery</a><br> <span class="press-date">08.16.2013</span> <a href="http://blogs.artinfo.com/artintheair/2013/08/16/lower-east-side-collective-con-artist-opening-gallery-on-ludlow-street/" target="_blank" rel="noopener noreferrer">ArtInfo: Coverage of new Con Artist Space</a><br> <span class="press-date">01.30.2013</span> <a href="http://newyork.cbslocal.com/guide/nycs-5-best-cowork-spaces/" target="_blank" rel="noopener noreferrer">CBS New York "NYC 5 Best Coworking Spaces"</a><br> <span class="press-date">05.05.2013</span> <a href="http://nymag.com/guides/everything/private-clubs-2013-5/" target="_blank" rel="noopener noreferrer">New York Magazine "Guide to Private Societies" </a><br> <span class="press-date">08.15.2012 </span> <a href="http://brokeassstuart.com/blog/2012/08/15/arty-party-with-open-bar-wip-tonight/" target="_blank" rel="noopener noreferrer">Broke Ass Stuart reviews Con Artist's Art Battle at WiP</a><br> <span class="press-date">08.13.2012 </span> <a href="http://www.artdaily.org/index.asp?int_sec=2&amp;int_new=57091#.UDRZ8dCXR5B" target="_blank" rel="noopener noreferrer">Artdaily.org previews "Con Artist Occupies Work in Progress"</a>  <br> <span class="press-date">07.24.2012 </span> <a href="http://sociallysuperlative.com/2012/07/24/salon-des-artes-at-w-i-p-presents-con-artist-collective/" target="_blank" rel="noopener noreferrer">Socially Superlative "Con Artist, Salon Des Artes Opening"</a>  <br> <span class="press-date">07.13.2012</span> <a href="http://www.solifestyle.com/2012/07/luminous-opera-presented-by-con-artist.html" target="_blank" rel="noopener noreferrer">Solifestyle: "Luminous Opera Presented by Con Artist</a><br> <span class="press-date">03.26.2012 </span> <a href="http://www.on-verge.org/recommendations/hats-off-to-dean-millien-of-con-artist-nyc" target="_blank" rel="noopener noreferrer">On-Verge Dean Millien mention</a>  <br> <span class="press-date">03.25.2012 </span> <a href="http://www.examiner.com/ny-in-new-york/hats-off-to-dean-millien-of-con-artist-nyc-review" target="_blank" rel="noopener noreferrer">The Examiner Millien Review</a>  <br> <span class="press-date">03.19.2012 </span> <a href="http://www.boweryboogie.com/2012/03/artist-profile-dean-milliens-foiled-fun-at-con-artist/?utm_source=Con+Artist+Mailing+List&amp;utm_campaign=98ae172a92-Curses032012&amp;utm_medium=email" target="_blank" rel="noopener noreferrer">Bowery Boogie's Dean Millien "Curses, Foiled Again!" Interview</a>  <br> <span class="press-date">03.10.2012 </span> <a href="http://whitehotmagazine.com/articles/shevlin-con-artist-art-collective/2488" target="_blank" rel="noopener noreferrer">Whitehot Magazine, We Hungered review &amp; Brian Shevlin interview</a>  <br> <span class="press-date">03.09.2012 </span> <a href="http://www.12ozprophet.com/news/pray_for_japan-silent_auction-at-con_artist-gallery" target="_blank" rel="noopener noreferrer">120zProphet review of "Pray for Japan" Charity Event</a>  <br> <span class="press-date">02.23.2012 </span> <a href="http://www.villagevoice.com/slideshow/con-artist-collective-opening-night-36206814/" target="_blank" rel="noopener noreferrer">Village Voice reviews Collective Opening Night</a> <br> <span class="press-date">05.01.2011 </span> <a href="http://jbowley91.blogspot.com/search?updated-max=2011-04-19T08%3A38%3A00-07%3A00&amp;max-results=1" target="_blank" rel="noopener noreferrer">Student Project about launching Con Artist in the UK</a> <br> <span class="press-date">01.28.2011 </span> <a href="http://www.artcat.com/exhibits/12881" target="_blank" rel="noopener noreferrer">Heidi Howard Show Announcement at Art Cart</a> <br> <span class="press-date">01.19.2011 </span> <a href="http://www.on-verge.org/recommendations/gallery-nights-every-wednesday-pablo-power-through-january-at-con-artist/" target="_blank" rel="noopener noreferrer"> Recommended by On-Verge Alternative Art Criticism</a> <br> <span class="press-date">01.07.2011 </span> <a href="http://whitehotmagazine.com/articles/january-2010-profile-con-artist/2190" target="_blank" rel="noopener noreferrer">Whitehot Magazine Feature</a> <br> <span class="press-date">12.03.2010 </span> <a href="http://naag.com/stores/the_artists_at_con_artist_make_and_sell_their_art_in_the_same_space" target="_blank" rel="noopener noreferrer">NAAG Art Culture Fashion Cool Stuff Blog</a> <br> <span class="press-date">11.21.2010 </span> <a href="http://vicyambao.net/blog/?tag=conartist-gallery" target="_blank" rel="noopener noreferrer">Vic Thinks Too Much, Ko Smith review</a> <br> <span class="press-date">10.10.2010 </span> <a href="http://fashionbeattv.blogspot.com/2010/10/art-conartists-art-collective.html" target="_blank" rel="noopener noreferrer">Fashion Beat TV video interview</a> <br> <span class="press-date">07.31.2010 </span> <a href="http://jahyu.tumblr.com/post/884484168" target="_blank" rel="noopener noreferrer">JAYHU. art, music, poetry blog</a> <br> <span class="press-date">07.27.2010 </span> <a href="http://sbrunthiscity.blogspot.com/2010/07/con-artist-every-wednesday.html" target="_blank" rel="noopener noreferrer">S&amp;B Run This City</a> <br> <span class="press-date">06.02.2010 </span> <a href="http://newyorkcitymb.blogspot.com/2010/06/con-artist-gallery-nite.html" target="_blank" rel="noopener noreferrer">mb in the city</a> <br> <span class="press-date">05.18.2010 </span> <a href="http://nymag.com/listings/stores/con-artist/" target="_blank" rel="noopener noreferrer">New York Magazine listing... go ahead, review us</a> <br> <span class="press-date">05.10.2010 </span> <a href="http://www.urbandaddy.com/nyc/leisure/9971/Con_Artist_Deep_Under_Ludlow_Street_New_York_City_NYC_Lower_East_Side_Store/search" target="_blank" rel="noopener noreferrer">Urban Daddy Featured Story</a> <br> <span class="press-date">05.03.2010 </span> <a href="http://www.boweryboogie.com/2010/05/con-artist-workshop-and-gallery-at-119-ludlow.html" target="_blank" rel="noopener noreferrer">Bowery Boogie Store Review</a> and <a href="http://www.boweryboogie.com/2010/07/con-artist-paints-neonsandwich.html" target="_blank" rel="noopener noreferrer">Event Story</a>
+</div>
+<!-- End Press-Links Div -->
+</div><!-- Page Content -->
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

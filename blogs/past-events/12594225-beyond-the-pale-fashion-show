@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">      
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Con Artist &mdash; Beyond The Pale Fashion Show</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/stylesheet.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/font.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/favicon.ico?7579882800129985059" type="image/x-icon" />
+  
+<!-- Font-Awesome ================================================== -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+ 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//cdn.shopify.com/s/files/1/0068/2162/assets/jquery.ba-dotimeout.min.js?3596342721385336638" type="text/javascript"></script>
+<script src="https://rawgit.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.js" type="text/javascript"></script>
+  
+
+
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />        
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/jquery.fancybox-1.3.4.pack.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/modernizr.custom.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/classie.js?7579882800129985059" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/uisearch.js?7579882800129985059" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.css?7579882800129985059" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/facebox.js?7579882800129985059" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//$(function() {
+  //$('a[rel*=facebox]').facebox()     
+//});
+$(document).ready(function() {
+
+    /* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.gallery").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+
+</script>
+
+
+<meta name="shopify-checkout-api-token" content="d0da98a1fc68596361a5008a41327a94">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/past-events.atom" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "conartistnyc.myshopify.com";
+      Shopify.theme = {"name":"conartistnyc-com-conartist-myshopify-com","id":2878289,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = "null";
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":1230942,"offset":-14400,"reqid":"7eab8c61-81ee-4306-8edb-ae189cdc072a","pageurl":"conartistnyc.com\/blogs\/past-events\/12594225-beyond-the-pale-fashion-show","s":"articles-12594225","u":"fb10c3f99ebc","p":"article","rtyp":"article","rid":12594225};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1230942/digital_wallets/dialog" />
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"article","resourceType":"article","resourceId":12594225}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1230942,"isMerchantRequest":null,"themeId":2878289,"themeCityHash":15077593686170386176}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"article","resourceType":"article","resourceId":12594225}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4c5801cae3452eff0ededa0ac07d432c1240b78b7e11282cceb3c3213951104b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<meta id="in-context-paypal-metadata" data-merchant-id="GSMRYRNBH4R92" data-environment="production" data-locale="en_US" data-redirect-url="" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-c7af4ba27c81ff9726fb68347df381c1a7869530e3d71092a34b580537ec7564.js" defer="defer" crossorigin="anonymous" integrity="sha256-x69LonyB/5cm+2g0ffOBwaeGlTDj1xCSo0tYBTfsdWQ="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "R1c4c3NVU1NRYTlNT0cyYWhKeEU3bE8xVU15bUpkMzdqWDlqMUxwdWs4TFVuUURmeWV0bFc3VFd6SHRLRjNoci0tM0dQOTFuUThqQWR6TjZiV0FiazlZUT09--c0aaa0fe29fcd0bd8b39fb261f6a93534fae820b";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+window.ShopifyPaypalV4VisibilityTracking = true;
+//]]>
+</script>
+
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<link rel="canonical" href="https://conartistnyc.com/blogs/past-events/12594225-beyond-the-pale-fashion-show">
+</head>
+<body id="page-article">
+    <div id="wrapper">
+    <div id="umbrella">
+        <ul>          
+          
+          <li class="customer-account-links">
+            
+              <p><a href="/account/login" id="customer_login_link">Login</a></p>
+            
+          </li>
+               
+          
+                         
+
+          <li class="cart-link">
+            <a href="/cart" class="num-items-in-cart">
+              <span class="icon">
+               0 items
+              </span>
+            </a>             
+          </li>
+
+          <li class="checkout-link">
+            <a href="/checkout" class="btn">Checkout</a>              
+          </li>
+
+        </ul>
+      </div><!-- /#umbrella -->
+    <div id="header" class="clearfix">
+            <!-- LOGO -->
+<div class="logo">
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0123/0942/t/5/assets/logo.png?7579882800129985059" alt="Con Artist" /></a>
+  
+ </div><!-- .logo -->
+
+<!-- MAIN NAVIGATION -->
+<ul class="nav">
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/gallery">Join</a>
+<ul>
+  
+   <li><a href="/pages/join-1">Join The Collective</a></li>
+  
+   <li><a href="/pages/philosophy">Philosophy</a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/collections/all-goods">Shop</a>
+<ul>
+  
+   <li><a href="/collections/apparel">Apparel </a></li>
+  
+   <li><a href="/collections/original">Art</a></li>
+  
+   <li><a href="/collections/books-zines">Books/Zines/Films</a></li>
+  
+   <li><a href="/collections/editions">Editions</a></li>
+  
+   <li><a href="/collections/patches">Patches</a></li>
+  
+   <li><a href="/collections/pins">Pins</a></li>
+  
+   <li><a href="/collections/toys">Toys </a></li>
+  
+   <li><a href="/collections/20-postcards">$20 Art Show</a></li>
+  
+   <li><a href="/collections/superdollar">$uperDollar</a></li>
+  
+   <li><a href="/collections/red-hats">Red Hats </a></li>
+  
+</ul></li>
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/blogs/past-events">Events</a>
+<ul>
+  
+   <li><a href="/blogs/past-events">Past Events</a></li>
+  
+   <li><a href="/">Upcoming</a></li>
+  
+   <li><a href="/pages/press">Press</a></li>
+  
+</ul></li>
+
+<!-- <li class="off"><a href="http://conartistnyc.tumblr.com/">Blog</a></li> -->
+
+<li class="off"><a href="http://conartistnyc.myshopify.com/pages/about">Collective</a>
+    <ul>
+    
+        <li><a href="/pages/join">Schedule a Tour</a></li>
+    
+        <li><a href="https://conartistcollective.com">Member Log In</a></li>
+    
+        <li><a href="/pages/members">Members</a></li>
+    
+        <li><a href="/pages/about">About /// Contact</a></li>
+    
+        <li><a href="http://conartistnyc.tumblr.com/">Blog</a></li>
+    
+</ul></li>
+
+<!--     <li class="off"><a href="http://conartistnyc.myshopify.com/search">Search</a></li> -->
+
+</ul>
+    		<div class = "social">
+<!-- 			<a class="search" href="http://conartistnyc.myshopify.com/search"><i class="fa fa-search"></i></a> -->
+              	<a href="http://conartistnyc.myshopify.com/pages/mailing-list"><i class="fa fa-envelope"></i></a>
+                <a href="https://www.facebook.com/pages/Con-Artist/168708836561032"><i class="fa fa-facebook"></i></a>
+              	<a href="https://twitter.com/#!/ConArtistNYC"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/conartistnyc/"><i class="fa fa-instagram"></i></a>
+            </div>
+      
+                <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                    <input class="sb-search-input" placeholder="______________________" type="text" name="q" value="" size="34" id="result-q" />
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><i class="fa fa-search search-icon"></i></span>
+                </form>
+                </div>
+    
+        </div><!-- #header -->
+
+        <div class="content clearfix">
+            <div id = "blog-content" class = "">
+    <h2>Beyond The Pale Fashion Show</h2>
+    <div class="post-content ">
+        <div><iframe src="//player.vimeo.com/video/116383989?color=cdcdcd" width="700" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+<p><br> <a rel="facebox" class="gallery" href="http://farm6.staticflickr.com/5521/12777363765_11fb59027f_o.jpg"><img src="http://farm6.staticflickr.com/5521/12777363765_8d884c7388_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7414/12777808984_7dcf6b9e18_o.jpg"><img src="http://farm8.staticflickr.com/7414/12777808984_cec75e67a2_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm6.staticflickr.com/5526/12777526145_f55f106524_o.jpg"><img src="http://farm6.staticflickr.com/5526/12777526145_9b9f58e662_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3827/12777499853_1afae02870_o.jpg"><img src="http://farm4.staticflickr.com/3827/12777499853_146c40fdb5_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm6.staticflickr.com/5493/12777810584_6df3b476e6_o.jpg"><img src="http://farm6.staticflickr.com/5493/12777810584_55f5487b94_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3773/12777814594_2c4b6737ba_o.jpg"><img src="http://farm4.staticflickr.com/3773/12777814594_06327ac485_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7378/12777964234_4c24a51101_o.jpg"><img src="http://farm8.staticflickr.com/7378/12777964234_dbe39ef478_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7349/12777470265_d625eb738f_o.jpg"><img src="http://farm8.staticflickr.com/7349/12777470265_33b526233d_s.jpg" alt=""></a> <a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3816/12777524795_f7df03b0d2_o.jpg"><img src="http://farm4.staticflickr.com/3816/12777524795_776ac79e07_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3767/12777372155_343b8be2c3_o.jpg"> <img src="http://farm4.staticflickr.com/3767/12777372155_42d3131045_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3676/12777501103_3a0d76f7d6_o.jpg"> <img src="http://farm4.staticflickr.com/3676/12777501103_c2b5d26d5c_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7366/12777967764_49d87a1f0e_o.jpg"> <img src="http://farm8.staticflickr.com/7366/12777967764_0825d017ef_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7308/12777657623_4c850f9f4b_o.jpg"> <img src="http://farm8.staticflickr.com/7308/12777657623_844ba79472_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3683/12777521175_778986c8f0_o.jpg"> <img src="http://farm4.staticflickr.com/3683/12777521175_b36dcce480_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7431/12777521845_439de6de0a_o.jpg"> <img src="http://farm8.staticflickr.com/7431/12777521845_bb1d082d77_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3716/12777961664_244e6d9fd8_o.jpg"> <img src="http://farm4.staticflickr.com/3716/12777961664_8a27bee35d_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3804/12777945324_73fc45af6e_o.jpg"> <img src="http://farm4.staticflickr.com/3804/12777945324_54ebbf90e5_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7297/12777647473_f4c42d6582_o.jpg"> <img src="http://farm8.staticflickr.com/7297/12777647473_38221206c8_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7434/12777601553_fcf857ce91_o.jpg"> <img src="http://farm8.staticflickr.com/7434/12777601553_5bca2b6935_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7443/12777622203_7672601d4d_o.jpg"> <img src="http://farm8.staticflickr.com/7443/12777622203_af317d91e5_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7327/12777614813_f963db0d82_o.jpg"> <img src="http://farm8.staticflickr.com/7327/12777614813_b5737c4097_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm4.staticflickr.com/3811/12777963284_da4a3d100c_o.jpg"> <img src="http://farm4.staticflickr.com/3811/12777963284_7da48c8dde_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm8.staticflickr.com/7421/12777499263_b910ebdf70_o.jpg"> <img src="http://farm8.staticflickr.com/7421/12777499263_ea596977fd_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm6.staticflickr.com/5528/12777506413_6ee6bd1967_o.jpg"> <img src="http://farm6.staticflickr.com/5528/12777506413_9306ca91bf_s.jpg" alt=""></a><a rel="facebox" class="gallery" href="http://farm3.staticflickr.com/2868/12777507553_a5dd4b6a9e_o.jpg"></a></p>
+<p> </p>
+<img src="//cdn.shopify.com/s/files/1/0123/0942/files/Pastevents_spacer.png?280">
+<p><span style="line-height: 1.2; text-align: center;">The Con Artist Collective celebrates its growing group of designers with “Beyond the Pale”, the first collective fashion show. Emerging artists from Con Artist will display original clothing creations. Our designers showcase their diversity and creativity. Imaginative couture dresses contrast street inspired wearables. Watch our gallery space turn into a runway exposition. “Beyond the Pale” coincides with New York’s famous Fashion Week. We are very proud of our new member Morgane Press, and if you would like any more information <a href="http://conartistnyc.tumblr.com/post/75517731990/meet-new-collective-member-morgane-press-shes-a">click here</a>. </span></p>
+    </div><!-- .post-content  -->
+    <div class = "return"><a href="/blogs/past-events">&lsaquo; Go back to the blog</a></div>
+</div><!-- blog-content -->
+        </div><!-- .content -->
+    </div><!-- #wrapper -->
+
+<script>
+
+</script>
+  
+<script>
+new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+  
+<script>
+$('#result-q').val('')
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58b09edc93cfd35572fd5f73/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->  
+</body>
+</html>

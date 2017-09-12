@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/pins.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-05-11T18:17:08-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/8412244613</id>
+    <published>2017-05-11T18:17:08-04:00</published>
+    <updated>2017-05-11T18:17:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-fruit-bowl-pin-by-rose"/>
+    <title>&quot;Fire Monkey&quot; pin by Ken Ballard</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/red_monkey_pin.jpg?v=1499874219" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br><br>1.5 inch enamel pin by Ken Ballard.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>con artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Fire Monkey</s:tag>
+    <s:tag>Ken Ballard</s:tag>
+    <s:tag>monkey</s:tag>
+    <s:tag>pins</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8412244613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7813500229</id>
+    <published>2017-05-11T18:17:08-04:00</published>
+    <updated>2017-05-11T18:17:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/fruit-bowl-pin-by-rose-christopher"/>
+    <title>&quot;Fruit Bowl&quot; pin by Rose</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/chrisrosepin2.jpg?v=1494541886" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br><br>1.5 inch enamel pin by Moody Rose Christopher.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bowl</s:tag>
+    <s:tag>con artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruit bowl</s:tag>
+    <s:tag>Moody Rose Christopher</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7813500229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/6979183877</id>
+    <published>2017-01-12T17:58:00-05:00</published>
+    <updated>2017-01-12T17:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/buy-buy-by-ca-h4-mell-1"/>
+    <title>Buy! Buy! by Ca$h4$mell$</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/RED_TRUCK_FINAL.jpg?v=1484261854" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span></p>
+<p>Soft enamel pin by artist Ca$h4$mell$.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pins</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/6979183877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8412441221</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-tone-by-tonetank"/>
+    <title>&quot;Play Boy Pin&quot; by Les.Nabis</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Playboy_Pin.jpg?v=1499371967" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Dean Millien</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Bunny</s:tag>
+    <s:tag>Charlie Brown</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>Les Nabis</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>Play Boy</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8412441221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8412700997</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-tone-by-tonetank-1"/>
+    <title>&quot;Bates&quot; by Greatbates</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Bates_Tag_pin.jpg?v=1499874167" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Greatbates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Bates</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>Great Bates</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8412700997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8488635013</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-bates-by-greatbates"/>
+    <title>&quot;Mickey Mutant&quot; by Wizard Skull</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Mickeymutant_large_f26cdf2f-e885-46ae-acc6-13eda838595c.jpg?v=1499797709" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Wizard Skull</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>Mickey</s:tag>
+    <s:tag>Mutant</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>Wizard Skull</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8488635013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8488650885</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-mickey-mutant-by-wizard-skull"/>
+    <title>&quot;Green Face&quot; by A Color Greene</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Green_Machine_Pin.jpg?v=1499797973" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist A Color Greene</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>A color greene</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>green face</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8488650885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/5780453445</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/tone-by-tonetank"/>
+    <title>&quot;Tone&quot; by ToneTank</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/STOREpin16.jpg?v=1465949534" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Tone Tank.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>ToneTank</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/5780453445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8489628549</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/barnold-by-wizard-skull"/>
+    <title>&quot;Barnold&quot; by Wizard Skull</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Barnold.jpg?v=1499874192" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Wizard Skull.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Barnold</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>Hey Arnold</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>Wizard</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8489628549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8489643077</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/mmm-ice-cream-by-wizard-skull"/>
+    <title>&quot;Mmm... Ice Cream&quot; By Wizard Skull</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Homer_Ice_Cream.jpg?v=1499806986" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Wizard Skull.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>Barnold</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>homer</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>The Simpsons</s:tag>
+    <s:tag>Wizard</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8489643077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8489670853</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/copy-of-mmm-ice-cream-by-wizard-skull"/>
+    <title>&quot;Sex Files&quot; By Wizard Skull</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sex_Files.jpg?v=1499876109" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Wizard Skull.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>alien</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>homer</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>Sex files</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>Wizard</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8489670853</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8489800837</id>
+    <published>2016-06-14T20:11:00-04:00</published>
+    <updated>2016-06-14T20:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/gangster-cats-by-wizard-skull"/>
+    <title>&quot;Gangster Cats&quot; by Wizard Skull</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Gangster_Cats.jpg?v=1499874262" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span><br></span></p>
+<p>Soft enamel pin by artist Wizard Skull.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$15</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>alien</s:tag>
+    <s:tag>Biggie</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>fifteen bucks</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>some more pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>Wizard</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8489800837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/5780446469</id>
+    <published>2016-06-14T20:09:00-04:00</published>
+    <updated>2016-06-14T20:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/buy-buy-by-ca-h4-mell"/>
+    <title>Buy! Buy! by Ca$h4$mell$</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/STOREpin15.jpg?v=1465949458" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span></p>
+<p><span>Soft enamel pin by artist Ca$h4$mell$.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pins</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/5780446469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/5780373509</id>
+    <published>2016-06-14T19:48:00-04:00</published>
+    <updated>2016-06-14T19:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/marzipan-physic-by-jross"/>
+    <title>&quot;Marzipan Physics&quot; by JRoss</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/STOREpin6.jpg?v=1465948477" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span></p>
+<p><span>Soft enamel pin by artist JRoss.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>con artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>JRoss</s:tag>
+    <s:tag>Marzipan Physics</s:tag>
+    <s:tag>pins</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/5780373509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/5779995077</id>
+    <published>2016-06-14T17:34:00-04:00</published>
+    <updated>2016-06-14T17:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/empire-by-daisy-rosetti"/>
+    <title>&quot;Empire&quot; by Daisy Rosetti</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/STOREpin5.jpg?v=1465940249" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span color="#ff0000" style="color: #ff0000;">BUY A PIN GET A FREE ZINE!!!</span></p>
+<p>Gold and black enamel pin by artist Daisy Rosetti</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>con artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>Daisy Rosetti</s:tag>
+    <s:tag>enamel pin</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>pins</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/5779995077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/5779844485</id>
+    <published>2016-06-14T17:08:00-04:00</published>
+    <updated>2016-06-14T17:08:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/con-artist-collective-pin"/>
+    <title>Con Artist Collective Pin</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/STOREpin1.jpg?v=1465938482" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Pin<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff0000;">$10 SPECIAL PRICE FOR A LIMITED TIME!</span></p>
+<p>Soft enamel pin featuring Con Artist Collective logo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>pinned up</s:tag>
+    <s:tag>pins</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/5779844485</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/superdollar.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-04-17T17:05:55-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/7534602821</id>
+    <published>2017-04-17T17:05:55-04:00</published>
+    <updated>2017-04-17T17:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/skam-uperdollar"/>
+    <title>Skam $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Skam_main.jpg?v=1492463225" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Skam". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7534602821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7496862149</id>
+    <published>2017-04-12T14:07:47-04:00</published>
+    <updated>2017-04-12T14:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/elizabeth-brice-heames-uperdollar"/>
+    <title>Elizabeth Brice-Heames $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/E_BH_main.jpg?v=1492020532" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Elizabeth Brice-Heames". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7496862149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475653253</id>
+    <published>2017-04-07T18:16:00-04:00</published>
+    <updated>2017-04-07T18:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/frenchy-uperdollar"/>
+    <title>Frenchy $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/frenchy_main.jpg?v=1491603444" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Frenchy".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475653253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475618565</id>
+    <published>2017-04-07T18:05:00-04:00</published>
+    <updated>2017-04-07T18:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/rage-uperdollar"/>
+    <title>Rage $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/rage_main.jpg?v=1491602779" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Folded bill artwork by "Rage".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475618565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475262341</id>
+    <published>2017-04-07T15:57:00-04:00</published>
+    <updated>2017-04-07T15:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/al-saulso-uperdollar-1"/>
+    <title>Al Saulso $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/saulso_2_main.jpg?v=1491595141" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Al Saulso".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475262341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475242757</id>
+    <published>2017-04-07T15:47:00-04:00</published>
+    <updated>2017-04-07T15:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/al-saulso-uperdollar"/>
+    <title>Al Saulso $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/salso_2_main.jpg?v=1491594578" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Al Saulso".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>superdollars</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475242757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475093957</id>
+    <published>2017-04-07T14:48:00-04:00</published>
+    <updated>2017-04-07T14:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/bernstah-uperdollar-2"/>
+    <title>Bernstah $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/bernstah_main.jpg?v=1491590975" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"Dose The President" by Bernstah.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475093957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475088581</id>
+    <published>2017-04-07T14:46:00-04:00</published>
+    <updated>2017-04-07T14:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/gazoo-to-the-moon-uperdollar-1"/>
+    <title>Gazoo To The Moon $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Gazoo_main.jpg?v=1491591252" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Gazoo To The Moon".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475088581</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475079493</id>
+    <published>2017-04-07T14:44:00-04:00</published>
+    <updated>2017-04-07T14:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/chow-mein-uperdollar-1"/>
+    <title>Chow Mein $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Chow_Mein_2_main.jpg?v=1491590705" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Chow Mein".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475079493</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7475075781</id>
+    <published>2017-04-07T14:42:00-04:00</published>
+    <updated>2017-04-07T14:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/chow-mein-uperdollar"/>
+    <title>Chow Mein $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Chow_Mein_1_main.jpg?v=1491590637" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Chow Mein".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7475075781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7444223941</id>
+    <published>2017-04-03T17:01:00-04:00</published>
+    <updated>2017-04-03T17:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/jude-lo-basso-uperdollar"/>
+    <title>Jude Lo Basso $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/jude_main.jpg?v=1491253398" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"What have we done" by Jude Lo Basso. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7444223941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7444214533</id>
+    <published>2017-04-03T16:59:00-04:00</published>
+    <updated>2017-04-03T16:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/kerry-nyc-uperdollar"/>
+    <title>Kerry NYC $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/kerry_main.jpg?v=1491253264" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"Smurf Off" by "KERRYNYC. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7444214533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7444188357</id>
+    <published>2017-04-03T16:24:00-04:00</published>
+    <updated>2017-04-03T16:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/tatu-scratcher-uperdollar"/>
+    <title>Tatu Scratcher $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/tatu_main_50.jpg?v=1491252816" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Tatu Scratcher". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7444188357</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7443925253</id>
+    <published>2017-04-03T15:35:00-04:00</published>
+    <updated>2017-04-03T15:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/originative-creations-uperdollar"/>
+    <title>Originative Creations $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Originative_Creations.jpg?v=1491248332" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Originative Creations". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7443925253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7443843525</id>
+    <published>2017-04-03T15:23:00-04:00</published>
+    <updated>2017-04-03T15:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/yai-uperdollar-2"/>
+    <title>Yai $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Yai_2_main.jpg?v=1491247500" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"The time I bought two penguins" by Yai. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7443843525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7443818501</id>
+    <published>2017-04-03T15:19:00-04:00</published>
+    <updated>2017-04-03T15:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/yai-uperdollar-1"/>
+    <title>Yai $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Yai_main_1948c0c0-e693-4b14-9ffc-86442504dca2.jpg?v=1491247255" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"Busy Winnin" by Yai. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7443818501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7443663045</id>
+    <published>2017-04-03T14:49:00-04:00</published>
+    <updated>2017-04-03T14:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/bare-bonez-uperdollar-1"/>
+    <title>Bare Bonez $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/bonez_main.jpg?v=1491245494" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Bare Bonez". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7443663045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7350405253</id>
+    <published>2017-03-22T15:16:00-04:00</published>
+    <updated>2017-03-22T15:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/snomonster-uperdollar-2"/>
+    <title>Snomonster $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sno_2.jpg?v=1490210247" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Snomonster". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7350405253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7350397701</id>
+    <published>2017-03-22T15:14:00-04:00</published>
+    <updated>2017-03-22T15:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/snomonster-uperdollar-1"/>
+    <title>Snomonster $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sno_1_main.jpg?v=1490210154" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Snomonster". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7350397701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7336619333</id>
+    <published>2017-03-20T17:26:00-04:00</published>
+    <updated>2017-03-20T17:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/jose-sanchez-uperdollar-2"/>
+    <title>Jose Sanchez $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Jose_Sanchez.jpg?v=1490045259" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Jose Sanchez". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7336619333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7336588357</id>
+    <published>2017-03-20T17:16:00-04:00</published>
+    <updated>2017-03-20T17:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/snomonster-uperdollar"/>
+    <title>Snomonster $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Sno_Monstar_main.jpg?v=1490044706" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Snomonster". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7336588357</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7336554437</id>
+    <published>2017-03-20T17:04:00-04:00</published>
+    <updated>2017-03-20T17:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/grimace-uperdollar"/>
+    <title>Grimace $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Grimace_main.jpg?v=1490046748" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"<span data-sheets-value='{"1":2,"2":"Vandalizing Currency"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":3,"12":0}'>Vandalizing Currency"</span> by "Grimace". </p>
+<p>SOLD OUT</p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7336554437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7336403717</id>
+    <published>2017-03-20T16:36:00-04:00</published>
+    <updated>2017-03-20T16:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/ashley-macias-x-yai-uperdollar"/>
+    <title>Ashley Macias X Yai $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Ashley_x_yai_main.jpg?v=1490042247" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Ashley Macias and Yai collaboration. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7336403717</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7336306885</id>
+    <published>2017-03-20T16:25:00-04:00</published>
+    <updated>2017-03-20T16:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/yai-uperdollar"/>
+    <title>Yai $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Yai_main.jpg?v=1490047357" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>"Buy My Candy Part II" by "Yai". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7336306885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/7336200709</id>
+    <published>2017-03-20T15:41:00-04:00</published>
+    <updated>2017-03-20T15:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/hoxxoh-uperdollar"/>
+    <title>Hoxxoh $uperdollar</title>
+    <s:type>Art</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Hox_main.jpg?v=1490038991" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Art<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Original artwork from the "$uperDollar" exhibition. </p>
+<p>Artwork by "Hoxxoh". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>con artist collective</s:tag>
+    <s:tag>dollar</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>money</s:tag>
+    <s:tag>Original</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/7336200709</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+</feed>

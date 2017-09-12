@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://conartistnyc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://conartistnyc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://conartistnyc.com/collections/apparel.atom"/>
+  <title>Con Artist</title>
+  <updated>2017-09-05T01:04:09-04:00</updated>
+  <author>
+    <name>Con Artist</name>
+  </author>
+  <entry>
+    <id>https://conartistnyc.com/products/8987427205</id>
+    <published>2017-09-05T01:04:09-04:00</published>
+    <updated>2017-09-05T01:04:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/tyler-kim-black-ark"/>
+    <title>Tyler Kim | Black Ark</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/tk_blackark_front_store.jpg?v=1504587836" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8987427205</id>
+      <title>Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8955962437</id>
+    <published>2017-09-05T01:03:37-04:00</published>
+    <updated>2017-09-05T01:03:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/tyler-kim"/>
+    <title>Tyler Kim | Out There</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/tk_orange_front_store.jpg?v=1504587807" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8955962437</id>
+      <title>Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956057541</id>
+    <published>2017-09-04T23:55:15-04:00</published>
+    <updated>2017-09-04T23:55:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/mallory-smith-shirt-pt-2"/>
+    <title>Mallory Smith | Spaghetti shirt</title>
+    <s:type>spaghetti shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/mallory_mustard_store.jpg?v=1504583642" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>spaghetti shirt<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956057541</id>
+      <title>Mustard / S</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956057541</id>
+      <title>Red / S</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956057541</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956084677</id>
+    <published>2017-09-03T18:11:15-04:00</published>
+    <updated>2017-09-03T18:11:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/liam-cotter-resistance-is-fertile"/>
+    <title>Liam Cotter | Shirt</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/liam-cotter_store.jpg?v=1504476668" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RESISTANCE IS FERTILE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956084677</id>
+      <title>XS</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956084677</id>
+      <title>S</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956084677</id>
+      <title>M</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956084677</id>
+      <title>L</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956084677</id>
+      <title>XL</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956077701</id>
+    <published>2017-09-03T17:00:26-04:00</published>
+    <updated>2017-09-03T17:00:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/jessie-hutt-opinionated-cat"/>
+    <title>Jessie Hutt | &quot;Opinionated Cat&quot;</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/jessie-hutt_front_store.jpg?v=1504472707" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">God Hates Cats. Hand made.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956077701</id>
+      <title>Small</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8981657861</id>
+    <published>2017-09-03T16:27:40-04:00</published>
+    <updated>2017-09-03T16:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/emily-capkanis-shorts-pt-2"/>
+    <title>Emily Capkanis | Shorts Pt. 2</title>
+    <s:type>shorts</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/emily-capkanis_02_back_store.jpg?v=1504470430" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>shorts<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8981657861</id>
+      <title>n/a</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8971403781</id>
+    <published>2017-09-02T06:19:54-04:00</published>
+    <updated>2017-09-02T06:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/boris-bernard-sweatshirt"/>
+    <title>Pullover Hoodie</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/sweatshirt_store.jpg?v=1504347602" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8971403781</id>
+      <title>L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8971348037</id>
+    <published>2017-09-02T06:18:36-04:00</published>
+    <updated>2017-09-02T06:18:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/buttsup-polyester-jacket"/>
+    <title>Buttsup | Polyester Jacket</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/butt.jpg?v=1504347522" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>gap</s:tag>
+    <s:tag>jacket</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>polyester</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8971348037</id>
+      <title>XS</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8955926341</id>
+    <published>2017-09-02T06:18:00-04:00</published>
+    <updated>2017-09-02T06:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/laura-fay-lewis"/>
+    <title>Laura Fay Lewis | Shirt</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/laura_store.jpg?v=1504347440" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>"Limbo" tee-shirts</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8955926341</id>
+      <title>Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956051717</id>
+    <published>2017-09-02T06:17:00-04:00</published>
+    <updated>2017-09-02T06:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/mallory-smith-shirt-pt-1"/>
+    <title>Mallory Smith | Shirt Pt. 1</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Mallory-Smith_01_store.jpg?v=1504347835" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956051717</id>
+      <title>Small</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956071557</id>
+    <published>2017-09-02T06:15:16-04:00</published>
+    <updated>2017-09-02T06:15:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/roycer-shirt"/>
+    <title>Roycer | Shirt</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/roycer_store.jpg?v=1504464036" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Stop Laughing Behind My Back"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956071557</id>
+      <title>Large</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956006341</id>
+    <published>2017-09-02T06:13:41-04:00</published>
+    <updated>2017-09-02T06:13:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/omer-gal-shirt-pt-1"/>
+    <title>Omer Gal | Shirt Pt. 1</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/omergal_store.jpg?v=1504347868" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956006341</id>
+      <title>Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956006341</id>
+      <title>Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8956015941</id>
+    <published>2017-09-02T06:13:00-04:00</published>
+    <updated>2017-09-02T06:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/omer-gal-shirt-pt-2"/>
+    <title>Omer Gal | Shirt Pt. 2</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/omergal_2_store.jpg?v=1504347126" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956015941</id>
+      <title>Pink</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8956015941</id>
+      <title>Dark Grey</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8962130053</id>
+    <published>2017-08-31T17:39:01-04:00</published>
+    <updated>2017-08-31T17:39:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/emily-capkanis-shorts"/>
+    <title>Emily Capkanis | shorts</title>
+    <s:type>shorts</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Emily-Capkanis_01_back_store.jpg?v=1504216050" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>shorts<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8962130053</id>
+      <title>Size : 11</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/8955227461</id>
+    <published>2017-08-31T17:33:01-04:00</published>
+    <updated>2017-08-31T17:33:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/candy-warhol"/>
+    <title>Candy Warhol | denim shirt</title>
+    <s:type>Denim Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/candy-warhol_store.jpg?v=1504347569" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>Denim Shirt<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Beware the glamour Puss!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/8955227461</id>
+      <title>Large</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://conartistnyc.com/products/82106602</id>
+    <published>2012-02-04T13:53:00-05:00</published>
+    <updated>2012-02-04T13:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://conartistnyc.com/products/anjo-bolardo-con-artist-t-shirt"/>
+    <title>Anjo Bolarda vs. Con Artist</title>
+    <s:type>T Shirt</s:type>
+    <s:vendor>Con Artist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0123/0942/products/Anjo_Bolarda_375x450.jpg?v=1328463336" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Con Artist<br>
+        <strong>Type: </strong>T Shirt<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span color="#ff0000" style="color: #ff0000;">$10 SPECIAL PRICE FOR A LIMITED TIME!<br><br></span></div>
+<div></div>
+<div>Limited edition Con Artist Tshirt designed by Philippine artist <a href="http://www.heyanjo.com/" target="_blank" rel="noopener noreferrer">Anjo Bolarda.</a> Printed on a high quality 50/50 blend of combed cotton and polyester. Available in Unisex Small, Medium and Large. We only printed 150 of these and we're never printing them again.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Con Artist</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>Original</s:tag>
+    <s:tag>Screen Printed</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://conartistnyc.com/products/82106602</id>
+      <title>Medium</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Clo-Tsh-Uni-Anj-Med</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>
